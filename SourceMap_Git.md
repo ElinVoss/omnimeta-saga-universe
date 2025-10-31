@@ -106,6 +106,17 @@ https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/3475ee932d8753
 
 ---
 
+## Novella Bibles
+
+```
+N01_Bible_The_Line_That_Holds.md
+https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/0440322545130be16b97f1c49d6f93e928ba91ad/04_Writer_Deliverables/02_Bibles/N01_Bible_The_Line_That_Holds.md
+```
+
+**Note**: N2–N30 bibles will be generated dynamically by Perplexity Space using `Bible_Generation_Instructions.md`
+
+---
+
 ## Prose Engine Prompts
 
 ```
