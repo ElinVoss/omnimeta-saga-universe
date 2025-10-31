@@ -281,23 +281,32 @@ All novellas must honor:
 - **2 interludes per novella** (800 words each)
 - **Vary placement** from previous novella (no consecutive patterns)
 - **Choose methodology**: Build-up OR Break-down (not both in same novella)
-- **Rotate god-vessels**: Ensure all four appear across Turning
+- **Rotate principle-masks**: Ensure all four Principles (Form, Wholeness, Purity, Entropy) appear across Turning
+- **INNOCENT FRAME ONLY**: Use anonymous ritual voices ("Mask of Angles," "Mask of Joining," etc.), never god-vessel names or awakening language
 
 ### Build-Up Methodology
 A-plot events before interlude setup what interlude reveals.
 
 **Example**:
-- A-plot (Ch.4): Jhace notices geometric patterns
-- Interlude 1A (after Ch.4): Xilcore's perspective shows "corrections"
-- Effect: Reader understands what Jhace witnessed
+- A-plot (Ch.4): Jhace notices geometric patterns in cityworks
+- Interlude 1A (after Ch.4): **Mask of Angles** observes corrections needed (anonymous ritual voice, no entity named)
+- Effect: Reader understands what Jhace witnessed through impersonal craft lens
 
 ### Break-Down Methodology
 Interlude explains what A-plot characters witness after.
 
 **Example**:
-- Interlude 2A (after Ch.11): Blemo's purge operations shown
+- Interlude 2A (after Ch.11): **Mask of Cleansing** shows purge operations (anonymous ritual voice, no prophecy)
 - A-plot (Ch.12): Refugees describe fires
-- Effect: Reader knows truth before Jhace
+- Effect: Reader knows truth before Jhace, but through narrow craft perspective
+
+### Innocent-Frame Interlude Guidelines
+- **Anonymous voices only**: "Mask of [Principle aspect]" (e.g., Mask of Angles, Mask of Joining, Mask of Cleansing, Mask of Release)
+- **No entity names**: Never use Xilcore, Leesa, Blemo, Seeri, or god-vessel terminology
+- **No awakening language**: Avoid "awakening," "consciousness," "vessel," "chosen"
+- **Narrow ritual lens**: Focus on craft observations, geometric corrections, system patterns
+- **No meta-awareness**: No prophecy, no orchestration hints, no foreshadowing by negation
+- **Impersonal perspective**: Treat as ritualized craft documentation, not character POV
 
 ---
 
