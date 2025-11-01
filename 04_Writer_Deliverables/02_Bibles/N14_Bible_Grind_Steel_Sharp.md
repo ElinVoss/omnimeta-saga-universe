@@ -1,15 +1,15 @@
-# [PLACEHOLDER] N15 STORY BIBLE — SIEGE AND SACRIFICE
+# [PLACEHOLDER] N14 STORY BIBLE — GRIND STEEL SHARP
 
 **Turning**: FORGE  
-**Position in Turning**: 5 of 5  
+**Position in Turning**: 4 of 5  
 **Status**: PLACEHOLDER — Bible not yet generated  
-**Generate When**: Ready to develop N15 prose
+**Generate When**: Ready to develop N14 prose
 
 ---
 
 ## GENERATION INSTRUCTIONS FOR OMNIMETA SPACE
 
-When you encounter this placeholder, you are being asked to generate the complete Story Bible for **N15: Siege and Sacrifice**.
+When you encounter this placeholder, you are being asked to generate the complete Story Bible for **N14: Siege Preparation**.
 
 ### CRITICAL PROTOCOL REMINDER
 
@@ -30,20 +30,19 @@ When you encounter this placeholder, you are being asked to generate the complet
 
 **You MUST read and maintain continuity with these completed Bibles:**
 
-- [N01_Bible_The_Line_That_Holds.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N01_Bible_The_Line_That_Holds.md)
-- [N02_Bible_Stress_and_Fracture.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N02_Bible_Stress_and_Fracture.md)
-- [N03_Bible_Poison_and_Grief.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N03_Bible_Poison_and_Grief.md)
-- [N04_Bible_Hollowing_and_Revelation.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N04_Bible_Hollowing_and_Revelation.md)
-- [N05_Bible_Fathombreak.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N05_Bible_Fathombreak.md)
-- [N06_Bible_Aftermath_and_Teaching.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N06_Bible_Aftermath_and_Teaching.md)
-- [N07_Bible_Faction_Emergence.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N07_Bible_Faction_Emergence.md)
-- [N08_Bible_Cost_and_Mortality.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N08_Bible_Cost_and_Mortality.md)
-- [N09_Bible_Loss_and_Resolve.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N09_Bible_Loss_and_Resolve.md)
-- [N10_Bible_Sabotage_and_Fracture.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N10_Bible_Sabotage_and_Fracture.md)
-- [N11_Bible_Doctrine_Wars.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N11_Bible_Doctrine_Wars.md)
-- [N12_Bible_Refugees_and_Testimony.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N12_Bible_Refugees_and_Testimony.md)
-- [N13_Bible_Escalation_and_Alliance.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N13_Bible_Escalation_and_Alliance.md)
-- [N14_Bible_Siege_Preparation.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N14_Bible_Siege_Preparation.md)
+- [N01_Bible_Grip_That_Holds.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N01_Bible_Grip_That_Holds.md)
+- [N02_Bible_Light_Cracks_Through.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N02_Bible_Light_Cracks_Through.md)
+- [N03_Bible_Alloy_Folded_Wrong.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N03_Bible_Alloy_Folded_Wrong.md)
+- [N04_Bible_Shatter_From_Heat.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N04_Bible_Shatter_From_Heat.md)
+- [N05_Bible_Steal_Breaks_Open.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N05_Bible_Steal_Breaks_Open.md)
+- [N06_Bible_Control_Spreads_Wide.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N06_Bible_Control_Spreads_Wide.md)
+- [N07_Bible_Ruins_Form_Five.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N07_Bible_Ruins_Form_Five.md)
+- [N08_Bible_Ash_and_Hunger.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N08_Bible_Ash_and_Hunger.md)
+- [N09_Bible_Coalition_Rises.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N09_Bible_Coalition_Rises.md)
+- [N10_Bible_Keeping_Each_Banner.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N10_Bible_Keeping_Each_Banner.md)
+- [N11_Bible_Fires_Burn_Out.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N11_Bible_Fires_Burn_Out.md)
+- [N12_Bible_Open_the_Anvil.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N12_Bible_Open_the_Anvil.md)
+- [N13_Bible_Reckon_with_Divine.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N13_Bible_Reckon_with_Divine.md)
 
 ### Foundation Files (Always Reference)
 
@@ -62,15 +61,15 @@ When you encounter this placeholder, you are being asked to generate the complet
 - [Dossier_God_Vessels_Innocent.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/02_Character_Dossiers/INNOCENT_FRAME/Dossier_God_Vessels_Innocent.md)
 - [Dossier_Recurring_Characters_Innocent.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/02_Character_Dossiers/INNOCENT_FRAME/Dossier_Recurring_Characters_Innocent.md)
 
-### Structural Timelines (Query for N15 Section)
+### Structural Timelines (Query for N14 Section)
 
-- [01_Progression_Timeline_Master.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/01_Progression_Timeline_Master.md) — **Read N15 section**
+- [01_Progression_Timeline_Master.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/01_Progression_Timeline_Master.md) — **Read N14 section**
 - [02_Beat_Unpredictability_System.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/02_Beat_Unpredictability_System.md)
-- [03_Character_Arc_Tracker.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/03_Character_Arc_Tracker.md) — **Read Jhace N15 arc**
-- [04_Crisis_Escalation_Map.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/04_Crisis_Escalation_Map.md) — **Read N15 crisis**
-- [05_Soulpulse_Capacity_Progression.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/05_Soulpulse_Capacity_Progression.md) — **Read N15 capacity**
-- [06_Relationship_Evolution_Timeline.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/06_Relationship_Evolution_Timeline.md) — **Read N15 relationships**
-- [07_God_Vessel_Faction_Timeline.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/07_God_Vessel_Faction_Timeline.md) — **Read N15 god-vessel activities**
+- [03_Character_Arc_Tracker.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/03_Character_Arc_Tracker.md) — **Read Jhace N14 arc**
+- [04_Crisis_Escalation_Map.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/04_Crisis_Escalation_Map.md) — **Read N14 crisis**
+- [05_Soulpulse_Capacity_Progression.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/05_Soulpulse_Capacity_Progression.md) — **Read N14 capacity**
+- [06_Relationship_Evolution_Timeline.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/06_Relationship_Evolution_Timeline.md) — **Read N14 relationships**
+- [07_God_Vessel_Faction_Timeline.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/07_God_Vessel_Faction_Timeline.md) — **Read N14 god-vessel activities**
 - [08_Interlude_Placement_Logic.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/03_Structural_Timelines/08_Interlude_Placement_Logic.md)
 
 ---
@@ -79,10 +78,10 @@ When you encounter this placeholder, you are being asked to generate the complet
 
 ### Key Events (From Timeline)
 
-**Major events that MUST occur in N15:**
-Major siege, Kylar dies defending evacuation, resistance survives but brittle
+**Major events that MUST occur in N14:**
+All factions prepare for major siege, resistance fortifies
 
-**Deaths this novella:** Kylar
+**Deaths this novella:** None
 
 ### Core Premise
 
@@ -90,35 +89,35 @@ Major siege, Kylar dies defending evacuation, resistance survives but brittle
 
 ### Character Status at Start
 
-[Query previous Bible (N14) for character states at end]
+[Query previous Bible (N13) for character states at end]
 
 ### Character Transformations This Novella
 
-[Query timeline for N15 character arcs]
+[Query timeline for N14 character arcs]
 
 ### Crisis Escalation
 
-[Query crisis escalation map for N15]
+[Query crisis escalation map for N14]
 
 ### Soulpulse Developments
 
-[Query capacity progression for N15]
+[Query capacity progression for N14]
 
 ### World State Changes
 
-[Query timeline for N15 world state]
+[Query timeline for N14 world state]
 
 ### Continuity Constraints (IMMUTABLE)
 
-[Query all previous Bibles (N01-N14) for locked facts]
+[Query all previous Bibles (N01-N13) for locked facts]
 
 ### Interlude Requirements
 
-[Query interlude placement logic for N15]
+[Query interlude placement logic for N14]
 
 ### Beat Method Constraints
 
-[Query beat unpredictability system, avoid consecutive repeats from N14]
+[Query beat unpredictability system, avoid consecutive repeats from N13]
 
 ---
 
@@ -128,9 +127,9 @@ Your completed Bible should include these sections:
 
 1. **Core Premise** (2-3 paragraphs, innocent frame only)
 2. **Tone & Style Constraints** (LAW_TEST compliance)
-3. **Worldframe** (Te'Oga state at N15)
+3. **Worldframe** (Te'Oga state at N14)
 4. **Cast** (Character profiles with innocent motives only)
-5. **Magic & Limits** (Soulpulse status at N15)
+5. **Magic & Limits** (Soulpulse status at N14)
 6. **Locations & Setpieces** (Where events occur)
 7. **Objects & Motifs** (Recurring symbols, tools, physical markers)
 8. **Chapter Cadence** (15 chapters with beat assignments)
@@ -138,7 +137,7 @@ Your completed Bible should include these sections:
 10. **Beats ↔ Scenes Map** (How beat methods map to story moments)
 11. **Forbidden Lexicon Gate** (TeOga vocabulary enforcement)
 12. **LAW_TEST Checklist** (Compliance verification)
-13. **Mission Statement** (What N15 accomplishes in the saga)
+13. **Mission Statement** (What N14 accomplishes in the saga)
 
 ---
 
@@ -146,9 +145,9 @@ Your completed Bible should include these sections:
 
 Once you have completed the Bible and the user has approved it:
 
-1. **Save the completed Bible as**: `N15_Bible_Siege_and_Sacrifice.md`
+1. **Save the completed Bible as**: `N14_Bible_Grind_Steel_Sharp.md`
 2. **Place in repository at**: `04_Writer_Deliverables/02_Bibles/`
-3. **Commit message**: `Add N15 Story Bible: Siege and Sacrifice`
+3. **Commit message**: `Add N14 Story Bible: Grind Steel Sharp`
 4. **Push to main branch**
 5. **Verify the raw GitHub link is accessible**
 6. **This placeholder file will be REPLACED by the completed Bible**
@@ -156,8 +155,8 @@ Once you have completed the Bible and the user has approved it:
 **Git Commands:**
 ```bash
 cd omnimeta-saga-universe
-git add 04_Writer_Deliverables/02_Bibles/N15_Bible_Siege_and_Sacrifice.md
-git commit -m "Add N15 Story Bible: Siege and Sacrifice"
+git add 04_Writer_Deliverables/02_Bibles/N14_Bible_Siege_Preparation.md
+git commit -m "Add N14 Story Bible: Siege Preparation"
 git push origin main
 ```
 
@@ -165,7 +164,7 @@ git push origin main
 
 ## QUALITY CHECKLIST BEFORE PUSHING
 
-- [ ] All previous Bibles (N01-N14) read and continuity maintained
+- [ ] All previous Bibles (N01-N13) read and continuity maintained
 - [ ] No guilty canon references or foreshadowing
 - [ ] No "innocent frame" or "guilty frame" terminology in Bible text
 - [ ] Events presented as organic and earned (not orchestrated)
@@ -181,8 +180,8 @@ git push origin main
 
 ---
 
-**END N15 PLACEHOLDER**
+**END N14 PLACEHOLDER**
 
-**File Location**: `omnimeta-saga-universe/04_Writer_Deliverables/02_Bibles/N15_Bible_PLACEHOLDER.md`  
+**File Location**: `omnimeta-saga-universe/04_Writer_Deliverables/02_Bibles/N14_Bible_PLACEHOLDER.md`  
 **Status**: Awaiting generation  
-**Next Step**: Generate complete N15 Bible following these instructions
+**Next Step**: Generate complete N14 Bible following these instructions

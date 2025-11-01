@@ -1,4 +1,4 @@
-# [PLACEHOLDER] N24 STORY BIBLE — PURGE AND RESISTANCE
+# [PLACEHOLDER] N24 STORY BIBLE — ASSAULT BEGINS
 
 **Turning**: CLEAR  
 **Position in Turning**: 4 of 5  
@@ -30,29 +30,29 @@ When you encounter this placeholder, you are being asked to generate the complet
 
 **You MUST read and maintain continuity with these completed Bibles:**
 
-- [N01_Bible_The_Line_That_Holds.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N01_Bible_The_Line_That_Holds.md)
-- [N02_Bible_Stress_and_Fracture.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N02_Bible_Stress_and_Fracture.md)
-- [N03_Bible_Poison_and_Grief.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N03_Bible_Poison_and_Grief.md)
-- [N04_Bible_Hollowing_and_Revelation.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N04_Bible_Hollowing_and_Revelation.md)
-- [N05_Bible_Fathombreak.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N05_Bible_Fathombreak.md)
-- [N06_Bible_Aftermath_and_Teaching.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N06_Bible_Aftermath_and_Teaching.md)
-- [N07_Bible_Faction_Emergence.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N07_Bible_Faction_Emergence.md)
-- [N08_Bible_Cost_and_Mortality.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N08_Bible_Cost_and_Mortality.md)
-- [N09_Bible_Loss_and_Resolve.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N09_Bible_Loss_and_Resolve.md)
-- [N10_Bible_Sabotage_and_Fracture.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N10_Bible_Sabotage_and_Fracture.md)
-- [N11_Bible_Doctrine_Wars.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N11_Bible_Doctrine_Wars.md)
-- [N12_Bible_Refugees_and_Testimony.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N12_Bible_Refugees_and_Testimony.md)
-- [N13_Bible_Escalation_and_Alliance.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N13_Bible_Escalation_and_Alliance.md)
-- [N14_Bible_Siege_Preparation.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N14_Bible_Siege_Preparation.md)
-- [N15_Bible_Siege_and_Sacrifice.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N15_Bible_Siege_and_Sacrifice.md)
-- [N16_Bible_Attrition_and_Hardening.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N16_Bible_Attrition_and_Hardening.md)
-- [N17_Bible_Defection_and_Intelligence.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N17_Bible_Defection_and_Intelligence.md)
-- [N18_Bible_Grinding_Wars.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N18_Bible_Grinding_Wars.md)
-- [N19_Bible_Family_and_Stakes.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N19_Bible_Family_and_Stakes.md)
-- [N20_Bible_Breaking_Point.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N20_Bible_Breaking_Point.md)
-- [N21_Bible_Corridor_Defense.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N21_Bible_Corridor_Defense.md)
-- [N22_Bible_Healers_Cost.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N22_Bible_Healers_Cost.md)
-- [N23_Bible_Witness_and_History.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N23_Bible_Witness_and_History.md)
+- [N01_Bible_Grip_That_Holds.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N01_Bible_Grip_That_Holds.md)
+- [N02_Bible_Light_Cracks_Through.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N02_Bible_Light_Cracks_Through.md)
+- [N03_Bible_Alloy_Folded_Wrong.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N03_Bible_Alloy_Folded_Wrong.md)
+- [N04_Bible_Shatter_From_Heat.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N04_Bible_Shatter_From_Heat.md)
+- [N05_Bible_Steal_Breaks_Open.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N05_Bible_Steal_Breaks_Open.md)
+- [N06_Bible_Control_Spreads_Wide.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N06_Bible_Control_Spreads_Wide.md)
+- [N07_Bible_Ruins_Form_Five.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N07_Bible_Ruins_Form_Five.md)
+- [N08_Bible_Ash_and_Hunger.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N08_Bible_Ash_and_Hunger.md)
+- [N09_Bible_Coalition_Rises.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N09_Bible_Coalition_Rises.md)
+- [N10_Bible_Keeping_Each_Banner.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N10_Bible_Keeping_Each_Banner.md)
+- [N11_Bible_Fires_Burn_Out.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N11_Bible_Fires_Burn_Out.md)
+- [N12_Bible_Open_the_Anvil.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N12_Bible_Open_the_Anvil.md)
+- [N13_Bible_Reckon_with_Divine.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N13_Bible_Reckon_with_Divine.md)
+- [N14_Bible_Grind_Steel_Sharp.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N14_Bible_Grind_Steel_Sharp.md)
+- [N15_Bible_Each_Faction_Burns.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N15_Bible_Each_Faction_Burns.md)
+- [N16_Bible_Slowly_Mend.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N16_Bible_Slowly_Mend.md)
+- [N17_Bible_Melted_Collateral.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N17_Bible_Melted_Collateral.md)
+- [N18_Bible_Embered_Defectors.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N18_Bible_Embered_Defectors.md)
+- [N19_Bible_Last_Before_Breaking.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N19_Bible_Last_Before_Breaking.md)
+- [N20_Bible_Tempering_in_Battle.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N20_Bible_Tempering_in_Battle.md)
+- [N21_Bible_Confluence_Hunted.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N21_Bible_Confluence_Hunted.md)
+- [N22_Bible_Link_the_Gods.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N22_Bible_Link_the_Gods.md)
+- [N23_Bible_Edge_All_Weapons.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N23_Bible_Edge_All_Weapons.md)
 
 ### Foundation Files (Always Reference)
 
@@ -155,9 +155,9 @@ Your completed Bible should include these sections:
 
 Once you have completed the Bible and the user has approved it:
 
-1. **Save the completed Bible as**: `N24_Bible_Purge_and_Resistance.md`
+1. **Save the completed Bible as**: `N24_Bible_Assault_Begins.md`
 2. **Place in repository at**: `04_Writer_Deliverables/02_Bibles/`
-3. **Commit message**: `Add N24 Story Bible: Purge and Resistance`
+3. **Commit message**: `Add N24 Story Bible: Assault Begins`
 4. **Push to main branch**
 5. **Verify the raw GitHub link is accessible**
 6. **This placeholder file will be REPLACED by the completed Bible**

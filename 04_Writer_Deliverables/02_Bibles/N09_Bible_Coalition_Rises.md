@@ -1,4 +1,4 @@
-# [PLACEHOLDER] N09 STORY BIBLE — LOSS AND RESOLVE
+# [PLACEHOLDER] N09 STORY BIBLE — COALITION RISES
 
 **Turning**: CRACK  
 **Position in Turning**: 4 of 5  
@@ -30,14 +30,14 @@ When you encounter this placeholder, you are being asked to generate the complet
 
 **You MUST read and maintain continuity with these completed Bibles:**
 
-- [N01_Bible_The_Line_That_Holds.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N01_Bible_The_Line_That_Holds.md)
-- [N02_Bible_Stress_and_Fracture.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N02_Bible_Stress_and_Fracture.md)
-- [N03_Bible_Poison_and_Grief.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N03_Bible_Poison_and_Grief.md)
-- [N04_Bible_Hollowing_and_Revelation.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N04_Bible_Hollowing_and_Revelation.md)
-- [N05_Bible_Fathombreak.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N05_Bible_Fathombreak.md)
-- [N06_Bible_Aftermath_and_Teaching.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N06_Bible_Aftermath_and_Teaching.md)
-- [N07_Bible_Faction_Emergence.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N07_Bible_Faction_Emergence.md)
-- [N08_Bible_Cost_and_Mortality.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N08_Bible_Cost_and_Mortality.md)
+- [N01_Bible_Grip_That_Holds.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N01_Bible_Grip_That_Holds.md)
+- [N02_Bible_Light_Cracks_Through.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N02_Bible_Light_Cracks_Through.md)
+- [N03_Bible_Alloy_Folded_Wrong.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N03_Bible_Alloy_Folded_Wrong.md)
+- [N04_Bible_Shatter_From_Heat.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N04_Bible_Shatter_From_Heat.md)
+- [N05_Bible_Steal_Breaks_Open.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N05_Bible_Steal_Breaks_Open.md)
+- [N06_Bible_Control_Spreads_Wide.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N06_Bible_Control_Spreads_Wide.md)
+- [N07_Bible_Ruins_Form_Five.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N07_Bible_Ruins_Form_Five.md)
+- [N08_Bible_Ash_and_Hunger.md](https://raw.githubusercontent.com/ElinVoss/omnimeta-saga-universe/main/04_Writer_Deliverables/02_Bibles/N08_Bible_Ash_and_Hunger.md)
 
 ### Foundation Files (Always Reference)
 
@@ -140,9 +140,9 @@ Your completed Bible should include these sections:
 
 Once you have completed the Bible and the user has approved it:
 
-1. **Save the completed Bible as**: `N09_Bible_Loss_and_Resolve.md`
+1. **Save the completed Bible as**: `N09_Bible_Coalition_Rises.md`
 2. **Place in repository at**: `04_Writer_Deliverables/02_Bibles/`
-3. **Commit message**: `Add N09 Story Bible: Loss and Resolve`
+3. **Commit message**: `Add N09 Story Bible: Coalition Rises`
 4. **Push to main branch**
 5. **Verify the raw GitHub link is accessible**
 6. **This placeholder file will be REPLACED by the completed Bible**
