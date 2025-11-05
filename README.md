@@ -1,6 +1,6 @@
 # OmniMeta Saga Universe — Perplexity Space Knowledge Base
 
-**Document Version**: 4.0 (Post-Acrostic Audit)
+**Document Version**: 4.1 (Dual-Craft Metaphor Correction)
 **Created**: November 4, 2025
 **Author**: Manus AI
 **Purpose**: Complete, audited, and optimized knowledge base for the 30-novella OmniMeta Saga. This document serves as the primary ingestion source for the Perplexity Space to ensure continuity and accurate generation of Story Bibles and prose.
@@ -10,20 +10,20 @@
 
 ## 1. OVERVIEW AND ACROSTIC STRUCTURE (IMMUTABLE CANON)
 
-This repository contains the complete foundational knowledge, character documentation, and structural timelines for the **OmniMeta Saga** — a 30-novella science-fantasy epic spanning six Turnings. The entire narrative is built upon a **hidden acrostic structure** that dictates the title of each novella and represents the central metalworking metaphor.
+This repository contains the complete foundational knowledge, character documentation, and structural timelines for the **OmniMeta Saga** — a 30-novella science-fantasy epic spanning six Turnings. The entire narrative is built upon a **hidden acrostic structure** that dictates the title of each novella and represents the central **Dual-Craft Metaphor**.
 
-### The Six Turnings (Metalworking Metaphor)
+### The Six Turnings (Dual-Craft Metaphor: Glass Crafting/Blowing and Metal Forging)
 
-The first letter of each novella title in a turning spells a word representing the metalworking process applied to the protagonist, Jhace Torrins, who is being forged as a weapon through orchestrated catastrophe.
+The saga's core theme is the collision and synthesis of two opposing crafts: the **brittle, precise art of Glass Crafting/Blowing** and the **violent, shaping force of Metal Forging**. The first letter of each novella title in a turning spells a word representing a stage in this combined process, applied to the protagonist, Jhace Torrins, who is being forged as a weapon through orchestrated catastrophe.
 
 | Turning | Novellas | Acrostic | Metaphor |
 | :--- | :--- | :--- | :--- |
-| **1. GLASS** | N01–N05 | G-L-A-S-S | Fragile, transparent, newly formed (Soulpulse awakens, world is brittle) |
-| **2. CRACK** | N06–N10 | C-R-A-C-K | Fractures spread, stress accumulates (factions form, world splinters) |
-| **3. FORGE** | N11–N15 | F-O-R-G-E | Heat and hammering, shaping through violence (god wars, Jhace forged as weapon) |
-| **4. SMELT** | N16–N20 | S-M-E-L-T | Melting down, refining through extreme heat (attrition, casualties mount) |
-| **5. CLEAR** | N21–N25 | C-L-E-A-R | Purified, transparent, ready for final use (final preparation, convergence) |
-| **6. BREAK** | N26–N30 | B-R-E-A-K | Shattering, collapse, revelation (battle royale, universe breaks, truth revealed) |
+| **1. GLASS** | N01–N05 | G-L-A-S-S | **Glass Crafting**: Fragile, transparent, newly formed (Soulpulse awakens, world is brittle). |
+| **2. CRACK** | N06–N10 | C-R-A-C-K | **Glass/Metal Collision**: Fractures spread, stress accumulates (factions form, world splinters). |
+| **3. FORGE** | N11–N15 | F-O-R-G-E | **Metal Forging**: Heat and hammering, shaping through violence (god wars, Jhace forged as weapon). |
+| **4. SMELT** | N16–N20 | S-M-E-L-T | **Metal Forging**: Melting down, refining through extreme heat (attrition, casualties mount). |
+| **5. CLEAR** | N21–N25 | C-L-E-A-R | **Glass Crafting**: Purified, transparent, ready for final use (final preparation, convergence). |
+| **6. BREAK** | N26–N30 | B-R-E-A-K | **Glass/Metal Collision**: Shattering, collapse, revelation (battle royale, universe breaks, truth revealed). |
 
 ### Audited Novella Titles (N01–N30)
 
