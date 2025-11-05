@@ -1,0 +1,9 @@
+# .pre-commit-config.yaml
+repos:
+  - repo: local
+    hooks:
+      - id: omnimeta-consistency
+        name: omnimeta-consistency
+        entry: bash .github/scripts/verify_consistency.sh
+        language: system
+        pass_filenames: false
