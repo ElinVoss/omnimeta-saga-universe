@@ -7,3 +7,10 @@ repos:
         entry: bash .github/scripts/verify_consistency.sh
         language: system
         pass_filenames: false
+  - repo: local
+    hooks:
+      - id: omnimeta-prompt-lint
+        name: omnimeta-prompt-lint
+        entry: python3 .github/scripts/lint_bible_prompts.py --json
+        language: system
+        pass_filenames: false
