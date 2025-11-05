@@ -1,436 +1,170 @@
-# OmniMeta Saga Universe — Git Repository
+# OmniMeta Saga Universe — Perplexity Space Knowledge Base
 
-**Version**: 3.0  
-**Created**: October 31, 2025  
-**Updated**: November 1, 2025  
-**Purpose**: Complete knowledge base for the 30-novella OmniMeta Saga  
-**Usage**: Foundation for generating novella-specific Story Bibles and prose  
-
----
-
-## OVERVIEW
-
-This repository contains all foundational knowledge, character documentation, and structural timelines for the **OmniMeta Saga** — a 30-novella science-fantasy epic spanning six Turnings with a hidden acrostic structure.
-
-### The Hidden Acrostic
-
-The first letter of each novella title in a turning spells a word representing the metalworking metaphor at the heart of the saga:
-
-**GLASS** (N1-N5) → **CRACK** (N6-N10) → **FORGE** (N11-N15) → **SMELT** (N16-N20) → **CLEAR** (N21-N25) → **BREAK** (N26-N30)
-
-This represents the process of forging Jhace as a weapon through orchestrated catastrophe.
+**Document Version**: 4.0 (Post-Acrostic Audit)
+**Created**: November 4, 2025
+**Author**: Manus AI
+**Purpose**: Complete, audited, and optimized knowledge base for the 30-novella OmniMeta Saga. This document serves as the primary ingestion source for the Perplexity Space to ensure continuity and accurate generation of Story Bibles and prose.
+**Protocol**: All content is structured for maximum machine readability and minimal ambiguity.
 
 ---
 
-## THE ACROSTIC STRUCTURE
+## 1. OVERVIEW AND ACROSTIC STRUCTURE (IMMUTABLE CANON)
 
-### GLASS (N1-N5) — The First Turning
-- N01: **G**rip That Holds
-- N02: **L**ight Cracks Through
-- N03: **A**lloy Folded Wrong
-- N04: **S**hatter From Heat
-- N05: **S**teal Breaks Open
+This repository contains the complete foundational knowledge, character documentation, and structural timelines for the **OmniMeta Saga** — a 30-novella science-fantasy epic spanning six Turnings. The entire narrative is built upon a **hidden acrostic structure** that dictates the title of each novella and represents the central metalworking metaphor.
 
-**Metaphor**: Fragile, transparent, newly formed (Soulpulse awakens, world is brittle)
+### The Six Turnings (Metalworking Metaphor)
 
-### CRACK (N6-N10) — The Second Turning
-- N06: **C**ontrol Spreads Wide
-- N07: **R**uins Form Five
-- N08: **A**sh and Hunger
-- N09: **C**oalition Rises
-- N10: **K**eeping Each Banner
+The first letter of each novella title in a turning spells a word representing the metalworking process applied to the protagonist, Jhace Torrins, who is being forged as a weapon through orchestrated catastrophe.
 
-**Metaphor**: Fractures spread, stress accumulates (factions form, world splinters)
+| Turning | Novellas | Acrostic | Metaphor |
+| :--- | :--- | :--- | :--- |
+| **1. GLASS** | N01–N05 | G-L-A-S-S | Fragile, transparent, newly formed (Soulpulse awakens, world is brittle) |
+| **2. CRACK** | N06–N10 | C-R-A-C-K | Fractures spread, stress accumulates (factions form, world splinters) |
+| **3. FORGE** | N11–N15 | F-O-R-G-E | Heat and hammering, shaping through violence (god wars, Jhace forged as weapon) |
+| **4. SMELT** | N16–N20 | S-M-E-L-T | Melting down, refining through extreme heat (attrition, casualties mount) |
+| **5. CLEAR** | N21–N25 | C-L-E-A-R | Purified, transparent, ready for final use (final preparation, convergence) |
+| **6. BREAK** | N26–N30 | B-R-E-A-K | Shattering, collapse, revelation (battle royale, universe breaks, truth revealed) |
 
-### FORGE (N11-N15) — The Third Turning
-- N11: **F**ires Burn Out
-- N12: **O**pen the Anvil
-- N13: **R**eckon with Divine
-- N14: **G**rind Steel Sharp
-- N15: **E**ach Faction Burns
+### Audited Novella Titles (N01–N30)
 
-**Metaphor**: Heat and hammering, shaping through violence (god wars, Jhace forged as weapon)
+The following list contains the **audited and corrected** novella titles. All Perplexity Space operations must use these titles for file naming, internal references, and prose generation.
 
-### SMELT (N16-N20) — The Fourth Turning
-- N16: **S**lowly Mend
-- N17: **M**elted Collateral
-- N18: **E**mbered Defectors
-- N19: **L**ast Before Breaking
-- N20: **T**empering in Battle
-
-**Metaphor**: Melting down, refining through extreme heat (attrition, casualties mount)
-
-### CLEAR (N21-N25) — The Fifth Turning
-- N21: **C**onfluence Hunted
-- N22: **L**ink the Gods
-- N23: **E**dge All Weapons
-- N24: **A**ssault Begins
-- N25: **R**esist and Hold
-
-**Metaphor**: Purified, transparent, ready for final use (final preparation, convergence)
-
-### BREAK (N26-N30) — The Sixth Turning
-- N26: **B**anners Split Apart
-- N27: **R**emembered Ghosts
-- N28: **E**verything Melts
-- N29: **A**sh and Quenching
-- N30: **K**eeping the Silence
-
-**Metaphor**: Shattering, collapse, revelation (battle royale, universe breaks, truth revealed)
+| Novella | Acrostic | Title |
+| :--- | :--- | :--- |
+| N01 | G | Grip That Holds |
+| N02 | L | Light Cracks Through |
+| N03 | A | Alloy Folded Wrong |
+| N04 | S | Shatter From Heat |
+| N05 | S | Steal Breaks Open |
+| N06 | C | Called From Refuge |
+| N07 | R | Resonance Awakens |
+| N08 | A | Adaptation's Cost |
+| N09 | C | Creation's Test |
+| N10 | K | Knowledge Demanded |
+| N11 | F | Forging the Sacred |
+| N12 | O | Order Sought |
+| N13 | R | Resistance Grows |
+| N14 | G | Gods Entrench |
+| N15 | E | Escalation Burns |
+| N16 | S | Separation Deepens |
+| N17 | M | Material Degradation |
+| N18 | E | Erosion's Edge |
+| N19 | L | Losses Mount |
+| N20 | T | Threshold Approached |
+| N21 | C | Convergence Rising |
+| N22 | L | Loyalty Tested |
+| N23 | E | Each Faction Stands |
+| N24 | A | Armistice Failing |
+| N25 | R | Reckoning Ready |
+| N26 | B | Breaking Point Reached |
+| N27 | R | Revelation Unfolds |
+| N28 | E | Echoes End |
+| N29 | A | Apex of Stasis |
+| N30 | K | Knowing Everything |
 
 ---
 
-## REPOSITORY STRUCTURE
+## 2. REPOSITORY STRUCTURE (PERPLEXITY SPACE MAPPING)
 
-```
-omnimeta-saga-universe/
-├── README.md                           # This file
-├── SourceMap_Git.md                    # File manifest and descriptions
-├── QUICKSTART_BIBLE_GENERATION.md      # Quick-start guide for Bible generation
-├── BIBLE_PLACEHOLDER_TEMPLATE.md       # Master template for Bible placeholders
-├── docs/
-│   ├── BIBLE_GENERATION_WORKFLOW.md    # Complete Bible generation documentation
-│   └── NEXT_CONVERSATION_INSTRUCTIONS.md
-│
-├── 01_Foundation/                      # Immutable canon and world-building
-│   ├── 01_Canon/
-│   │   └── Canon_Innocent_Master_v2_CORRECTED.md
-│   ├── 02_Magic/
-│   │   └── Soulpulse_Core_v2.md
-│   └── 03_World/
-│       ├── TeOga_Physical_Pierced_CORRECTED.md
-│       ├── Catastrophes_Escalation_v2_CORRECTED.md
-│       ├── Lexicon_Temporal_TeOga.md
-│       └── Forbidden_Modern_Terms_TeOga_Alternatives.md
-│
-├── 02_Character_Dossiers/              # Character bibles (innocent + guilty frames)
-│   ├── INNOCENT_FRAME/
-│   │   ├── Dossier_Jhace_Torrins_Innocent.md
-│   │   ├── Dossier_Tiffani_Merrow_Innocent.md
-│   │   ├── Dossier_Crew_Secondary_Innocent.md
-│   │   ├── Dossier_God_Vessels_Innocent.md
-│   │   └── Dossier_Recurring_Characters_Innocent.md
-│   └── GUILTY_FRAME/
-│       ├── Dossier_Tiffani_Merrow_Guilty.md
-│       ├── Dossier_Jhace_Torrins_Guilty.md
-│       └── Dossier_God_Vessels_Guilty.md
-│
-├── 03_Structural_Timelines/            # Progression tracking across all 30 novellas
-│   ├── 01_Progression_Timeline_Master.md
-│   ├── 02_Beat_Unpredictability_System.md
-│   ├── 03_Character_Arc_Tracker.md
-│   ├── 04_Crisis_Escalation_Map.md
-│   ├── 05_Soulpulse_Capacity_Progression.md
-│   ├── 06_Relationship_Evolution_Timeline.md
-│   ├── 07_God_Vessel_Faction_Timeline.md
-│   └── 08_Interlude_Placement_Logic.md
-│
-├── 04_Writer_Deliverables/             
-│   ├── 02_Bibles/                      # 30 Bible placeholder-prompts (self-documenting)
-│   │   ├── N01_Bible_Grip_That_Holds.md
-│   │   ├── N02_Bible_Light_Cracks_Through.md
-│   │   ├── ...
-│   │   └── N30_Bible_Keeping_the_Silence.md
-│   └── PROSE_ENGINES/
-│       └── N1_Prose_Engine_Prompt.md
-│
-└── 05_Perplexity_Space_Instructions/   # Instructions for dynamic bible/prompt generation
-    ├── Bible_Generation_Instructions.md
-    └── Prompt_Generation_Instructions.md
-```
+The repository is organized into five primary directories, each serving a specific function in the Perplexity Space's generation workflow.
+
+| Path | Purpose | Content Protocol |
+| :--- | :--- | :--- |
+| `01_Foundation/` | **Immutable World Canon**: Core, unchangeable rules for the saga. | **MUST** be ingested by all GPTs. Provides the absolute truth of the world. |
+| `02_Character_Dossiers/` | **Character Bibles**: Detailed psychological and physical profiles. | **MUST** be filtered by `INNOCENT_FRAME/` for N01-N29. `GUILTY_FRAME/` is reserved for N30 only. |
+| `03_Structural_Timelines/` | **Continuity Ledger**: Tracks all major plot beats, character states, and crisis escalation across all 30 novellas. | **MUST** be queried before generating any Bible or prose to ensure continuity. |
+| `04_Writer_Deliverables/` | **Generation Assets**: Contains the Bible files and Prose Engine prompts. | **Primary Target** for Bible generation. Placeholder files are the **prompts** themselves. |
+| `05_Perplexity_Space_Instructions/` | **Workflow Documentation**: Guides for the Perplexity Space's operational procedures. | **Reference Only**. Contains meta-instructions for the generation process. |
+
+### Detailed Directory Mapping
+
+#### `01_Foundation/` (Immutable Canon)
+
+| File/Directory | Description for Perplexity Space | Usage Protocol |
+| :--- | :--- | :--- |
+| `01_Canon/` | Contains the single source of truth for the saga's lore. | **HIGH PRIORITY INGESTION**. |
+| `Canon_Innocent_Master_v2_CORRECTED.md` | The complete, innocent-frame narrative canon. | **MANDATORY** for all generation tasks (N01-N30). |
+| `02_Magic/` | Defines the Soulpulse magic system. | **HIGH PRIORITY INGESTION**. |
+| `Soulpulse_Core_v2.md` | Detailed mechanics, principles (Wholeness, Form, Purity, Entropy), and cost (Vein-burn, Hollowing). | **MANDATORY** for all generation tasks. |
+| `03_World/` | Defines the physical world of Te'Oga and its history. | **HIGH PRIORITY INGESTION**. |
+| `TeOga_Physical_Pierced_CORRECTED.md` | Physical description of the world, including the wound from The Piercing. | **MANDATORY** for all world-building and setting descriptions. |
+| `Catastrophes_Escalation_v2_CORRECTED.md` | Timeline of major world-level crises. | **MANDATORY** for tracking crisis escalation. |
+| `Lexicon_Temporal_TeOga.md` | Approved vocabulary and terminology for the world. | **MANDATORY** for prose generation to maintain voice. |
+| `Forbidden_Modern_Terms_TeOga_Alternatives.md` | List of anachronistic terms and their approved in-world alternatives. | **MANDATORY** for prose generation to enforce language constraints. |
+
+#### `02_Character_Dossiers/` (Character Bibles)
+
+| File/Directory | Description for Perplexity Space | Usage Protocol |
+| :--- | :--- | :--- |
+| `INNOCENT_FRAME/` | Character profiles consistent with the innocent-frame narrative. | **MANDATORY** for all generation tasks (N01-N29). |
+| `Dossier_Jhace_Torrins_Innocent.md` | Protagonist's profile (competent survivor, reluctant leader). | **MANDATORY** for all generation tasks. |
+| `Dossier_Tiffani_Merrow_Innocent.md` | Tiffani's profile (mysterious partner, tragic loss). | **MANDATORY** for all generation tasks. |
+| `GUILTY_FRAME/` | Character profiles containing the orchestrated truth. | **FORBIDDEN** for N01-N29. **MANDATORY** for N30 generation only. |
+| `Dossier_Tiffani_Merrow_Guilty.md` | Tiffani's profile as the Auditor. | **N30 ONLY**. |
+
+#### `03_Structural_Timelines/` (Continuity Ledger)
+
+| File/Directory | Description for Perplexity Space | Usage Protocol |
+| :--- | :--- | :--- |
+| `01_Progression_Timeline_Master.md` | **Master Ledger**: Tracks all major plot events, character arcs, and crisis escalation across all 30 novellas. **UPDATED with corrected titles.** | **MANDATORY QUERY** before generating any Bible to ensure beat-by-beat continuity. |
+| `09_Story_Spine_Mapping_Innocent.md` | **Civic-Ledger Spine**: Tracks the immutable core events (deaths, capacity changes, world state) that cannot be retconned. **UPDATED with corrected titles.** | **MANDATORY QUERY** for all continuity checks. |
+| `02_Beat_Unpredictability_System.md` | Defines the narrative structure variation for each novella. | **MANDATORY** for prose generation to select the correct beat method. |
+| `03_Character_Arc_Tracker.md` | Detailed tracking of psychological and emotional state changes for key characters. | **MANDATORY QUERY** for character consistency. |
+| `04_Crisis_Escalation_Map.md` | Tracks the rising severity of world-level crises. | **MANDATORY QUERY** for setting the correct narrative tension. |
+
+#### `04_Writer_Deliverables/` (Generation Assets)
+
+| File/Directory | Description for Perplexity Space | Usage Protocol |
+| :--- | :--- | :--- |
+| `02_Bibles/` | Contains the 30 Story Bible files. **All files are now corrected and up-to-date.** | **PRIMARY TARGET**. Each file is a **placeholder-prompt** that must be overwritten with the completed 13-section Story Bible upon generation. |
+| `N##_Bible_TITLE.md` | The placeholder file for a specific novella. Contains the prompt, innocence protocol, and links to all previous completed Bibles. | **MANDATORY INGESTION** for the prompt. **MANDATORY OVERWRITE** upon completion. |
+| `PROSE_ENGINES/` | Contains the system prompts for the prose-writing GPTs. | **SECONDARY TARGET**. Ingested by the prose-writing GPT after the Bible is generated. |
+| `N1_Prose_Engine_Prompt.md` | The detailed system prompt for generating the N1 novella prose. **UPDATED with corrected title.** | **MANDATORY INGESTION** for N1 prose generation. |
 
 ---
 
-## BIBLE PLACEHOLDER-PROMPT SYSTEM
+## 3. BIBLE GENERATION PROTOCOL (WORKFLOW)
 
-### What Are Bible Placeholders?
+The Perplexity Space must adhere to the following workflow to maintain continuity and the integrity of the saga.
 
-Each of the 30 Bible files (`N01_Bible_Grip_That_Holds.md` through `N30_Bible_Keeping_the_Silence.md`) currently contains a **placeholder-prompt** rather than a completed Story Bible.
+### A. Progressive Linking System (Continuity Chain)
 
-**The placeholder IS the prompt.** When you open a Bible file, you'll find:
-
-1. **CAPS innocence protocol reminder** (prevents guilty canon foreshadowing)
-2. **Direct GitHub raw links** to ALL previous completed Bibles (for continuity)
-3. **Story-specific requirements** (major events, deaths, character arcs from timeline)
-4. **13-section Bible structure** to generate
-5. **Git push instructions** (how to replace placeholder with completed Bible)
-6. **Quality checklist** (verification before pushing)
-
-### Progressive Linking System
-
-Each Bible placeholder links to ALL previous completed Bibles:
+Each Bible placeholder links to **ALL** previous completed Bibles. This creates a continuity chain that ensures every new Bible is generated with full context of the entire saga up to that point.
 
 - **N01**: 0 previous links (establishes baselines)
 - **N02**: 1 previous link (N01)
-- **N03**: 2 previous links (N01, N02)
 - **N15**: 14 previous links (N01-N14)
 - **N30**: 29 previous links (N01-N29)
 
-This ensures **continuity chains** — each Bible builds on everything before it.
+### B. Innocence Protocol Enforcement
 
-### How to Generate a Bible
+The Perplexity Space **MUST** enforce the Dual-Canon Architecture:
 
-**Quick Start**:
-1. Open the Bible placeholder file (e.g., `N01_Bible_Grip_That_Holds.md`)
-2. Read the embedded prompt
-3. Follow the instructions to generate all 13 sections
-4. Overwrite the placeholder file with the completed Bible
-5. Push to GitHub using the provided Git commands
+1.  **N01–N29 Generation**: **STRICTLY** use files from `INNOCENT_FRAME/` and the innocent-frame sections of the structural timelines. The Writer GPT must operate with **ZERO** knowledge of the orchestration, Tiffani's Auditor identity, or the guilty canon.
+2.  **N30 Generation**: **ONLY** for N30, the Writer GPT must access the `GUILTY_FRAME/` dossiers and the full, guilty-frame truth from the structural timelines to execute the final **Revelation and Collapse** beat.
 
-**See**: `QUICKSTART_BIBLE_GENERATION.md` for immediate action guide  
-**See**: `docs/BIBLE_GENERATION_WORKFLOW.md` for complete documentation
+### C. Generation Steps
 
----
-
-## KEY CONCEPTS
-
-### Dual-Canon Architecture
-
-The saga operates on two narrative layers:
-
-**INNOCENT FRAME** (N1–N29):
-- What characters experience
-- Crises appear organic
-- Tiffani is genuine partner who dies in N5
-- Jhace is survivor forced into mastery
-- Gods awaken naturally during Fathombreak
-
-**GUILTY FRAME** (N30 revelation):
-- What the Auditor orchestrated
-- Crises were engineered
-- Tiffani is extradimensional observer who staged death
-- Jhace was forged as weapon
-- Gods were awakened deliberately
-
-**Writer GPTs only access INNOCENT FRAME** (except N30 GPT, which requires guilty truth).
+1.  **Select Target**: Choose the next sequential novella (e.g., N01, N02, etc.).
+2.  **Ingest Prompt**: Read the corresponding `N##_Bible_TITLE.md` placeholder file from `04_Writer_Deliverables/02_Bibles/`.
+3.  **Gather Context**: Ingest all linked previous Bibles and the mandatory files from `01_Foundation/`, `02_Character_Dossiers/INNOCENT_FRAME/`, and `03_Structural_Timelines/`.
+4.  **Generate Bible**: Produce the 13-section Story Bible based on the prompt and ingested context.
+5.  **Overwrite File**: Replace the placeholder file with the completed Story Bible.
+6.  **Commit and Push**: Commit the change with a clear message (e.g., "FEAT: Completed N01 Bible: Grip That Holds") and push to the repository.
+7.  **Prose Generation**: Use the corresponding `N##_Prose_Engine_Prompt.md` file and the newly generated Bible to configure the prose-writing GPT.
 
 ---
 
-### Beat Unpredictability System
+## 4. KEY CONCEPTS (TECHNICAL DEFINITIONS)
 
-Narrative structure varies unpredictably across all novellas:
-- 30+ beat methods in repertoire
-- No consecutive repeats
-- No rotation patterns
-- No sequence repeats
-- Readers cannot predict delivery method, only content escalation
-
----
-
-### Soulpulse Magic System
-
-**Principles**:
-- Wholeness (integration, healing, organic connection)
-- Form (geometry, structure, perfection)
-- Purity (separation, cleansing, isolation)
-- Entropy (dissolution, release, acceptance)
-
-**Jhace's Progression**:
-- N1: Wholeness (instinctive)
-- N2: Dual-principle (Wholeness + Form)
-- N5: Four-principle simultaneity (Confluence weapon)
-- N29: Fivefold stasis (all four + Confluence)
-
-**Cost**:
-- Immediate: Tremor, exhaustion
-- Cumulative: Vein-burn (visible scarring)
-- Terminal: Hollowing (neurological collapse)
+| Concept | Technical Definition | Continuity Constraint |
+| :--- | :--- | :--- |
+| **Soulpulse** | The latent vein-system activated by The Piercing, enabling the four principles of magic. | **Cost is Cumulative**: Vein-burn and Hollowing must accumulate as tracked in `03_Structural_Timelines/09_Story_Spine_Mapping_Innocent.md`. |
+| **Confluence** | Jhace's unique ability to wield all four Soulpulse principles simultaneously (Wholeness, Form, Purity, Entropy). | **Progression is Linear**: Must follow the capacity progression defined in `03_Structural_Timelines/01_Progression_Timeline_Master.md`. |
+| **Fathombreak (N05)** | The apocalyptic event where Jhace unlocks Confluence and the four God-Vessels awaken. | **Immutable Event**: Marks the transition from the GLASS turning to the CRACK turning. |
+| **God-Vessels** | Four mortals (Xilcore, Leesa, Blemo, Seeri) transformed into divine embodiments of the four Soulpulse principles. | **Faction Doctrine is Fixed**: Their motivations and actions must align with their respective principles (Form, Wholeness, Purity, Entropy). |
+| **Civic-Ledger Spine** | The core, non-negotiable facts of the narrative (deaths, major events) tracked in `09_Story_Spine_Mapping_Innocent.md`. | **NO RETCONS**: Any event marked in the spine is an absolute truth within the innocent frame. |
 
 ---
 
-### God-Vessels
-
-Four mortals transformed into divine embodiments during Fathombreak (N5):
-- **Xilcore/Corlexi** (Form) — Perfection through geometric correction
-- **Leesa/Salee** (Wholeness) — Compassion through forced integration
-- **Blemo/Mobel** (Purity) — Cleansing through purge operations
-- **Seeri/Eries** (Entropy) — Peace through acceptance of dissolution
-
-Each builds faction, spreads doctrine, escalates toward Battle Royale (N26–N29).
-
----
-
-## USAGE GUIDE
-
-### For Bible Generation (Primary Workflow)
-
-1. **Open** the Bible placeholder file for the novella you want to generate (e.g., `04_Writer_Deliverables/02_Bibles/N01_Bible_Grip_That_Holds.md`)
-2. **Read** the entire embedded prompt
-3. **Click** all GitHub raw links to fetch foundation files and previous Bibles
-4. **Generate** all 13 sections of the Story Bible following the structure
-5. **Verify** against the quality checklist (no guilty canon, continuity maintained, etc.)
-6. **Overwrite** the placeholder file with your completed Bible
-7. **Push** to GitHub using the provided Git commands
-8. **Move to next novella** (N02 will now be able to link to completed N01)
-
-**See**: `QUICKSTART_BIBLE_GENERATION.md` for step-by-step instructions
-
-### For Custom GPT Configuration
-
-1. **Receive** novella bible + prose engine prompt from Perplexity Space
-2. **Configure** Custom GPT with:
-   - System prompt = Prose engine prompt
-   - Knowledge files = Foundation files + character dossiers + novella bible
-3. **Write** prose chapter-by-chapter
-4. **Share** completed chapters back to Perplexity Space for consistency validation
-
-### For Manual Reference
-
-All files are human-readable Markdown. Query any file directly for:
-- Canon questions → `01_Foundation/01_Canon/`
-- Character status → `02_Character_Dossiers/` or `03_Structural_Timelines/03_Character_Arc_Tracker.md`
-- Plot events → `03_Structural_Timelines/01_Progression_Timeline_Master.md`
-- Crisis timeline → `03_Structural_Timelines/04_Crisis_Escalation_Map.md`
-
----
-
-## INNOCENCE PROTOCOL
-
-**Critical**: Writer GPTs must NOT access guilty-frame files (except N30).
-
-**Innocent-frame files** (safe for all Writer GPTs):
-- All `01_Foundation/` files
-- All `02_Character_Dossiers/INNOCENT_FRAME/` files
-- All `03_Structural_Timelines/` files (contain both frames but clearly labeled)
-
-**Guilty-frame files** (N30 ONLY):
-- `02_Character_Dossiers/GUILTY_FRAME/` files
-- Orchestration truth in structural timelines (clearly marked)
-
-**Enforcement**: 
-- Each Bible placeholder contains CAPS reminder about innocence protocol
-- Links only point to innocent-frame files (except N30)
-- Quality checklist verifies no guilty canon foreshadowing
-
----
-
-## CONTINUITY CONSTRAINTS
-
-All novellas must honor:
-- **Deaths are permanent** (except Tiffani's staged death in N5)
-- **Physical degradation accumulates** (Jhace's hands, Tiffani's vein-burn)
-- **Soulpulse capacity only increases** (never decreases or resets)
-- **Relationships evolve** (cannot regress without cause)
-- **World-state changes persist** (infrastructure doesn't magically repair)
-
-Track continuity via:
-- `03_Structural_Timelines/03_Character_Arc_Tracker.md` (who's alive, who's dead)
-- `03_Structural_Timelines/05_Soulpulse_Capacity_Progression.md` (Jhace's power level)
-- Previous novella bibles (immutable facts from earlier books)
-
-**The Bible placeholder system enforces this** — each placeholder links to all previous Bibles and requires reading them before generating the next one.
-
----
-
-## TURNING STRUCTURE (WITH ACROSTIC TITLES)
-
-### GLASS (N1–N5): Catastrophe → Chronic Crisis → Apocalypse
-- N1: **Grip That Holds** — The Piercing, Soulpulse awakens
-- N2: **Light Cracks Through** — Stress-riser crisis
-- N3: **Alloy Folded Wrong** — Poisoning, Bram dies
-- N4: **Shatter From Heat** — Hollowing crisis
-- N5: **Steal Breaks Open** — Fathombreak, gods awaken, Tiffani dies
-
-### CRACK (N6–N10): Rebuilding → Faction Emergence → Attrition
-- N6: **Control Spreads Wide** — Marisse appears, resistance forms
-- N7: **Ruins Form Five** — Five factions solidify
-- N8: **Ash and Hunger** — Soulpulse addiction crisis
-- N9: **Coalition Rises** — Movement organizes
-- N10: **Keeping Each Banner** — Chloen dies
-
-### FORGE (N11–N15): Ideological Wars → Siege
-- N11: **Fires Burn Out** — Soulpulse addiction worsens
-- N12: **Open the Anvil** — Training intensifies
-- N13: **Reckon with Divine** — First god battle
-- N14: **Grind Steel Sharp** — Confluence teaching
-- N15: **Each Faction Burns** — Five-way conflict, Kylar dies
-
-### SMELT (N16–N20): Grinding Attrition → Stalemate
-- N16: **Slowly Mend** — Recovery phase
-- N17: **Melted Collateral** — Casualties mount
-- N18: **Embered Defectors** — Selwin defects, allies join
-- N19: **Last Before Breaking** — Final preparation
-- N20: **Tempering in Battle** — Form vs. Balance, Jessa dies
-
-### CLEAR (N21–N25): Final Preparation → Convergence
-- N21: **Confluence Hunted** — Gods coordinate
-- N22: **Link the Gods** — Alliance forms, Rennik dies
-- N23: **Edge All Weapons** — Final preparation
-- N24: **Assault Begins** — Battle phase one
-- N25: **Resist and Hold** — Defense holds
-
-### BREAK (N26–N30): Battle Royale → Universe Collapse
-- N26: **Banners Split Apart** — Alliances break
-- N27: **Remembered Ghosts** — Memory haunting
-- N28: **Everything Melts** — Crucible warfare
-- N29: **Ash and Quenching** — Gods battle royale, fivefold stasis
-- N30: **Keeping the Silence** — Orchestration revealed, reality collapses
-
----
-
-## FILE MANIFEST SUMMARY
-
-**Total Files**: 60+  
-**Foundation Files**: 6  
-**Character Dossiers**: 8 (5 innocent, 3 guilty)  
-**Structural Timelines**: 8  
-**Bible Placeholders**: 30 (self-documenting generation prompts)  
-**Prose Engine Prompts**: 1 (N1 example)  
-**Documentation**: 4 (README, Quickstart, Workflow, Template)  
-
----
-
-## CURRENT STATUS
-
-**Foundation**: ✅ Complete (all 6 files)  
-**Character Dossiers**: ✅ Complete (all 8 files)  
-**Structural Timelines**: ✅ Complete (all 8 files)  
-**Bible Placeholders**: ✅ Complete (all 30 files with embedded prompts)  
-**Acrostic Structure**: ✅ Restored (GLASS-CRACK-FORGE-SMELT-CLEAR-BREAK)  
-**Progressive Linking**: ✅ Operational (each Bible links to all previous)  
-
-**Next Step**: Generate N01 Bible following `N01_Bible_Grip_That_Holds.md` placeholder instructions
-
----
-
-## VERSION HISTORY
-
-**v1.0** (Initial): Foundation files only  
-**v2.0** (Oct 31, 2025): Complete repository with all structural timelines and Perplexity Space instructions  
-**v3.0** (Nov 1, 2025): Bible placeholder-prompt system implemented, acrostic structure restored
-
----
-
-## QUICK LINKS
-
-**Getting Started**:
-- [Quickstart Guide](QUICKSTART_BIBLE_GENERATION.md) — Start generating Bibles immediately
-- [Bible Generation Workflow](docs/BIBLE_GENERATION_WORKFLOW.md) — Complete documentation
-
-**Bible Placeholders** (Examples):
-- [N01: Grip That Holds](04_Writer_Deliverables/02_Bibles/N01_Bible_Grip_That_Holds.md)
-- [N05: Steal Breaks Open](04_Writer_Deliverables/02_Bibles/N05_Bible_Steal_Breaks_Open.md)
-- [N30: Keeping the Silence](04_Writer_Deliverables/02_Bibles/N30_Bible_Keeping_the_Silence.md)
-
-**Foundation Files**:
-- [Canon (Innocent)](01_Foundation/01_Canon/Canon_Innocent_Master_v2_CORRECTED.md)
-- [Soulpulse Magic](01_Foundation/02_Magic/Soulpulse_Core_v2.md)
-- [Progression Timeline](03_Structural_Timelines/01_Progression_Timeline_Master.md)
-
----
-
-## CONTACT & SUPPORT
-
-For questions about this repository structure or usage:
-- Refer to `SourceMap_Git.md` for detailed file descriptions
-- Refer to `docs/NEXT_CONVERSATION_INSTRUCTIONS.md` for workflow guidance
-- Refer to `QUICKSTART_BIBLE_GENERATION.md` for immediate Bible generation
-- Refer to `docs/BIBLE_GENERATION_WORKFLOW.md` for complete documentation
-
----
-
-**END README**
-
-This repository is the complete knowledge base for the OmniMeta Saga. All 30 novellas can be generated from these files using the self-documenting Bible placeholder-prompt system.
-
-**The acrostic structure (GLASS-CRACK-FORGE-SMELT-CLEAR-BREAK) is a hidden metalworking metaphor representing the forging of Jhace as a weapon through orchestrated catastrophe.**
+**END PERPLEXITY SPACE KNOWLEDGE BASE**
