@@ -1,4 +1,4 @@
-# N01 Story Bible — The Line That Holds [INNOCENT_FRAME]
+# N01 Story Bible — Grip That Holds [INNOCENT_FRAME]
 
 ## Core Premise
 A concise, spoiler-safe premise rooted in visible costs and ritual shown, not explained.

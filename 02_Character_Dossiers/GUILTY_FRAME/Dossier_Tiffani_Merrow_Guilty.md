@@ -87,7 +87,7 @@
 2. Awaken Soulpulse (magic system)
 3. Engineer Jhace's power growth through cascading crises
 4. Forge relationship (love as fuel and constraint)
-5. Stage own death (trigger Fathombreak)
+5. Stage own death (trigger Steal Breaks Open)
 6. Orchestrate god-vessel wars (escalate to fivefold stasis)
 7. Return in N30 (reveal truth, collapse universe)
 
@@ -179,12 +179,12 @@
 
 **Guilty Truth**: The Auditor reveals precisely enough to deepen bond without exposing orchestration.
 
-### Phase 4: Fathombreak Trigger (N5)
+### Phase 4: Steal Breaks Open Trigger (N5)
 
 **Orchestrated Elements**:
 - Sanitist suppression device (Auditor engineered deployment)
 - Tiffani's staged death (calculated sacrifice to trigger maximum grief)
-- Fathombreak explosion (Jhace's grief unlocks four-principle simultaneity)
+- Steal Breaks Open explosion (Jhace's grief unlocks four-principle simultaneity)
 - God-vessel awakening (principle-energy release was engineered timing)
 
 **Innocent Interpretation**: Tiffani sacrifices self to save Jhace; his grief causes apocalypse.
@@ -266,7 +266,7 @@
 - Vein-burn detonation visible
 - No pulse, no breathing
 - Jhace witnesses death directly
-- Fathombreak is his grief-response
+- Steal Breaks Open is his grief-response
 
 ### Guilty Truth
 
@@ -277,10 +277,10 @@
 2. Constructed body appears to die (convincing to all observers)
 3. Auditor withdraws to hidden observation state (invisible, intangible)
 4. Jhace's grief is genuine (he believes she's dead)
-5. Fathombreak occurs (exactly as Auditor calculated)
+5. Steal Breaks Open occurs (exactly as Auditor calculated)
 
 **Why Stage Death?**:
-- Maximum grief triggers Fathombreak (four-principle unlock)
+- Maximum grief triggers Steal Breaks Open (four-principle unlock)
 - Removes Auditor from observable narrative (allows Jhace autonomy)
 - Creates emotional fuel for N6–N29 (grief drives all decisions)
 - Sets up N30 revelation (return proves orchestration)
@@ -347,7 +347,7 @@
 1. She is the Auditor (extradimensional observer)
 2. She sent The Piercing (engineered catastrophe)
 3. She orchestrated every crisis (N1–N29)
-4. She staged her death (triggered Fathombreak)
+4. She staged her death (triggered Steal Breaks Open)
 5. She manipulated god-vessels (faction wars were designed)
 6. She forged him as weapon (paradox capacity was goal)
 7. She loves him (this is true AND doesn't negate orchestration)

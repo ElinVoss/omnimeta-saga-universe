@@ -55,7 +55,7 @@
 
 **N2–N5**: Competent Apprentice  
 - Chloen masters velding, teaches others
-- Survives Fathombreak, traumatized but committed
+- Survives Steal Breaks Open, traumatized but committed
 
 **N6–N9**: Reliable Student → Peer  
 - Becomes one of Jhace's most trusted students

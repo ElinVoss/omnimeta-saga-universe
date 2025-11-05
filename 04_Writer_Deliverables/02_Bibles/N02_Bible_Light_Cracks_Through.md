@@ -28,7 +28,7 @@ Generate a complete Story Bible for the second 15-chapter novella. This novella 
 ### What You MUST NOT Present
 - NO foreshadowing of god-vessel transformation
 - NO hints about Tiffani orchestrating events
-- NO foreshadowing of N05 deaths or Fathombreak
+- NO foreshadowing of N05 deaths or Steal Breaks Open
 - NO faction ideology warfare (emergence only)
 - NO reference to N01-exclusive information being artificially known
 - NO meta-awareness of saga trajectory

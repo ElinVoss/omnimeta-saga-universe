@@ -143,7 +143,7 @@
 - Dual-principle Form + Wholeness craft-work demonstrated
 - Relationship deepens; Jhace trusts Tiffani fully
 
-### N4–N5: Escalation & Fathombreak Apocalypse
+### N4–N5: Escalation & Steal Breaks Open Apocalypse
 
 **Atmospheric/vein-shatter:** Baseline stable; no new natural events
 
@@ -155,7 +155,7 @@
 - First conflicts between factions (non-lethal; doctrinal)
 - Suppression craft-device deployed by Sanitist forces (attempt to stop magic-wielding)
 
-**The Fathombreak (N5 climax):**
+**The Steal Breaks Open (N5 climax):**
 - Tiffani chooses sacrifice
 - Jhace's grief triggers fivefold principle wield (impossible power state)
 - Massive energy explosion; rupture-grade 9.2 (catastrophic)
@@ -173,7 +173,7 @@
 
 ### N6: Silence & New Power
 
-**Post-Fathombreak aftermath:**
+**Post-Steal Breaks Open aftermath:**
 - One-day global silence (no communication; shock)
 - Atmospheric instability peaks; severe void-storms
 - Vein-shatter: Multiple rupture-grade 6.0–7.5 followshocks
@@ -407,7 +407,7 @@
 
 **N26–N29 casualties:** ~200,000–400,000 (warfare + infrastructure collapse + famine)
 
-### N30: Keeping the Silence
+### N30: Knowing Everything
 
 **Battle Royale continues (N30 Ch.1–5):**
 - All four Vessels vs. Jhace (fivefold paradox) confrontation
@@ -438,7 +438,7 @@
 
 | Turning | Primary Crises | Vein-Shatter | Atmospheric | God Activity | Death Toll |
 |---------|---|---|---|---|---|
-| **1: Fractured (N1–N5)** | Piercing, infrastructure collapse, poisoning, Fathombreak | High (7.8→4.5) | Severe (high wind) | Manifestation | ~100–150k |
+| **1: Fractured (N1–N5)** | Piercing, infrastructure collapse, poisoning, Steal Breaks Open | High (7.8→4.5) | Severe (high wind) | Manifestation | ~100–150k |
 | **2: Hum (N6–N10)** | Adaptation, doctrine formation, heat-grid recovery | Low (3.0–5.0) | Stabilizing | Consolidation | ~10–20k |
 | **3: Walk (N11–N15)** | Doctrine wars begin, heat-grid sabotage | Low (3.0–5.0) | Baseline | Active influence | ~5–15k |
 | **4: Unbound (N16–N20)** | Full warfare, alliance breakdown, heat grid chaos | Low (3.0–5.0) | Baseline | Unconstrained | ~80–150k |

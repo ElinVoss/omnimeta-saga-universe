@@ -316,7 +316,7 @@
 | **N1 Ch.4–15** | Turbulent; chaotic | Shift settling | Partially down | Followshocks (5.0–6.5) |
 | **N2** | Still unstable | Shift stable | Repair underway | Occasional (4.0–5.0) |
 | **N3–N4** | Gradually stabilizing | Shift stable | Stabilized; rerouted | Minor (3.0–4.0) |
-| **N5 (Fathombreak)** | Destabilized again (new crisis) | Shifted again? | Disrupted | Major event (variable) |
+| **N5 (Steal Breaks Open)** | Destabilized again (new crisis) | Shifted again? | Disrupted | Major event (variable) |
 | **N6–N10** | New stabilization | Second new baseline | Recovering | Elevated baseline |
 | **N11+** | Stable; new weather normal | Locked at new baseline | Fully integrated | Low/seasonal |
 

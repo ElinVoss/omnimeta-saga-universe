@@ -40,7 +40,7 @@ This is the **complete innocent-frame truth**—the surface narrative as experie
 - Tiffani as a mentor with mysterious past and extraordinary skill.
 - Four god-vessels awakening after The Piercing ruptures seals.
 - Crises as cascading consequences of The Piercing and god-manifestation.
-- Tiffani's death in N5 as permanent sacrifice; Fathombreak as Jhace's grief-driven apocalypse.
+- Tiffani's death in N5 as permanent sacrifice; Steal Breaks Open as Jhace's grief-driven apocalypse.
 
 **No orchestration visible.** No foreshadowing of Tiffani's true agency. **All reveals held until N30.**
 
@@ -65,7 +65,7 @@ The **innocent canon** is what all Writer-facing deliverables contain. Writers g
 The **guilty canon** is OmniMeta-only knowledge, revealing:
 - Tiffani deliberately triggered The Piercing (alien projectile).
 - She orchestrated Jhace's power growth through grief and loss.
-- She engineered her own death to activate his Fathombreak.
+- She engineered her own death to activate his Steal Breaks Open.
 - She's been alive the entire time, orchestrating the god-vessel wars.
 - N30 reveals her true nature and N30 quote locks her confession.
 
@@ -209,7 +209,7 @@ The projectile comprises:
 - God-vessels fully awaken (separate events across different cities)
 - Sanitist suppression device deployed (innocent frame: attempt to stop magic use)
 - Tiffani chooses to sacrifice herself
-- **Fathombreak:** Jhace's grief-fueled power explosion
+- **Steal Breaks Open:** Jhace's grief-fueled power explosion
 - He wields all four principles simultaneously (unprecedented, catastrophic)
 - Portion of world section breaks free and drifts into space
 - Mass casualties; gods fully manifest in mortal vessels
@@ -347,7 +347,7 @@ Each divine principle manifests through anagrammatic name-pairs, reflecting the 
 - **N1–N2:** Learns Soulpulse by accident through partnership with Tiffani; cost appears immediately (tremor, thirst)
 - **N3:** Attempts to heal poisoned victims; several die; guilt accumulates; Bram's death shatters him; griefs compounds use
 - **N4:** Obsessive overwork (addiction); Hollowing crisis; Tiffani saves him using impossible dual-principle healing; he witnesses her true power; emerges with new philosophy ("stopping is also craft")
-- **N5:** Relationship deepened; Tiffani chooses sacrifice; Jhace experiences maximum grief → Fathombreak → wields all four principles simultaneously → section of world breaks free
+- **N5:** Relationship deepened; Tiffani chooses sacrifice; Jhace experiences maximum grief → Steal Breaks Open → wields all four principles simultaneously → section of world breaks free
 
 **Hand damage progression (N1–N5, innocent frame perception):**
 - **N1 Ch.3:** 0% loss
@@ -355,14 +355,14 @@ Each divine principle manifests through anagrammatic name-pairs, reflecting the 
 - **N2 end:** 54% right, 36% left (slow recovery through Wholeness self-healing discovered by accident)
 - **N3 end:** 52% right, 34% left (improving, but Bram's death forces regression)
 - **N4:** Regresses to 62% right, 42% left (Hollowing; complete neurological shutdown; recovery uncertain)
-- **N5:** Post-Fathombreak 48% right, 28% left (new power unlocks; capacity appears to increase, but cost will be revealed later)
+- **N5:** Post-Steal Breaks Open 48% right, 28% left (new power unlocks; capacity appears to increase, but cost will be revealed later)
 
 **Emotional arc (N1–N5, innocent frame):**
 - **N1:** Isolation → Partnership; worker becomes partner
 - **N2:** Competence → Vulnerability; skills insufficient against systemic problems
 - **N3:** Grief → Witnessing; loss teaches him system is broken
 - **N4:** Addiction → Discipline; learns to stop and accept limits
-- **N5:** Love → Sacrifice → Fathombreak; personal loss triggers cosmic transformation
+- **N5:** Love → Sacrifice → Steal Breaks Open; personal loss triggers cosmic transformation
 
 ### B. Tiffani Merrow (Innocent Frame)
 
@@ -416,17 +416,17 @@ Each Turning comprises 5 novellas and represents a distinct narrative phase of e
 
 #### THE FIRST TURNING: "The Fractured Beginnings" (N1–N5)
 
-**Thematic arc:** The Piercing ruptures world (N1 Ch.3); Jhace and Tiffani's partnership forms; magic awakens through necessity; gods manifest in mortal vessels; Fathombreak apocalypse.
+**Thematic arc:** The Piercing ruptures world (N1 Ch.3); Jhace and Tiffani's partnership forms; magic awakens through necessity; gods manifest in mortal vessels; Steal Breaks Open apocalypse.
 
 - **N1:** Piercing occurs; Jhace/Tiffani meet; partnership begins
 - **N2:** Damage reveals hidden costs; partnership tested through truth
 - **N3:** Systemic corruption exposed; first major loss (Bram); Jhace hardens
 - **N4:** Hollowing crisis; Tiffani's power revealed; love deepened through acceptance of mystery
-- **N5:** Fathombreak; Tiffani's sacrifice; gods fully awaken; world section breaks free
+- **N5:** Steal Breaks Open; Tiffani's sacrifice; gods fully awaken; world section breaks free
 
 #### THE SECOND TURNING: "The World Learned To Hum" (N6–N10)
 
-**Thematic arc:** Post-Fathombreak silence; world adjusts to open sky and new resonances; gods consolidate in mortal vessels; Jhace discovers new power capacity; apprenticeships emerge as magic becomes normal.
+**Thematic arc:** Post-Steal Breaks Open silence; world adjusts to open sky and new resonances; gods consolidate in mortal vessels; Jhace discovers new power capacity; apprenticeships emerge as magic becomes normal.
 
 #### THE THIRD TURNING: "The Gods Walk" (N11–N15)
 
@@ -456,7 +456,7 @@ Each Turning comprises 5 novellas and represents a distinct narrative phase of e
 - Characters: Jhace (survivor-teacher), Tiffani (mentor-warrior), god-vessels emerging
 - Plot: Crises as material consequences of The Piercing; love as earned through vulnerability; Tiffani's death as permanent sacrifice
 - Six Turnings as narrative spine (Fractured → Hum → Walk → Unbound → Sides → War)
-- Fathombreak as Jhace's grief-powered apocalypse (innocent interpretation: accident/consequence)
+- Steal Breaks Open as Jhace's grief-powered apocalypse (innocent interpretation: accident/consequence)
 
 **Forbidden from Bibles:**
 - Auditor (except N30 epilogue reveal)
@@ -478,7 +478,7 @@ Each Turning comprises 5 novellas and represents a distinct narrative phase of e
 **Guilty truths:**
 - Tiffani sent the Piercing (alien projectile carrier)
 - She orchestrated Jhace's power growth through grief and loss
-- She engineered her own death to trigger his Fathombreak
+- She engineered her own death to trigger his Steal Breaks Open
 - She was Auditor/Observer for decades; still alive after N5
 - She orchestrated every war, every god-vessel, every tragedy
 - N30 reveals her, and Jhace wins the god-war through fivefold paradox stasis

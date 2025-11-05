@@ -42,7 +42,7 @@ The Auditor (Tiffani) identified Jhace decades before N1 as ideal candidate for 
 
 **Objective**: Transform Jhace from competent craftsman into Confluence weapon capable of:
 1. Dual-principle wielding (Wholeness + Entropy)
-2. Four-principle simultaneity (Fathombreak, N5)
+2. Four-principle simultaneity (Steal Breaks Open, N5)
 3. Fivefold paradox stasis (all four + Confluence itself, N29)
 
 **Method**: Grief-forging through cascading crises and losses
@@ -84,7 +84,7 @@ The Auditor identified Jhace based on specific psychological and circumstantial 
 
 **Weapon-forging value**: Each major loss unlocks new capacity:
 - Bram's death (N3) → Triggers Hollowing crisis (N4) → Unlocks self-healing
-- Tiffani's death (N5) → Triggers Fathombreak → Unlocks four-principle simultaneity
+- Tiffani's death (N5) → Triggers Steal Breaks Open → Unlocks four-principle simultaneity
 - Chloen's death (N9) → Reinforces teaching mission → Expands resistance network
 - Marisse's death (N8) → Accepts cost of mastery → Prepares for final sacrifice
 
@@ -136,7 +136,7 @@ The Auditor identified Jhace based on specific psychological and circumstantial 
 
 **Orchestration**: Auditor stages own death. Sanitist suppression device is engineered deployment. Tiffani's sacrifice is calculated to trigger maximum grief.
 
-**Jhace's Response**: Maximum grief. Involuntary Fathombreak. Four-principle explosion.
+**Jhace's Response**: Maximum grief. Involuntary Steal Breaks Open. Four-principle explosion.
 
 **Capacity Unlocked**: Four-principle simultaneity (Wholeness + Entropy + Form + Purity)
 
@@ -220,11 +220,11 @@ The Auditor identified Jhace based on specific psychological and circumstantial 
 
 **Transformation**: Grief-Carrier → Disciplined Practitioner
 
-### N5: Fathombreak Trigger
+### N5: Steal Breaks Open Trigger
 
 **Engineered Elements**:
 - Tiffani stages death (maximum grief trigger)
-- Fathombreak explosion (four-principle unlock)
+- Steal Breaks Open explosion (four-principle unlock)
 - God-vessels awaken (principle-energy release on schedule)
 
 **Transformation**: Disciplined Practitioner → Confluence Weapon

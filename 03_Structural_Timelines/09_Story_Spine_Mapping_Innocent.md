@@ -111,7 +111,7 @@ This document tracks the **immutable story spine** — the core events, characte
 ### N05: Steal Breaks Open
 
 **Core Spine Events**:
-- Fathombreak (apocalyptic event)
+- Steal Breaks Open (apocalyptic event)
 - Four god-vessels awaken (Xilcore, Leesa, Blemo, Seeri)
 - Jhace unlocks four-principle simultaneity (Confluence weapon)
 - Tiffani dies (staged, but treated as real until N30)
@@ -130,7 +130,7 @@ This document tracks the **immutable story spine** — the core events, characte
 - Seeri/Eries (Entropy)
 
 **World State**:
-- Fathombreak reshapes reality
+- Steal Breaks Open reshapes reality
 - Gods active and building factions
 - Soulpulse fundamentally changed
 

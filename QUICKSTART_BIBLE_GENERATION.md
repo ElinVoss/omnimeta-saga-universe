@@ -61,7 +61,7 @@ Each placeholder contains **direct GitHub raw links** to ALL previous completed 
 - Quality checklist
 
 **Action**: Tell OmniMeta Space:
-> "Generate the complete Story Bible for N01: The Line That Holds following the instructions in N01_Bible_PLACEHOLDER.md"
+> "Generate the complete Story Bible for N01: Grip That Holds following the instructions in N01_Bible_PLACEHOLDER.md"
 
 ### Step 2: Push N01 Bible to GitHub
 
@@ -70,7 +70,7 @@ Once generated and verified:
 ```bash
 cd omnimeta-saga-universe
 git add 04_Writer_Deliverables/02_Bibles/N01_Bible_The_Line_That_Holds.md
-git commit -m "Add N01 Story Bible: The Line That Holds"
+git commit -m "Add N01 Story Bible: Grip That Holds"
 git push origin main
 ```
 
@@ -87,7 +87,7 @@ git push origin main
 - Git push instructions
 
 **Action**: Tell OmniMeta Space:
-> "Generate the complete Story Bible for N02: Stress and Fracture following the instructions in N02_Bible_PLACEHOLDER.md"
+> "Generate the complete Story Bible for N02: Light Cracks Through following the instructions in N02_Bible_PLACEHOLDER.md"
 
 ### Step 4: Repeat Through N30
 
@@ -177,7 +177,7 @@ QUICKSTART_BIBLE_GENERATION.md  ← This file
 
 ### What You Say to OmniMeta Space
 
-> "I'm ready to generate the Story Bible for N03: Poison and Grief. Please read the placeholder file at `04_Writer_Deliverables/02_Bibles/N03_Bible_PLACEHOLDER.md` and follow all instructions, including reading the previous Bibles (N01, N02) for continuity."
+> "I'm ready to generate the Story Bible for N03: Alloy Folded Wrong. Please read the placeholder file at `04_Writer_Deliverables/02_Bibles/N03_Bible_PLACEHOLDER.md` and follow all instructions, including reading the previous Bibles (N01, N02) for continuity."
 
 ### What Happens
 
@@ -196,7 +196,7 @@ QUICKSTART_BIBLE_GENERATION.md  ← This file
 3. **Push to GitHub**:
    ```bash
    git add 04_Writer_Deliverables/02_Bibles/N03_Bible_Poison_and_Grief.md
-   git commit -m "Add N03 Story Bible: Poison and Grief"
+   git commit -m "Add N03 Story Bible: Alloy Folded Wrong"
    git push origin main
    ```
 
@@ -216,7 +216,7 @@ QUICKSTART_BIBLE_GENERATION.md  ← This file
 - **No continuity constraints** (everything starts here)
 - **Establishes**: Jhace's baseline state, Tiffani's baseline state, world pre-Piercing
 
-### N05: Fathombreak
+### N05: Steal Breaks Open
 
 - **Tiffani dies** (staged, but treated as real until N30)
 - **God-vessels awaken** (Xilcore, Leesa, Blemo, Seeri)
@@ -317,7 +317,7 @@ Before starting N01 generation:
 
 Tell OmniMeta Space:
 
-> "Generate the complete Story Bible for N01: The Line That Holds following the instructions in `04_Writer_Deliverables/02_Bibles/N01_Bible_PLACEHOLDER.md`. This is the first novella, so there are no previous Bibles to reference. Read all foundation files, query the N01 section of the timeline, and generate all 13 required sections. Maintain complete innocence protocol—no foreshadowing of Tiffani being the Auditor."
+> "Generate the complete Story Bible for N01: Grip That Holds following the instructions in `04_Writer_Deliverables/02_Bibles/N01_Bible_PLACEHOLDER.md`. This is the first novella, so there are no previous Bibles to reference. Read all foundation files, query the N01 section of the timeline, and generate all 13 required sections. Maintain complete innocence protocol—no foreshadowing of Tiffani being the Auditor."
 
 ---
 

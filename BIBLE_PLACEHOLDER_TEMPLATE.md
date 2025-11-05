@@ -35,7 +35,7 @@ The Bible you create should read as if this is a complete, standalone story wher
 - Crises emerge from natural infrastructure failure and political corruption
 - Tiffani is a genuine partner who dies in N5 (her death appears real)
 - Jhace's growth is earned through trauma and necessity
-- Gods awaken naturally during the Fathombreak (N5)
+- Gods awaken naturally during the Steal Breaks Open (N5)
 - Relationships develop authentically through shared struggle
 
 ---

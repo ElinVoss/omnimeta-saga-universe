@@ -71,11 +71,11 @@ Nothing about their awakening was organic:
 - **Mobel**: Rigid enforcer obsessed with purity
 - **Eries**: Melancholic philosopher accepting of endings
 
-**The Auditor positioned each in specific locations** to ensure they'd be exposed to principle-energy during Fathombreak (N5 Ch.15).
+**The Auditor positioned each in specific locations** to ensure they'd be exposed to principle-energy during Steal Breaks Open (N5 Ch.15).
 
 ### Awakening Trigger (N5 Ch.15)
 
-**Fathombreak**: Jhace's grief-explosion releases massive principle-energy (four principles simultaneously).
+**Steal Breaks Open**: Jhace's grief-explosion releases massive principle-energy (four principles simultaneously).
 
 **Auditor Calculation**: Energy floods specific zones where pre-selected vessels are positioned:
 - **Shatterholm** (Form-energy concentration) → Corlexi transforms into Xilcore
@@ -124,7 +124,7 @@ The Auditor identified him as ideal Form-vessel:
 - Obsessive nature (will not compromise or negotiate)
 - Located in Shatterholm (glasspunk city; Form-principle resonance)
 
-**Awakening**: Auditor positioned Corlexi in specific location during Fathombreak. Form-energy flooded zone. Transformation was engineered timing.
+**Awakening**: Auditor positioned Corlexi in specific location during Steal Breaks Open. Form-energy flooded zone. Transformation was engineered timing.
 
 **Post-Awakening Manipulation**:
 - Auditor reinforces geometric obsession through subtle whispers
@@ -160,7 +160,7 @@ The Auditor identified her as ideal Wholeness-vessel:
 - Empathetic nature (will lose boundaries)
 - Located in Forgeport (mid-world city; Wholeness-principle resonance)
 
-**Awakening**: Auditor positioned Salee in specific location during Fathombreak. Wholeness-energy flooded zone. Transformation was engineered timing.
+**Awakening**: Auditor positioned Salee in specific location during Steal Breaks Open. Wholeness-energy flooded zone. Transformation was engineered timing.
 
 **Post-Awakening Manipulation**:
 - Auditor reinforces compassion-as-coercion through subtle whispers
@@ -196,7 +196,7 @@ The Auditor identified him as ideal Purity-vessel:
 - Judgmental nature (will see impurity everywhere)
 - Located in Cauldron-Hold (Underface forgepunk city; Purity-principle resonance)
 
-**Awakening**: Auditor positioned Mobel in specific location during Fathombreak. Purity-energy flooded zone. Transformation was engineered timing.
+**Awakening**: Auditor positioned Mobel in specific location during Steal Breaks Open. Purity-energy flooded zone. Transformation was engineered timing.
 
 **Post-Awakening Manipulation**:
 - Auditor reinforces purity-as-genocide through subtle whispers
@@ -232,7 +232,7 @@ The Auditor identified him as ideal Entropy-vessel:
 - Accepting nature (will lose ambition and hope)
 - Located in Velocity-Heights (Outer Crown aerial city; Entropy-principle resonance)
 
-**Awakening**: Auditor positioned Eries in specific location during Fathombreak. Entropy-energy flooded zone. Transformation was engineered timing.
+**Awakening**: Auditor positioned Eries in specific location during Steal Breaks Open. Entropy-energy flooded zone. Transformation was engineered timing.
 
 **Post-Awakening Manipulation**:
 - Auditor reinforces acceptance-as-nihilism through subtle whispers

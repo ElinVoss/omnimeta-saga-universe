@@ -75,11 +75,11 @@
 
 **Tiffani's Influence**: Chloen learns velding basics from Tiffani. Admires her skill. Wants to be like her.
 
-**Fathombreak Witness** (N5 Ch.15): Chloen survives Fathombreak. Witnesses Tiffani's death and Jhace's grief-explosion. Traumatized but committed to continuing work.
+**Steal Breaks Open Witness** (N5 Ch.15): Chloen survives Steal Breaks Open. Witnesses Tiffani's death and Jhace's grief-explosion. Traumatized but committed to continuing work.
 
 #### N6–N9: Competence & Death
 
-**Post-Fathombreak**: Chloen becomes one of Jhace's most reliable students. Teaches others. Builds worker collective.
+**Post-Steal Breaks Open**: Chloen becomes one of Jhace's most reliable students. Teaches others. Builds worker collective.
 
 **Confidence**: No longer asks permission. Makes decisions independently. Jhace learns to delegate.
 
@@ -154,7 +154,7 @@
 
 **Hollowing Crisis** (N4 Ch.9): Kylar helps stabilize infrastructure while Jhace recovers. Sees cost of Jhace's overwork. Understands why he's exceptional (willingness to pay cost).
 
-**Fathombreak** (N5 Ch.15): Kylar survives. Helps with aftermath. Guilt over prior antagonism solidifies into loyalty.
+**Steal Breaks Open** (N5 Ch.15): Kylar survives. Helps with aftermath. Guilt over prior antagonism solidifies into loyalty.
 
 #### N6–N15: Alliance
 
@@ -221,7 +221,7 @@
 
 #### N6–N10: Trust Building
 
-**Post-Fathombreak**: Brighlee witnesses aftermath. Sees Jhace's grief. Begins to trust his judgment.
+**Post-Steal Breaks Open**: Brighlee witnesses aftermath. Sees Jhace's grief. Begins to trust his judgment.
 
 **Rule-Bending**: Starts expediting Jhace's permits. Warns him of Sanitist inspections. Provides information about civic decisions.
 

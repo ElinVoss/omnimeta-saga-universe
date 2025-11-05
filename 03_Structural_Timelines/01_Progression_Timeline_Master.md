@@ -134,7 +134,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 - Sanitist suppression device deployed
 - Tiffani sacrifices herself to shield Jhace (staged death)
 - Tiffani's final words: "I love you" (first explicit statement)
-- Jhace's grief triggers **Fathombreak** — involuntary four-principle explosion
+- Jhace's grief triggers **Steal Breaks Open** — involuntary four-principle explosion
 - God-vessels awaken simultaneously (Xilcore, Leesa, Blemo, Seeri)
 - Section of world breaks free from planetary body
 - Mass casualties, infrastructure devastated
@@ -149,7 +149,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 **Soulpulse Capacity:**
 - Jhace: **Four-principle simultaneity unlocked** (Wholeness, Form, Purity, Entropy) — becomes Confluence weapon
 
-**Crisis Level:** Apocalyptic (Fathombreak) → World fundamentally changed
+**Crisis Level:** Apocalyptic (Steal Breaks Open) → World fundamentally changed
 
 **Relationship Status:**
 - Jhace + Tiffani: **ENDED** (Tiffani dead)
@@ -164,7 +164,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 ### N06: Called From Refuge
 
 **Major Events:**
-- Post-Fathombreak recovery begins
+- Post-Steal Breaks Open recovery begins
 - Jhace processes Tiffani's death through teaching
 - Marisse appears (Tiffani's former teacher, continues instruction)
 - Resistance network forms organically

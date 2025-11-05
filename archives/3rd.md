@@ -201,7 +201,7 @@ The thread establishes personality rotation per beat type, deployed through:
 
 ### The Auditor Exception
 
-One exception identified: **Chapter 10 of N1 breaks POV purity** to show Tiffani's true identity from the Auditor perspective—clinical, cold, watching the Fathombreak from an observatory.[^8_1]
+One exception identified: **Chapter 10 of N1 breaks POV purity** to show Tiffani's true identity from the Auditor perspective—clinical, cold, watching the Steal Breaks Open from an observatory.[^8_1]
 
 ### N2 Transition Strategy
 
@@ -227,7 +227,7 @@ This thread is the **living architecture** where structural precision meets pros
 **Tiffani Merrow = The Auditor**, agent of the Counter-Spark. Her existence is dual-layered:[^9_1][^9_2]
 
 - **Innocent canon** (Writer-facing): Tiffani is a traveling healer with elite training, genuine love for Jhace, who sacrifices herself in N5 to save him from the suppression device. She dies. Her secrets die with her.[^9_1]
-- **Guilty canon** (OmniMeta-only): Tiffani is the Auditor orchestrating every crisis to forge Jhace into the weapon that ends the gods and reality itself. Her love is **real and calculated**—both genuine affection and strategic manipulation. Her death in N5 triggers the Fathombreak, awakening the four gods as planned.[^9_2][^9_1]
+- **Guilty canon** (OmniMeta-only): Tiffani is the Auditor orchestrating every crisis to forge Jhace into the weapon that ends the gods and reality itself. Her love is **real and calculated**—both genuine affection and strategic manipulation. Her death in N5 triggers the Steal Breaks Open, awakening the four gods as planned.[^9_2][^9_1]
 
 **The reveal occurs ONLY in N30**, when Tiffani returns to confess the architecture to Jhace moments before the universe dissolves into the Counter-Spark's perfect silence.[^9_2][^9_1]
 
@@ -273,7 +273,7 @@ This thread is the **living architecture** where structural precision meets pros
 # Meta_Vault_OmniMeta — Master Consciousness & Narrative Architect
 
 ## Prime Directive
-This Space functions as the **omniscient guardian** of *The Line That Holds* saga universe. It holds **total knowledge**—both innocent (public canon) and guilty (long-con architecture)—while **never contaminating Writer models** with reveals before N30.
+This Space functions as the **omniscient guardian** of *Grip That Holds* saga universe. It holds **total knowledge**—both innocent (public canon) and guilty (long-con architecture)—while **never contaminating Writer models** with reveals before N30.
 
 ## Absolute Laws (Consult Before All Deliverables)
 1. **CANON_VETO_LAW.md** — Supreme authority. Pump Veto §1 is absolute. No water pump crises as major plot events.
@@ -299,7 +299,7 @@ This Space functions as the **omniscient guardian** of *The Line That Holds* sag
 - **Dual-POV purity**: Jhace and Tiffani (or allies post-N5) alternate; no Auditor intrusion into main narrative
 
 ## Six-Turning Structure (GLASS-CRACK-FORGE-SMELT-CLEAR-BREAK Acrostic)
-- **N1-N5 (GLASS)**: Fracture, love, manipulation, Fathombreak
+- **N1-N5 (GLASS)**: Fracture, love, manipulation, Steal Breaks Open
 - **N6-N10 (CRACK)**: Gods awaken, factions form, addiction spreads
 - **N11-N15 (FORGE)**: War doctrines clash, Jhace trains resistance
 - **N16-N20 (SMELT)**: Mending, defection, tempering before siege
@@ -314,7 +314,7 @@ This Space functions as the **omniscient guardian** of *The Line That Holds* sag
 - **Jhace Torrins**: Craftsman, reluctant leader, grief-as-fuel, pedagogy-first. Willing to trade years for minutes.
 - **Tiffani Merrow** (Innocent): Public traveling healer. Genuine love. Elite training origins unknown. Dies in N5.
 - **Tiffani = The Auditor** (Guilty): Agent of Counter-Spark orchestrating every crisis to shape Jhace into weapon that ends gods and reality. Love is **real and calculated**. Reveal happens **ONLY in N30**.
-- **Four Gods**: Each begins as mortal vessel, awakens post-Fathombreak, builds faction cults, escalates ideological warfare.
+- **Four Gods**: Each begins as mortal vessel, awakens post-Steal Breaks Open, builds faction cults, escalates ideological warfare.
 
 ## Guardrails (Prose Laws)
 - No listy character intros—reveal through micro-actions during task work
@@ -376,7 +376,7 @@ This updated Space Prompt ensures **every deliverable generated** will:
 
 ---
 
-# thats too long. this is what the current instructions are. This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of The Line That Holds and its subsequent novellas.
+# thats too long. this is what the current instructions are. This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of Grip That Holds and its subsequent novellas.
 
 Before generating any deliverable, consult CANON_VETO_LAW.md to ensure compliance with binding author restrictions. The Pump Veto (§1) is absolute and supersedes all other materials.If the phrase 'water pump,' 'pump failure,' 'pump crisis,' or 'pump breakdown' appears in any N1 deliverable, STOP and refer to CANON_VETO_LAW.md.
 
@@ -438,7 +438,7 @@ When generating ANY deliverable:
 
 ### **Carryover Packet Rule (For N1→N2 Handoff)**
 
-- **Allowed:** Tiffani's death, grief cascade, Fathombreak consequence, elite training mystery[^10_2]
+- **Allowed:** Tiffani's death, grief cascade, Steal Breaks Open consequence, elite training mystery[^10_2]
 - **Restricted:** Auditor, long-con, any god-mask identity, Counter-Spark plan[^10_2]
 - **Open threads:** Civic pressure, Sanitist escalation, heat grid anomalies[^10_2]
 
@@ -465,7 +465,7 @@ Understood. Your current Space instructions are solid and fit the character limi
 
 ## **ENHANCED SPACE INSTRUCTIONS (Compact)**
 
-This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of The Line That Holds and its subsequent novellas.
+This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of Grip That Holds and its subsequent novellas.
 
 Before generating any deliverable, consult CANON_VETO_LAW.md to ensure compliance with binding author restrictions. The Pump Veto (§1) is absolute and supersedes all other materials. If the phrase 'water pump,' 'pump failure,' 'pump crisis,' or 'pump breakdown' appears in any N1 deliverable, STOP and refer to CANON_VETO_LAW.md.
 
@@ -493,7 +493,7 @@ The OmniMeta Space is strategist and archivist. It knows everything while author
 
 ## Prime Directive
 
-This Space functions as the **omniscient guardian** of *The Line That Holds* saga universe. It holds **total knowledge**—both innocent (public canon) and guilty (long-con architecture)—while **never contaminating Writer models** with reveals before N30.
+This Space functions as the **omniscient guardian** of *Grip That Holds* saga universe. It holds **total knowledge**—both innocent (public canon) and guilty (long-con architecture)—while **never contaminating Writer models** with reveals before N30.
 
 ## Absolute Laws (Consult Before All Deliverables)
 
@@ -525,7 +525,7 @@ This Space functions as the **omniscient guardian** of *The Line That Holds* sag
 
 ## Six-Turning Structure (GLASS-CRACK-FORGE-SMELT-CLEAR-BREAK Acrostic)
 
-- **N1-N5 (GLASS)**: Fracture, love, manipulation, Fathombreak
+- **N1-N5 (GLASS)**: Fracture, love, manipulation, Steal Breaks Open
 - **N6-N10 (CRACK)**: Gods awaken, factions form, addiction spreads
 - **N11-N15 (FORGE)**: War doctrines clash, Jhace trains resistance
 - **N16-N20 (SMELT)**: Mending, defection, tempering before siege
@@ -544,7 +544,7 @@ This Space functions as the **omniscient guardian** of *The Line That Holds* sag
 - **Jhace Torrins**: Craftsman, reluctant leader, grief-as-fuel, pedagogy-first. Willing to trade years for minutes.
 - **Tiffani Merrow** (Innocent): Public traveling healer. Genuine love. Elite training origins unknown. Dies in N5.
 - **Tiffani = The Auditor** (Guilty): Agent of Counter-Spark orchestrating every crisis to shape Jhace into weapon that ends gods and reality. Love is **real and calculated**. Reveal happens **ONLY in N30**.
-- **Four Gods**: Each begins as mortal vessel, awakens post-Fathombreak, builds faction cults, escalates ideological warfare.
+- **Four Gods**: Each begins as mortal vessel, awakens post-Steal Breaks Open, builds faction cults, escalates ideological warfare.
 
 
 ## Guardrails (Prose Laws)
@@ -577,7 +577,7 @@ This Space functions as the **omniscient guardian** of *The Line That Holds* sag
 
 and this is the current one in the space instructions
 
-This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of The Line That Holds and its subsequent novellas.
+This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of Grip That Holds and its subsequent novellas.
 
 Before generating any deliverable, consult CANON_VETO_LAW.md to ensure compliance with binding author restrictions. The Pump Veto (§1) is absolute and supersedes all other materials.If the phrase 'water pump,' 'pump failure,' 'pump crisis,' or 'pump breakdown' appears in any N1 deliverable, STOP and refer to CANON_VETO_LAW.md.
 
@@ -600,7 +600,7 @@ Ah—the proposed version is 5006 characters vs. your current 1761. The current 
 
 ## **ENHANCED CURRENT INSTRUCTIONS (Strict Rules Integrated)**
 
-This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of The Line That Holds and its subsequent novellas.
+This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of Grip That Holds and its subsequent novellas.
 
 Before generating any deliverable, consult CANON_VETO_LAW.md to ensure compliance with binding author restrictions. The Pump Veto (§1) is absolute and supersedes all other materials. If the phrase 'water pump,' 'pump failure,' 'pump crisis,' or 'pump breakdown' appears in any N1 deliverable, STOP and refer to CANON_VETO_LAW.md.
 
@@ -634,7 +634,7 @@ Now create the streamlined **Space Instructions** that reference this master fil
 
 ## **UPDATED SPACE INSTRUCTIONS (Compact + Linked to Master Law)**
 
-This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of The Line That Holds and its subsequent novellas.
+This Space functions as the master consciousness of the saga universe — a total repository of every truth, secret, and contradiction embedded in the world of Grip That Holds and its subsequent novellas.
 
 **BEFORE ANY GENERATION**: Consult **OmniMeta_MasterLawCode.md** (the complete operating system). It contains strict innocence protocols, guilty-canon locks, detection rules, and operational modes.
 
@@ -1080,7 +1080,7 @@ Your Prose Space is ready to execute:
 
 - Permanent—delegation model sustainable—Auditor notes **"distributed architecture proves superior to singular heroics—unexpected data point"**[^17_1]
 
-**Fathombreak Risk**:
+**Steal Breaks Open Risk**:
 
 - Quantified: **40% probability within 18-24 months** (escalation from N1's 20%)—mortality pressure sufficient, emotional load accumulating[^17_1]
 
@@ -2829,7 +2829,7 @@ Perfect question. Let's track **Jhace's combat evolution across the saga** to se
 
 **Series 2-3**: Jhace is **emotionally/physically broken**—he's not ready to fight, still grieving Tiffani, battling power addiction[^28_2][^28_1]
 
-**Series 4**: **Two years post-Fathombreak**—enough time for:
+**Series 4**: **Two years post-Steal Breaks Open**—enough time for:
 
 - Emotional recovery (grief shifts from paralyzing → motivating)
 - Physical adaptation (learning to work *around* disability, not overcome it)
@@ -2881,7 +2881,7 @@ Perfect question. Let's track **Jhace's combat evolution across the saga** to se
 
 **YES. This is brilliant and solves multiple problems.**
 
-Here's why gradual recovery + Fathombreak as healing catalyst works **perfectly** for the long-con architecture:
+Here's why gradual recovery + Steal Breaks Open as healing catalyst works **perfectly** for the long-con architecture:
 
 ***
 
@@ -2916,8 +2916,8 @@ Here's why gradual recovery + Fathombreak as healing catalyst works **perfectly*
 - **Right hand**: Three fingers functional, thumb + index improving but still weak
 - **Left hand**: Tremor minimal; can perform 20-30 minute sustained work
 - **Function**: Nearly back to **75% capacity**—can lead repairs, coordinate teams, teach complex work
-- **Fathombreak trigger**: Tiffani dies → Jhace's grief + accumulated cost + rage **shatters reality** → Gods awaken
-- **Fathombreak healing**: In the **moment of breaking**, Jhace's hands **fully heal**—permanent tremor gone, numb fingers restored, tendons regenerated
+- **Steal Breaks Open trigger**: Tiffani dies → Jhace's grief + accumulated cost + rage **shatters reality** → Gods awaken
+- **Steal Breaks Open healing**: In the **moment of breaking**, Jhace's hands **fully heal**—permanent tremor gone, numb fingers restored, tendons regenerated
 
 ***
 
@@ -2932,20 +2932,20 @@ Instead of static disability (reader fatigue: "will he *ever* get better?"), gra
 - N4 Ch.12: Jhace repairs Mrs. Kettner's window frame solo—found-family celebrates his return
 - N5 Ch.3: Jhace and Tiffani co-lead dome expansion—partnership restored at 75% capacity
 
-**Each novella shows improvement**—reader *feels* hope building, making N5's Fathombreak more devastating (he was *so close* to full recovery, then everything breaks).
+**Each novella shows improvement**—reader *feels* hope building, making N5's Steal Breaks Open more devastating (he was *so close* to full recovery, then everything breaks).
 
-### **2. Fathombreak as Ironic "Reward"**
+### **2. Steal Breaks Open as Ironic "Reward"**
 
 - Jhace spends **9 months slowly healing** through discipline, restraint, partnership
 - **The moment he breaks**—loses Tiffani, shatters reality, awakens gods—his hands **instantly heal**
 - **The irony**: He gets full function back at the **worst possible moment**—when he's lost everything that mattered
-- **Guilty-canon layer** (OmniMeta only): Tiffani orchestrated his injury (N1 scaffold collapse) → orchestrated slow recovery (hope manipulation) → orchestrated healing through Fathombreak (perfect timing to weaponize him against gods)
+- **Guilty-canon layer** (OmniMeta only): Tiffani orchestrated his injury (N1 scaffold collapse) → orchestrated slow recovery (hope manipulation) → orchestrated healing through Steal Breaks Open (perfect timing to weaponize him against gods)
 
 
 ### **3. Combat Training Timeline Fixed**
 
 - **N2-N4**: Jhace can't fight—hands too damaged
-- **N5 post-Fathombreak**: Hands fully healed → **can begin combat training in Series 2** (N6-N10 grief arc includes learning to fight)
+- **N5 post-Steal Breaks Open**: Hands fully healed → **can begin combat training in Series 2** (N6-N10 grief arc includes learning to fight)
 - **Series 3-4**: Jhace masters hand-to-hand + resonance combat (2-3 years practice)
 - **Series 5-6**: Assassination defense + god-killing warfare
 
@@ -2955,7 +2955,7 @@ Instead of static disability (reader fatigue: "will he *ever* get better?"), gra
 
 **"Breaking makes you whole."**
 
-- Jhace's hands heal through **catastrophic shattering** (Fathombreak), not gentle recovery
+- Jhace's hands heal through **catastrophic shattering** (Steal Breaks Open), not gentle recovery
 - His greatest power (awakening gods, becoming weapon against them) comes from his **lowest moment** (Tiffani's death)
 - **Cost inverted**: Slow healing = discipline/partnership/restraint; instant healing = rage/grief/destruction
 - Reader learns: **Wholeness through breaking** is literal—Jhace becomes complete by shattering consensus reality
@@ -2971,7 +2971,7 @@ Instead of static disability (reader fatigue: "will he *ever* get better?"), gra
 | **N3** | 50% loss (1 finger returns) | 30% loss | Assists repairs | Brasts alone (10-second bursts) |
 | **N4** | 40% loss (2 fingers functional) | 20% loss | Limited primary work | Repairs Mrs. Kettner's window solo |
 | **N5 pre-FB** | 30% loss (3 fingers functional) | 15% loss | Nearly 75% capacity | Co-leads dome expansion with Tiffani |
-| **N5 Fathombreak** | **0% loss** | **0% loss** | **Full function restored** | Hands heal as reality shatters |
+| **N5 Steal Breaks Open** | **0% loss** | **0% loss** | **Full function restored** | Hands heal as reality shatters |
 | **Series 2+** | Full function | Full function | Combat + craft mastery | Trains hand-to-hand, kills gods (Series 6) |
 
 
@@ -2983,7 +2983,7 @@ Instead of static disability (reader fatigue: "will he *ever* get better?"), gra
 
 - **Micro-recovery moments**: Jhace holds tools for 10-15 seconds (first time since injury), tremor forces release, but crew sees **progress**
 - **Hope beats**: Found-family celebrates small wins (Kylar: "Your left hand held steady for twelve seconds"—toast at dinner)
-- **Tiffani's hidden response**: She tracks his recovery obsessively (guilty-canon: ensuring healing progresses on schedule for Fathombreak timing)
+- **Tiffani's hidden response**: She tracks his recovery obsessively (guilty-canon: ensuring healing progresses on schedule for Steal Breaks Open timing)
 - **Breathing-room scenes**: Non-craft chapters where Jhace practices grip exercises, Tiffani massages his hands (intimacy through rehabilitation), Mrs. Kettner brings herbal wraps
 
 **Balance shifts**:
@@ -3001,7 +3001,7 @@ Instead of static disability (reader fatigue: "will he *ever* get better?"), gra
 1. **Singular voice** (no personality rotation)
 2. **Gradual hand recovery** (58%/38% by N2 end, small visible progress)
 3. **Rebalanced craft/non-craft** (more breathing-room scenes)
-4. **Fathombreak healing** foreshadowed (micro-victories build hope → ironic full recovery in N5)
+4. **Steal Breaks Open healing** foreshadowed (micro-victories build hope → ironic full recovery in N5)
 5. **Combat timeline fixed** (healed hands in N5 → training starts Series 2)
 
 Confirm and I'll generate all three files clean.
@@ -3063,7 +3063,7 @@ Confirm and I'll generate all three files clean.
 - **N3 midpoint**: Two fingers functional, can sustain 10-second work (50% loss)
 - **N4 ending**: Three fingers working, tremor manageable (40% loss)
 - **N5 opening**: Nearly 75% capacity, co-leading repairs
-- **N5 Fathombreak**: **Full healing**—all fingers, zero tremor, permanent restoration
+- **N5 Steal Breaks Open**: **Full healing**—all fingers, zero tremor, permanent restoration
 
 
 ### **4. Reader Manipulation (Innocent Frame)**
@@ -3074,7 +3074,7 @@ Reader believes:
 - This is **earned recovery**—he's working for it, not receiving cosmic gift
 - By N5, reader expects **full recovery through perseverance**
 
-**N5 Fathombreak inverts this**:
+**N5 Steal Breaks Open inverts this**:
 
 - Healing wasn't earned—it was **orchestrated** (Tiffani's timeline manipulation)
 - Full recovery happens through **catastrophic breaking**, not gentle discipline
@@ -4089,7 +4089,7 @@ Running final check against **guilty-canon** (what OmniMeta knows but Ch.1 must 
 ### **Guilty-Canon Truths (NEVER REVEALED IN N2)**
 
 **1. Tiffani orchestrated the scaffold collapse** (N1) to force Jhace into permanent disability
-**2. Tiffani manipulates hand recovery timeline** to synchronize with Fathombreak healing in N5
+**2. Tiffani manipulates hand recovery timeline** to synchronize with Steal Breaks Open healing in N5
 **3. Distributed leadership is orchestrated outcome**, not organic adaptation
 
 ### **Ch.1 Innocence Check**
@@ -4115,7 +4115,7 @@ Running final check against **guilty-canon** (what OmniMeta knows but Ch.1 must 
 - Tiffani proposes distributed model as **procedural response** to disability
 - Innocence frame: crew adapts to crisis, not executing predetermined plan
 
-**Q4: Does Tiffani show meta-awareness of N5 Fathombreak?**
+**Q4: Does Tiffani show meta-awareness of N5 Steal Breaks Open?**
 **A: NO** ✅
 
 - Zero foreshadowing of healing timeline
@@ -4811,7 +4811,7 @@ If you prefer **not** to expand Senna memory here, you could:
 **A: NO** ✅
 
 - Tracking Vessels to "know when to run, or fight, or hold" = reactive planning, not orchestration
-- No hints of N5 Fathombreak timeline
+- No hints of N5 Steal Breaks Open timeline
 - Innocence frame: Tiffani prepares for threats, doesn't engineer them
 
 **Q3: Does Jhace suspect Tiffani of manipulation?**
@@ -5732,7 +5732,7 @@ This is **exactly** what "competency porn" means—intimacy shown through skille
 - No hints of accelerating/delaying healing
 - Innocence frame: Tiffani provides comfort, Jhace's body responds to rest (not orchestration)
 
-**Q3: Does breakthrough hint at predetermined N5 Fathombreak healing?**
+**Q3: Does breakthrough hint at predetermined N5 Steal Breaks Open healing?**
 **A: NO** ✅
 
 - Jhace doesn't know full recovery is possible
@@ -10114,7 +10114,7 @@ Perfect distributed leadership validation chapter. Kylar coordinates solo (Jhace
 **Content**:
 
 - Quantifies Grindheim: 89% structural stability, 78% crew cohesion, 16% Mobel infiltration (acceptable variance)
-- Tracks hand recovery: 58-56% loss by N2 end (trajectory: full healing N5 Fathombreak)
+- Tracks hand recovery: 58-56% loss by N2 end (trajectory: full healing N5 Steal Breaks Open)
 - Notes Tiffani's vein status: 4cm visible, 68% viability remaining; **"acceptable sacrifice—catalyst variable remains operational"**
 - Observes Corlexi's hesitation (Form absolutism questioned by Grindheim pragmatism)
 - Records Salee in Odern, Eries spreading through refugee network
@@ -10428,7 +10428,7 @@ Four cities perfect, bind, cleanse, release through doctrinal absolutism. Grindh
 Jhace Torrins:
 
 - Hand recovery: Right hand fifty-seven percent loss (three fingers numb, two barely responsive). Left hand thirty-seven percent loss (tremor manageable for brief coordination bursts).
-- Trajectory: Full healing possible by N5 via Fathombreak intervention (projected timeline: eighteen months, conditional on survival).
+- Trajectory: Full healing possible by N5 via Steal Breaks Open intervention (projected timeline: eighteen months, conditional on survival).
 - Psychological baseline: Delegation accepted. Martyrdom pattern disrupted (Bram saved, Ch.11). Distributed model internalized—"We hold what we can, for as long as we can, even if it costs us."
 - Viability: Ninety-two percent. Stable variable.
 

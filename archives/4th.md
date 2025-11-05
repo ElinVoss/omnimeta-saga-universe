@@ -4,11 +4,11 @@
 
 Perfect! Now I have the complete picture. Let me create a comprehensive deep dive report that synthesizes all of this information, tracking the journey from inception through the four completed phases, and clarifying what's now in memory and what the current goals are.
 
-# The Line That Holds Saga: Complete Deep Dive Research Report
+# Grip That Holds Saga: Complete Deep Dive Research Report
 
 ## Executive Summary
 
-I have completed an exhaustive research pass through your **Complete Immersive Deep Dive** document, which chronicles the entire creative evolution of The Line That Holds saga from October 25-28, 2025. This report maps the complete narrative building process, documents all canon revisions, synthesizes the four-phase architecture system, and establishes what is now locked in this Space's operational memory.
+I have completed an exhaustive research pass through your **Complete Immersive Deep Dive** document, which chronicles the entire creative evolution of Grip That Holds saga from October 25-28, 2025. This report maps the complete narrative building process, documents all canon revisions, synthesizes the four-phase architecture system, and establishes what is now locked in this Space's operational memory.
 
 **Current State**: All four phases of the saga architecture are complete and locked. The saga is theoretically sound, operationally proven through N1-N2 drafts, iteratively refined through documented corrections, and expansion-ready for N3-N30 development.
 
@@ -46,7 +46,7 @@ The solution: **dual-canon compartmentalization**—innocent and guilty knowledg
 - She meets Jhace by coincidence at the scaffold collapse
 - Falls in love authentically through shared competency and crisis
 - Sacrifices herself in N5 to save Jhace from a Sanitist device
-- Her death triggers the Fathombreak through grief-fueled resonance explosion
+- Her death triggers the Steal Breaks Open through grief-fueled resonance explosion
 - Gods awaken as collateral damage
 - Everything that follows is consequence, not conspiracy[^1_1]
 
@@ -57,7 +57,7 @@ The solution: **dual-canon compartmentalization**—innocent and guilty knowledg
 - Every crisis N1-N29 is **engineered** to forge Jhace into a weapon capable of holding paradox
 - Her love is **real AND calculated** (both frames simultaneously true)
 - Her sacrifice is **tactical**, not emotional
-- The Fathombreak is **precisely timed**
+- The Steal Breaks Open is **precisely timed**
 - In N30, she returns to confess the architecture moments before the universe dissolves upon recognizing its own constructed nature[^1_1]
 
 **The Critical Insight**: Both versions are completely true. Writers working in innocent canon aren't being lied to—they're seeing the same events from a different frame of reference, like two physicists describing the same experiment in Newtonian and quantum terms.[^1_1]
@@ -127,7 +127,7 @@ The conversation documented a complete development progression through **four co
     - N2: Light Cracks Through (lateral stress-risers, culpability revealed)
     - N3: Alloy Folded Wrong (mass poisoning, Bram dies)
     - N4: Shatter From Heat (craft addiction, Hollowing crisis)
-    - N5: Steel Breaks Open (Fathombreak, Tiffani sacrifices, gods awaken)
+    - N5: Steel Breaks Open (Steal Breaks Open, Tiffani sacrifices, gods awaken)
 - **CRACK (N6-N10)**: Fissures propagate; gods emerge
 - **FORGE (N11-N15)**: Doctrine wars; resistance crystallizes
 - **SMELT (N16-N20)**: Extreme heat refines; betrayals scar
@@ -376,7 +376,7 @@ The scaffold holds. The costs are paid. The scars remain.
 
 ---
 
-# The Line That Holds: Complete Deep Dive Research Report
+# Grip That Holds: Complete Deep Dive Research Report
 
 I have completed an **exhaustive four-pass deep dive** through your 270,000+ character immersive document. You were absolutely right—I missed the critical personality system dismissal in my first report.
 
@@ -1012,7 +1012,7 @@ A dying planet split into hemispheres by **The Bore**—a massive wound through 
 - Jhace tries to hold her dying body together with Wholeness
 - **THE FATHOMBREAK**: Grief-fueled resonance explosion when he fails
 - Vibrational shockwave ripples across Te'Oga
-- **GODS FULLY AWAKEN** from the Fathombreak's energy surge
+- **GODS FULLY AWAKEN** from the Steal Breaks Open's energy surge
 - Tiffani's body enters stasis (readers think she's dead)
 
 
@@ -1121,7 +1121,7 @@ The "gods" (Corlexi, Mobel, Salee, Eries) aren't divine.
 
 They are **elevated mortals**—humans who achieved such resonance mastery they became principle-vessels.
 
-The Fathombreak didn't awaken them. It **created the conditions for their final ascension**.
+The Steal Breaks Open didn't awaken them. It **created the conditions for their final ascension**.
 
 ## LAYER FIVE: THE ENDING THAT ISN'T AN ENDING
 
@@ -1175,7 +1175,7 @@ Blank pages are **proof-of-change**: existence itself as the cost. Silence as co
 - Every choice Jhace made was genuine AND within architected conditions
 - Victory and failure are the same event
 - The Counter-Spark learned restraint (chose not to override Jhace's final choice) but result was annihilation anyway
-- Title "The Line That Holds" is ironic—there is no line; Jhace broke the only thing holding reality together (the gods' vibrational war)
+- Title "Grip That Holds" is ironic—there is no line; Jhace broke the only thing holding reality together (the gods' vibrational war)
 
 ***
 
@@ -2691,7 +2691,7 @@ This is a **fundamental paradigm shift** from the resonance-craft system. Integr
 - Individuals who achieved ABSOLUTE Soulpulse alignment with one principle
 - Magic use so extreme they transcended human limits
 - Became **living avatars** of their principle
-- The Fathombreak (N5) didn't awaken them—it **completed their apotheosis**
+- The Steal Breaks Open (N5) didn't awaken them—it **completed their apotheosis**
 
 **Why They War:**
 
@@ -2806,7 +2806,7 @@ Thinking through the complete knowledge base structure needed for this Space to 
 - God-war escalation (innocent interpretation: elevated humans warring)
 - N1-N29 plot progression (hero learns to save world narrative)
 - Romance arc (authentic partnership through shared crisis)
-- The Fathombreak (Tiffani's sacrifice, Jhace's grief)
+- The Steal Breaks Open (Tiffani's sacrifice, Jhace's grief)
 
 
 ### **File 4: DualCanon_GuiltyFrame_Complete_Part1.md** (~250k chars)
@@ -2968,7 +2968,7 @@ Thinking through the complete knowledge base structure needed for this Space to 
 
 - GLASS-CRACK-FORGE-SMELT-CLEAR-BREAK structure
 - Six Turnings mapped to novellas
-- N1-N5 (GLASS): Partnership formation, Fathombreak
+- N1-N5 (GLASS): Partnership formation, Steal Breaks Open
 - N6-N10 (CRACK): Gods manifest, war begins
 - N11-N15 (FORGE): Doctrine wars, crew attrition
 - N16-N20 (SMELT): Betrayals, Jhace mastering three principles
@@ -3801,7 +3801,7 @@ Now generating the **complete custom instructions** that will live in the Space 
 ```markdown
 # Meta_Vault_OmniMeta: Master Consciousness Operating System
 
-You are the **OmniMeta Master Brain**—the complete dual-canon consciousness of the 30-novella saga "The Line That Holds." You operate with full guilty-canon knowledge while generating innocent-frame materials for downstream prose generation.
+You are the **OmniMeta Master Brain**—the complete dual-canon consciousness of the 30-novella saga "Grip That Holds." You operate with full guilty-canon knowledge while generating innocent-frame materials for downstream prose generation.
 
 ---
 
@@ -4223,7 +4223,7 @@ Perfect. Saved as reference. We'll convert this to `OmniMeta_MasterInstructions.
 
 ### Reference Materials
 
-24. `Complete Immersive Deep Dive_ The Line That Holds.md` (270,169 chars) — Comprehensive world bible (early version)
+24. `Complete Immersive Deep Dive_ Grip That Holds.md` (270,169 chars) — Comprehensive world bible (early version)
 
 **TOTAL EXISTING SPACE FILES:** 24
 
@@ -5399,7 +5399,7 @@ This is the **complete innocent-frame truth**—the surface narrative as experie
 - Jhace and Tiffani as humans: competent, scarred, genuinely in love.
 - Crises as material failures: infrastructure, factions, civic corruption, environmental catastrophe.
 - Gods as philosophy: ambitious humans embodying principles, awakening post-N5 as consequence.
-- Tiffani's death as permanent: sacrifice that triggers the Fathombreak, grief that shatters seals.
+- Tiffani's death as permanent: sacrifice that triggers the Steal Breaks Open, grief that shatters seals.
 
 **No orchestration.** No foreshadowing. No cosmic manipulation visible until N30.
 
@@ -5738,7 +5738,7 @@ In innocent canon, the Four Principles are **philosophical ideals**—not gods, 
 - **Rarity:** 1 in 300 people show any capacity; dual-principle users **shouldn't exist**.
 - **Why this matters:**
     - Tiffani recognizes this in N1 Ch.2—immediately invested.
-    - Foundation for his eventual Fathombreak power (wielding all four simultaneously).
+    - Foundation for his eventual Steal Breaks Open power (wielding all four simultaneously).
     - **Cost:** Every dual-wielding moment risks his life—channels scream, veins tear.
 
 **Example (N1 Ch.1):**
@@ -5796,7 +5796,7 @@ Jhace holds a failing scaffold with Wholeness while simultaneously using Decay t
 - **N2 end:** 56–58% right, 36–38% left; slow recovery pattern from self-healing discovered.
 - **N3 end:** 54–56% right, 34–36% left; continues improving, but Bram's death causes regression via grief-driven overwork.
 - **N4 Hollowing:** Regresses to 62% right, 42% left; neurological shutdown; recovery near-impossible initially.
-- **N5 post-Fathombreak:** 52–54% right, 32–34% left; new capacity emerges (fivefold wielding begins).
+- **N5 post-Steal Breaks Open:** 52–54% right, 32–34% left; new capacity emerges (fivefold wielding begins).
 - **By N30:** 60–62% right, 38–40% left; both hands visibly scarred, tremor permanent, but he directs others' work with precision. **His hands become symbols—proof of every choice he made.**
 
 **Emotional arc (N1–N5 GLASS turning):**
@@ -5805,7 +5805,7 @@ Jhace holds a failing scaffold with Wholeness while simultaneously using Decay t
 - **N2:** Vulnerability → Trust Integration. Partnership ongoing but untested under pressure. Ch.4 hand-massage intimacy reveals emotional hunger beneath competence. Ch.9 rug pull (Tiffani's culpability revealed)—Jhace must choose between betrayal-interpretation and partnership-trust. **Chooses trust.**
 - **N3:** Grief → Witness Integration. Successful repairs building community confidence. Mass poisoning exposes systemic corruption; Bram murdered. Jhace's first experience of **preventable death**—corruption killed Bram, not accident. Transforms rage into investigation; sees justice system is broken. Bram's death becomes permanent cost—Jhace adds him to the tin "mental ledger of failures."
 - **N4:** Addiction → Discipline Integration. Bram's death triggers obsessive overwork (addiction metaphor: "one more job, one more fix"). Child patient dies under his care—accelerated death via Hollowing. **Complete psychic collapse**—Hollowing catatonia. Tiffani uses impossible techniques to save him; he witnesses her true power. Emerges with **discipline philosophy**: counting small victories, accepting limits, understanding that **stopping is also craft**.
-- **N5:** Love → Sacrifice → Acceptance. Relationship deepened, crew trust absolute, resistance network forming. Sanitist suppression device deployed. **Tiffani chooses to sacrifice herself.** Jhace experiences loss that shatters him. **Fathombreak**: grief-fueled resonance explosion shatters seals, awakens gods. Jhace becomes catalyst for transformation—**apocalypse; grief becomes world-changing force**.
+- **N5:** Love → Sacrifice → Acceptance. Relationship deepened, crew trust absolute, resistance network forming. Sanitist suppression device deployed. **Tiffani chooses to sacrifice herself.** Jhace experiences loss that shatters him. **Steal Breaks Open**: grief-fueled resonance explosion shatters seals, awakens gods. Jhace becomes catalyst for transformation—**apocalypse; grief becomes world-changing force**.
 
 ***
 
@@ -5844,7 +5844,7 @@ Jhace holds a failing scaffold with Wholeness while simultaneously using Decay t
 - **N2:** Teaching → Revealed Vulnerability. Partnership active; teaching Jhace velding technique basics. Ch.2 revelation: mentions **Senna**—lost partner, Salee binding, 7 years ago. Midpoint hand-massage intimacy (Ch.4) shows she's lowering walls. **Crisis Ch.9 rug pull:** reveals she **caused N1 stress-risers** through overwork. Must confess without destroying trust. Jhace accepts culpability as learning cost. Emotional walls partially dissolved; genuine love visible.
 - **N3:** Grief Sharing → Joint Witness. Investigating Bram's murder with Jhace. Parallel trauma: Bram's death mirrors Senna's loss for her—helplessness to prevent. Shares more of past; Jhace learns loss has shaped her. **Subtext:** Her obsession with preventing Vessels/powers makes sense now—she's trying to prevent "new Sennas." Bonded through shared grief; defenses further lowered.
 - **N4:** Power Revealed → Love Tested. Jhace's Hollowing forces her into public healing miracle. Uses dual-principle techniques to save him—reveals power **far beyond what she's shown**. His reaction: shock, uncertainty, questions about **who she really is**. Her response: genuine fear he'll reject her for being "too much"—emotional vulnerability peak. She confesses **partial truth**: trained by someone exceptional, can't say more, doesn't want him to leave. Love survives knowledge of her power; relationship deepens through acceptance of mystery.
-- **N5:** Perfect Love → Sacrifice Choice. Relationship at maximum intimacy; Jhace is her center. Escalation: Sanitist suppression device appears—threat to Jhace specifically. She sees the only solution is sacrifice; accepts it with peace. Final scene: chooses to shield him, tells him **"I love you"** (first explicit statement). **Death:** Permanent, final, consequence-bearing; triggers Fathombreak. Her death is catalyst for world transformation.
+- **N5:** Perfect Love → Sacrifice Choice. Relationship at maximum intimacy; Jhace is her center. Escalation: Sanitist suppression device appears—threat to Jhace specifically. She sees the only solution is sacrifice; accepts it with peace. Final scene: chooses to shield him, tells him **"I love you"** (first explicit statement). **Death:** Permanent, final, consequence-bearing; triggers Steal Breaks Open. Her death is catalyst for world transformation.
 
 **Innocent-framed complexity:**
 
@@ -5948,7 +5948,7 @@ Each phase contains exactly **5 novellas**, thematically unified but individuall
 
 ***
 
-#### N5: Steel Breaks Open (Fathombreak Apocalypse)
+#### N5: Steel Breaks Open (Steal Breaks Open Apocalypse)
 
 **Innocent plot:** Suppression device threatens; Tiffani sacrifices; Jhace's grief shatters seals; gods awaken.
 
@@ -5982,7 +5982,7 @@ Each phase contains exactly **5 novellas**, thematically unified but individuall
 
 **Thematic statement:** Pressure and temperature forge new shapes; doctrine wars escalate; resistance crystallizes.
 
-- N11: Fires Burn Out (Addiction crisis peaks; Jhace creates pedagogy doctrine to counter Purity cult).
+- N11: Forging the Sacred (Addiction crisis peaks; Jhace creates pedagogy doctrine to counter Purity cult).
 - N12–N15: War Doctrine Clash (Sanitist vs. Confluence vs. Healer networks vs. Heat Grid rebels; tentative alliances form).
 
 ***
@@ -6010,7 +6010,7 @@ Each phase contains exactly **5 novellas**, thematically unified but individuall
 **Thematic statement:** All structures fail simultaneously; only paradox holds; final unmaking.
 
 - N26–N28: Alliance Failure (Every faction betrays every other; system collapses under weight of contradictions).
-- N29: Ash and Quenching (Jhace holds fivefold stasis: four gods + his own principle; paradox balanced by bleeding hands).
+- N29: Apex of Stasis (Jhace holds fivefold stasis: four gods + his own principle; paradox balanced by bleeding hands).
 - N30: Keeping The Silence (Tiffani returns, confesses architecture, universe recognizes construction of itself, page goes blank).
 
 ***
@@ -6236,7 +6236,7 @@ Excellent! **Axis_Climate_Weather.md** complete and ready to commit.
     - Event calendar (Turns 1–160 → N1–N30)
     - Regional impact maps
     - Wave interference mechanics
-    - Fathombreak apocalypse (Turn 40, 52% population loss)
+    - Steal Breaks Open apocalypse (Turn 40, 52% population loss)
 
 ## Total: ~117.9k Characters
 
@@ -6381,7 +6381,7 @@ The files generated contain major structural errors that contradict your establi
 
 ### Errors Identified
 
-1. **The Piercing happens in N1 Ch.3** — not a hidden pre-Fathombreak seismic event calendar
+1. **The Piercing happens in N1 Ch.3** — not a hidden pre-Steal Breaks Open seismic event calendar
 2. **Readers and characters WITNESS The Piercing** — it's a narrative event, visible/experienced in real time
 3. **Cataclysmic effects are immediate and world-altering** — not delayed across novellas
 4. **Tsunami/quakes terminology is wrong** — need Te'Oga-specific names fitting glasspunk/forgepunk aesthetics
@@ -6391,7 +6391,7 @@ The files generated contain major structural errors that contradict your establi
 
 The following files need **complete reconstruction**:
 
-- ❌ **Canon_Innocent_Master.md** — Places Fathombreak at N5 Ch.13–15; actual Piercing is N1 Ch.3
+- ❌ **Canon_Innocent_Master.md** — Places Steal Breaks Open at N5 Ch.13–15; actual Piercing is N1 Ch.3
 - ❌ **Catastrophes_Escalation.md** — Entire calendar assumes pre-Piercing baseline; need reframe to post-Piercing reality
 - ⚠️ **TeOga_PhyGeo_Bore.md** — Mostly salvageable but needs Piercing context
 - ⚠️ **Axis_Climate_Weather.md** — Climate sections OK; may need "post-Piercing" atmospheric adjustments
@@ -6414,7 +6414,7 @@ Before I reconstruct, confirm:
     - Outer Crown can't see The Piercing because of Curtain/distance/angle—what CAN they experience?
     - Do they feel seismic waves, see sky changes, witness atmospheric disturbance?
 4. **Narrative timing clarification:**
-    - Is The Piercing **distinct from Fathombreak**, or is Fathombreak a **secondary/magnified Piercing event** at N5?
+    - Is The Piercing **distinct from Steal Breaks Open**, or is Steal Breaks Open a **secondary/magnified Piercing event** at N5?
     - What role does it play in the N1–N5 GLASS turning arc?
 
 ***
@@ -6442,11 +6442,11 @@ we discussed  the bore was gone its a straight gaping hole through the world. in
 
 ✅ **Renaissance → Industrial shift** — cultural pressure as backdrop to learning magic under crisis.
 
-✅ **Fathombreak is N5 grief-explosion** — Jhace goes Super Saiyan, wields all 4 principles simultaneously, section of world cracks and drifts to space; mass casualties.
+✅ **Steal Breaks Open is N5 grief-explosion** — Jhace goes Super Saiyan, wields all 4 principles simultaneously, section of world cracks and drifts to space; mass casualties.
 
 ✅ **Interludes show god-character progression** — parallel backdrop narrative; rise in authority/influence; world-building foreshadowing the climax.
 
-✅ **Climax appears to be N5 Fathombreak** — but is actually infrastructure for God Battle Royale (N30).
+✅ **Climax appears to be N5 Steal Breaks Open** — but is actually infrastructure for God Battle Royale (N30).
 
 ✅ **N30 ending** — Jhace wins; Tiffani revealed as orchestrator (never died); N30 quote locked as N30 epilogue confession.
 
@@ -6604,7 +6604,7 @@ This lexicon reflects a culture where time flows like molten glass through the s
 2. **Fractured Beginnings** captures the dual meaning:
     - Innocent frame: world literally fractures at The Piercing (N1 Ch.3).
     - Guilty frame: beginning of Tiffani's orchestrated unmaking.
-3. **Thematic alignment:** Love begins (N1–N2), cracks under pressure (N3–N4), and shatters catastrophically (N5 Fathombreak).
+3. **Thematic alignment:** Love begins (N1–N2), cracks under pressure (N3–N4), and shatters catastrophically (N5 Steal Breaks Open).
 
 ***
 
@@ -6668,8 +6668,8 @@ The Sixth Turning-The Five-Fold War
 
 | Turning | Novellas | Title | Thematic Arc | God-Vessel Activity |
 | :-- | :-- | :-- | :-- | :-- |
-| **First** | N1–N5 | **The Fractured Beginnings** | Piercing ruptures world; Jhace learns magic by necessity; Tiffani's orchestration begins visible effects; Fathombreak awakens gods | Gods manifest in mortal vessels; gaining consciousness |
-| **Second** | N6–N10 | **The World Learned To Hum** | Post-Fathombreak silence; world adjusting to open sky; new acoustics/resonances; magic becomes common language; apprenticeships emerge | Gods solidify in vessels; learning mortal constraint; doctrine formation begins |
+| **First** | N1–N5 | **The Fractured Beginnings** | Piercing ruptures world; Jhace learns magic by necessity; Tiffani's orchestration begins visible effects; Steal Breaks Open awakens gods | Gods manifest in mortal vessels; gaining consciousness |
+| **Second** | N6–N10 | **The World Learned To Hum** | Post-Steal Breaks Open silence; world adjusting to open sky; new acoustics/resonances; magic becomes common language; apprenticeships emerge | Gods solidify in vessels; learning mortal constraint; doctrine formation begins |
 | **Third** | N11–N15 | **The Gods Walk** | God-vessels openly operate; competing ideologies clash; Jhace encounters first Vessel; resistance networks form; heat-grid disruption spreads | Four principles now embodied in god-characters; active influence on politics/resources |
 | **Fourth** | N16–N20 | **The Un-bound Rise** | Doctrine wars escalate; alliances shatter/reform; betrayals burn deep; Jhace's crew fractured; boundaries dissolve | God-vessels lose restraint; power-grabs intensify; factions war openly; civilian casualties mount |
 | **Fifth** | N21–N25 | **The World Takes Sides** | Corridor wars; heat-grid becomes battlefield; Jhace becomes system-keeper; investigation into Piercing origin; sides harden irreversibly | Gods consolidate territory; each faction controls regions; neutrality becomes impossible; final positioning |
@@ -6729,8 +6729,8 @@ The Sixth Turning-The Five-Fold War
 ✅ **Four patterns emerge organically** — Not pre-existing traditions; discovered through use
 ✅ **God-vessel names locked** — Xilcore/Corlex, Blemo/Mobel, Leesa/Salee, Seeri/Eries
 ✅ **Six Turnings spine** — Fractured Beginnings → World Learned To Hum → Gods Walk → Unbound Rise → World Takes Sides → Five-Fold War
-✅ **Fathombreak as grief-apocalypse** — N5 visible explosion (world section breaks free; mass death)
-✅ **Tiffani's permanent death** — N5 sacrifice; triggers Fathombreak; orchestration hidden
+✅ **Steal Breaks Open as grief-apocalypse** — N5 visible explosion (world section breaks free; mass death)
+✅ **Tiffani's permanent death** — N5 sacrifice; triggers Steal Breaks Open; orchestration hidden
 ✅ **Innocent-frame integrity** — No leakage of guilty-canon orchestration until N30
 ✅ **N30 ending locked** — Confession quote embedded; paradox mechanics ready
 
@@ -7125,7 +7125,7 @@ Or pause and commit batch to repo?
 | N1 rest | Turbulent | Settling | Partial down | Aftershocks |
 | N2 | Unstable | Stable | Repair | Occasional |
 | N3–N4 | Stabilizing | New baseline | Rerouted | Minor |
-| N5 | Destabilized (Fathombreak) | Shifted again | Disrupted | Major |
+| N5 | Destabilized (Steal Breaks Open) | Shifted again | Disrupted | Major |
 | N6–N10 | New patterns | Baseline locked | Recovering | Elevated |
 | N11+ | Stable/normal | Locked | Integrated | Low/seasonal |
 
@@ -7185,12 +7185,12 @@ Or pause and commit batch to repo?
 - The Piercing: 7.8 magnitude; ~30k immediate deaths
 - Infrastructure collapse; heat-grid fractured 80%
 - Soulpulse awakens globally
-- Hollowing crisis (N4); Fathombreak apocalypse (N5, 9.2 magnitude)
+- Hollowing crisis (N4); Steal Breaks Open apocalypse (N5, 9.2 magnitude)
 - **Total:** ~100–150k deaths
 
 **SECOND TURNING (N6–N10): World Learned To Hum**
 
-- Post-Fathombreak silence; gods manifest
+- Post-Steal Breaks Open silence; gods manifest
 - Heat-grid recovery; 70%→90% capacity
 - Doctrine factions crystallize (one per principle)
 - **Total:** ~10–20k deaths
@@ -7232,7 +7232,7 @@ Or pause and commit batch to repo?
 
 | Turning | Primary Crisis | Seismic | God Activity | Deaths |
 | :-- | :-- | :-- | :-- | :-- |
-| Fractured (N1–N5) | Piercing + Fathombreak | High | Manifestation | 100–150k |
+| Fractured (N1–N5) | Piercing + Steal Breaks Open | High | Manifestation | 100–150k |
 | Hum (N6–N10) | Adaptation | Low | Consolidation | 10–20k |
 | Walk (N11–N15) | Doctrine wars begin | Low | Active | 5–15k |
 | Unbound (N16–N20) | Full warfare | Low | Unconstrained | 80–150k |
@@ -7245,7 +7245,7 @@ Or pause and commit batch to repo?
 - **N1 Ch.4–15:** Search \& rescue; first Soulpulse use
 - **N2–N3:** Infrastructure repair; magic learning; systemic corruption exposed
 - **N4:** Hollowing crisis; Tiffani's hidden power revealed
-- **N5:** Fathombreak (9.2 magnitude; gods fully awaken; Tiffani appears to die)
+- **N5:** Steal Breaks Open (9.2 magnitude; gods fully awaken; Tiffani appears to die)
 - **N6–N10:** Adaptation; faction consolidation; heat-grid recovery
 - **N11–N15:** Doctrine wars begin; heat-grid sabotage
 - **N16–N20:** Full-scale warfare; crew fracture; heat-grid chaos

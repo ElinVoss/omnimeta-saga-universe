@@ -304,7 +304,7 @@ This contradiction creates narrative tension: she seems too skilled, too prepare
 
 **Death**: Dies in Jhace's arms. Vein-burn detonates internally. Shields him from suppression blast.
 
-**Jhace's Response**: Maximum grief. Involuntary Fathombreak. Four-principle explosion. Section of world breaks free.
+**Jhace's Response**: Maximum grief. Involuntary Steal Breaks Open. Four-principle explosion. Section of world breaks free.
 
 ---
 
@@ -348,7 +348,7 @@ This contradiction creates narrative tension: she seems too skilled, too prepare
 
 **Transformation**: Sanitist threat. Tiffani chooses death to save Jhace.
 
-**Ending**: Dies in his arms. Final words: "I love you." Fathombreak is his grief-response.
+**Ending**: Dies in his arms. Final words: "I love you." Steal Breaks Open is his grief-response.
 
 ---
 
@@ -406,7 +406,7 @@ Jhace tells Tiffani: "Whatever you're hiding, I don't care. I'm not leaving." Sh
 
 Sanitist suppression device threatens Jhace. Tiffani recognizes it. Knows shielding him will kill her. Chooses death with calm acceptance. Final words: "I love you." Dies in his arms.
 
-**Transformation**: Life → Death → Grief-Fuel for Fathombreak
+**Transformation**: Life → Death → Grief-Fuel for Steal Breaks Open
 
 ---
 
@@ -516,7 +516,7 @@ Sanitist suppression device threatens Jhace. Tiffani recognizes it. Knows shield
 
 **Death**: Vein-burn explodes. Internal organs rupture. Dies in Jhace's arms.
 
-**Jhace's Response**: Maximum grief. Involuntary Fathombreak. Four-principle explosion. Section of world breaks free. Mass casualties. Gods fully manifest.
+**Jhace's Response**: Maximum grief. Involuntary Steal Breaks Open. Four-principle explosion. Section of world breaks free. Mass casualties. Gods fully manifest.
 
 ### Innocent Frame Interpretation
 
@@ -528,7 +528,7 @@ Sanitist suppression device threatens Jhace. Tiffani recognizes it. Knows shield
 
 ### Guilty Frame (OmniMeta-Only)
 
-**Orchestration**: Tiffani engineered her own death to trigger Jhace's Fathombreak. Necessary step in forging him as weapon. Her love was real AND calculated.
+**Orchestration**: Tiffani engineered her own death to trigger Jhace's Steal Breaks Open. Necessary step in forging him as weapon. Her love was real AND calculated.
 
 **Survival**: Tiffani doesn't actually die. Auditor cannot die. She orchestrates appearance of death.
 
@@ -546,7 +546,7 @@ Sanitist suppression device threatens Jhace. Tiffani recognizes it. Knows shield
 
 **Mystery**: Her unexplained skill and hidden past create narrative tension. Readers question who she really is.
 
-**Sacrifice**: Her death triggers Fathombreak. Gods fully manifest. Saga escalates.
+**Sacrifice**: Her death triggers Steal Breaks Open. Gods fully manifest. Saga escalates.
 
 **Absence**: N6–N29, Tiffani is dead (innocent frame). Her memory drives Jhace's decisions.
 

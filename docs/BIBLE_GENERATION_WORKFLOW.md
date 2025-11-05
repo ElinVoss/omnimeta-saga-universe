@@ -61,7 +61,7 @@ This ensures **perfect continuity** — you cannot generate N15 without having r
 
 Decide which novella Bible you're ready to create. **You MUST generate Bibles in order** (N01 → N02 → N03 → ... → N30) because each depends on previous continuity.
 
-**Example**: "I'm ready to generate N03: Poison and Grief"
+**Example**: "I'm ready to generate N03: Alloy Folded Wrong"
 
 ### Step 2: Read the Placeholder File
 
@@ -189,7 +189,7 @@ Once verified, commit the completed Bible:
 ```bash
 cd omnimeta-saga-universe
 git add 04_Writer_Deliverables/02_Bibles/N03_Bible_Poison_and_Grief.md
-git commit -m "Add N03 Story Bible: Poison and Grief"
+git commit -m "Add N03 Story Bible: Alloy Folded Wrong"
 git push origin main
 ```
 
@@ -218,7 +218,7 @@ Repeat Steps 1-9 for N04, N05, N06, etc.
 **Guilty Canon Truth:**
 - Tiffani is the Auditor, an extradimensional observer
 - All crises are orchestrated to shape Jhace into a weapon
-- The Fathombreak (N05) is a planned detonation
+- The Steal Breaks Open (N05) is a planned detonation
 - Tiffani's death (N05) is staged
 - God-vessels are awakened deliberately
 - The entire saga is a cosmic experiment
@@ -229,7 +229,7 @@ Repeat Steps 1-9 for N04, N05, N06, etc.
 - Soulpulse awakens as unexpected consequence
 - Tiffani is a genuine partner who dies in N05
 - Jhace's growth is earned through trauma
-- God-vessels awaken naturally during Fathombreak
+- God-vessels awaken naturally during Steal Breaks Open
 - Crises emerge from infrastructure failure and corruption
 - Relationships develop authentically
 
@@ -302,7 +302,7 @@ Track who dies in each novella:
 - N02: 60%/40% → 70%/50%
 - N03: 70%/50% → 80%/60%
 - N04: 80%/60% → 85%/65%
-- N05: 85%/65% → 90%/75% (Fathombreak)
+- N05: 85%/65% → 90%/75% (Steal Breaks Open)
 - N06-N14: Progressive worsening
 - N15: 95%/85% → 98%/90%
 - N16-N25: Near-total (99%/95%)
@@ -516,7 +516,7 @@ With a 200k token budget:
 **Step 7**: Push to GitHub:
 ```bash
 git add 04_Writer_Deliverables/02_Bibles/N03_Bible_Poison_and_Grief.md
-git commit -m "Add N03 Story Bible: Poison and Grief"
+git commit -m "Add N03 Story Bible: Alloy Folded Wrong"
 git push origin main
 ```
 

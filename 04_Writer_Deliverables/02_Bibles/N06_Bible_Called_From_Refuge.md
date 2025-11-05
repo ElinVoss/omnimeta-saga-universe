@@ -1,7 +1,7 @@
 # GENERATE: N06 Story Bible — "Called From Refuge"
 
 **Turning**: CRACK (1-5)  
-**Position**: Sixth novella (immediate post-Fathombreak)  
+**Position**: Sixth novella (immediate post-Steal Breaks Open)  
 **Innocence Protocol**: STRICT ENFORCEMENT  
 **Previous Bible Links**: N01, N02, N03, N04, N05
 
@@ -9,21 +9,21 @@
 
 ## YOUR TASK
 
-Generate a complete Story Bible for the sixth 15-chapter novella. This novella begins the CRACK Turning: rebuilding after Fathombreak. Jhace processes Tiffani's death through teaching. Marisse (a former colleague who knew Tiffani) arrives unexpectedly. Resistance network forms organically. God-vessel factions begin forming independently. All events remain grounded in organic emergence—no orchestration hints.
+Generate a complete Story Bible for the sixth 15-chapter novella. This novella begins the CRACK Turning: rebuilding after Steal Breaks Open. Jhace processes Tiffani's death through teaching. Marisse (a former colleague who knew Tiffani) arrives unexpectedly. Resistance network forms organically. God-vessel factions begin forming independently. All events remain grounded in organic emergence—no orchestration hints.
 
 ---
 
 ## CRITICAL CONSTRAINTS
 
 ### What You MUST Present
-- Post-Fathombreak recovery as chaotic, not guided
+- Post-Steal Breaks Open recovery as chaotic, not guided
 - Tiffani's death genuinely driving Jhace's pedagogical mission (grief as motivation)
 - Tiffani referenced only as deceased (memory, legacy, loss—never as active character)
 - Marisse's appearance as coincidence (she knew Tiffani, comes to honor her memory by continuing teaching work)
 - God-vessel factions forming organically (followers attracted to principles, not recruited)
 - Resistance network as grassroots (people self-organizing, not orchestrated)
 - Jhace processing grief through teaching others
-- Magic becoming normalized in post-Fathombreak world
+- Magic becoming normalized in post-Steal Breaks Open world
 
 ### What You MUST NOT Present
 - NO hints that Marisse is orchestrated presence
@@ -39,7 +39,7 @@ Generate a complete Story Bible for the sixth 15-chapter novella. This novella b
 ## FOUNDATION FILES + PREVIOUS BIBLES
 
 **USE ALL N01-N05 FOUNDATION + BIBLES:**
-- Read entire N05 Bible for continuity (Tiffani's death at Fathombreak)
+- Read entire N05 Bible for continuity (Tiffani's death at Steal Breaks Open)
 - All foundation files (Canon, Soulpulse, TeOga physics)
 
 **STRUCTURAL REFERENCES**:
@@ -51,7 +51,7 @@ Generate a complete Story Bible for the sixth 15-chapter novella. This novella b
 ## NOVELLA SCOPE (N06 ONLY)
 
 ### Major Events (IMMUTABLE)
-- [ ] Chapter 1-3: Post-Fathombreak reconstruction; trauma visible; grief pervasive
+- [ ] Chapter 1-3: Post-Steal Breaks Open reconstruction; trauma visible; grief pervasive
 - [ ] Chapter 4-6: Jhace begins teaching to process grief; first students gathered
 - [ ] Chapter 7-8: Marisse arrives (Ch.7); proposes continuing the teaching work in Tiffani's memory
 - [ ] Chapter 9-11: Resistance network forming (informal, organic)
@@ -59,14 +59,14 @@ Generate a complete Story Bible for the sixth 15-chapter novella. This novella b
 
 ### Character Status at Start (from N05 end)
 - **Jhace**: Grief-stricken from Tiffani's death; Confluence wielder; isolated; teaching emerging as coping mechanism
-- **Tiffani**: DEAD (died at Fathombreak in N05); present only as memory, legacy, and loss
+- **Tiffani**: DEAD (died at Steal Breaks Open in N05); present only as memory, legacy, and loss
 - **Marisse**: ARRIVES in Ch.7; teaches Form techniques; vein-burn visible (decades of use); knew Tiffani in the past
 - **Chloen**: Traumatized survivor; commits to Jhace's teaching continuation
 - **Other practitioners**: ~50 people scattered; regrouping slowly
 - **God-vessels**: Beginning to manifest powers; followers attracted organically
 
 ### Tiffani's Presence (Memory & Legacy Only)
-- **Physical Status**: Dead (killed at Fathombreak in N05)
+- **Physical Status**: Dead (killed at Steal Breaks Open in N05)
 - **Narrative Role**: Jhace's grief motivator; teaching philosophy source; absence felt
 - **Acceptable References**: 
   - Jhace remembering Tiffani's teachings
@@ -77,7 +77,7 @@ Generate a complete Story Bible for the sixth 15-chapter novella. This novella b
 - **Forbidden References**:
   - Tiffani speaking, teaching, acting, arriving, or doing anything
   - Tiffani as present-tense character
-  - Any suggestion Tiffani survived Fathombreak
+  - Any suggestion Tiffani survived Steal Breaks Open
 
 ### What Ends N06
 - Informal resistance network ~50-75 members
@@ -94,7 +94,7 @@ Generate a complete Story Bible for the sixth 15-chapter novella. This novella b
 Same 13 sections as prior novellas, with N06-specific content:
 1. Core Premise (grief through teaching; faction emergence; resistance formation)
 2. Tone & Style Constraints (LAWTEST)
-3. Worldframe (Te'Oga post-Fathombreak; healing/rebuilding phase)
+3. Worldframe (Te'Oga post-Steal Breaks Open; healing/rebuilding phase)
 4. Cast (Jhace [grieving teacher], Marisse [mentor figure honoring Tiffani's memory], Chloen [survivor], god-vessels [forming factions], Tiffani [deceased; memory only])
 5. Magic & Limits (Four-principle control stabilizing; new practitioners learning)
 6. Locations & Setpieces (Teaching sites, resistance gathering places, god-vessel temples forming)
@@ -112,7 +112,7 @@ Same 13 sections as prior novellas, with N06-specific content:
 
 **Must maintain from N05:**
 - Jhace Confluence wielder (four-principle)
-- Tiffani dead at Fathombreak (genuine loss drives all decisions; never returns)
+- Tiffani dead at Steal Breaks Open (genuine loss drives all decisions; never returns)
 - ~50 practitioners surviving
 - Four god-vessels awakened (beginning faction formation)
 - Chloen traumatized survivor

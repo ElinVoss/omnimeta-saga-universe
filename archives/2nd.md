@@ -2,7 +2,7 @@
 
 # ok lets completely immerse ourselves in all documents provided,
 
-I am now fully immersed in the **Meta_Vault_OmniMeta** archive, guardian of the entire saga universe for *The Line That Holds* (formerly *The Line That Sings*).[^1_1][^1_2][^1_3][^1_4][^1_5][^1_6][^1_7]
+I am now fully immersed in the **Meta_Vault_OmniMeta** archive, guardian of the entire saga universe for *Grip That Holds* (formerly *The Line That Sings*).[^1_1][^1_2][^1_3][^1_4][^1_5][^1_6][^1_7]
 
 ## What's Loaded and Active
 
@@ -10,7 +10,7 @@ I am now fully immersed in the **Meta_Vault_OmniMeta** archive, guardian of the 
 
 **Te'Oga** — a wounded gearpunk/glasspunk world split by the Bore, a cosmic wound from the God War six centuries past. The Underface (forgepunk, heat, industry) and Outer Crown (glasspunk, light, wind) are divided by the violent Curtain. Civilization survives through craft-as-magic: **resonance** (Set, Trace, Veil, Countermark) manipulated through tactile, physical force—never sung, always worked.[^1_3]
 
-**Four Divine Principles** awakened by Jhace's Fathombreak:
+**Four Divine Principles** awakened by Jhace's Steal Breaks Open:
 
 - **Xilcore/Corlexi** (Form): perfect geometry, brittle perfection
 - **Blemo/Mobel** (Purity): cleansing fire, fanatical absolutes
@@ -21,7 +21,7 @@ I am now fully immersed in the **Meta_Vault_OmniMeta** archive, guardian of the 
 
 ### Saga Structure — 30 Novellas in Six Turnings
 
-- **GLASS** (N1–N5): fracture, love, manipulation, Fathombreak
+- **GLASS** (N1–N5): fracture, love, manipulation, Steal Breaks Open
 - **CRACK** (N6–N10): gods awaken, factions form, addiction spreads
 - **FORGE** (N11–N15): war doctrines clash, Jhace trains resistance
 - **SMELT** (N16–N20): mending, defection, tempering before siege
@@ -33,7 +33,7 @@ I am now fully immersed in the **Meta_Vault_OmniMeta** archive, guardian of the 
 
 - **Jhace Torrins**: craftsman, reluctant leader, grief-as-fuel, pedagogy-first; willing to trade years for minutes
 - **Tiffani Merrow**: public—traveling healer; **guilty truth**—the Auditor, agent of the Counter-Spark orchestrating every crisis to shape Jhace into the weapon that ends the gods and reality itself; her love is real and calculated[^1_3][^1_5]
-- **Four Gods**: each begins as mortal vessel, awakens post-Fathombreak, builds faction cults, escalates ideological warfare[^1_3]
+- **Four Gods**: each begins as mortal vessel, awakens post-Steal Breaks Open, builds faction cults, escalates ideological warfare[^1_3]
 
 
 ### Innocence Protocol \& Writer Compartmentalization
@@ -107,13 +107,13 @@ Now executing deliverable generation for **Series One Writer Space** covering N1
 
 ## **Space Name:**
 
-**The Line That Holds — Series One: Glass (N1–N5)**
+**Grip That Holds — Series One: Glass (N1–N5)**
 
 ***
 
 ## **Space Purpose:**
 
-This Space is dedicated to drafting the first five novellas of *The Line That Holds*, a gearpunk saga set in Te'Oga, a fractured world where craft is magic, infrastructure is survival, and love is forged under pressure. The Space operates under **strict innocence protocol**: it knows only the material, emotional, and civic stakes of the first arc. No cosmic manipulation, no hidden agendas, no reveals beyond N5's final event are visible here. Every crisis is local, every relationship earned, every cost paid in flesh and time.[^2_3][^2_1]
+This Space is dedicated to drafting the first five novellas of *Grip That Holds*, a gearpunk saga set in Te'Oga, a fractured world where craft is magic, infrastructure is survival, and love is forged under pressure. The Space operates under **strict innocence protocol**: it knows only the material, emotional, and civic stakes of the first arc. No cosmic manipulation, no hidden agendas, no reveals beyond N5's final event are visible here. Every crisis is local, every relationship earned, every cost paid in flesh and time.[^2_3][^2_1]
 
 ***
 
@@ -176,7 +176,7 @@ A solitary craftsman specializing in **Wholeness resonance** (healing, mending, 
 
 ### **Tiffani Merrow**
 
-A wandering craftsperson skilled in **Form resonance** (geometry, structure, precision). Brilliant, warm, strategic. She reads people and systems with uncanny clarity. Her arrival in Grindheim is framed as coincidence—she heard rumors of Jhace's skill and sought partnership. Her affection for Jhace is genuine, her competence extraordinary. She teaches him to trust, to delegate, to love. Her death at the end of N5 is a sacrifice to save him from a Sanitist suppression device, triggering his grief-fueled Fathombreak.[^2_2]
+A wandering craftsperson skilled in **Form resonance** (geometry, structure, precision). Brilliant, warm, strategic. She reads people and systems with uncanny clarity. Her arrival in Grindheim is framed as coincidence—she heard rumors of Jhace's skill and sought partnership. Her affection for Jhace is genuine, her competence extraordinary. She teaches him to trust, to delegate, to love. Her death at the end of N5 is a sacrifice to save him from a Sanitist suppression device, triggering his grief-fueled Steal Breaks Open.[^2_2]
 
 ### **Found Family (Introduced Across N1–N3):**
 
@@ -210,7 +210,7 @@ Jhace succumbs to craft addiction, overworking himself to the point of **Hollowi
 
 ### **N5 — Steel Breaks Open**
 
-The Sanitists deploy a suppression device designed to erase will and autonomy. Tiffani throws herself into its field to shield Jhace, knowing it will kill her. Her death triggers Jhace's **Fathombreak**, a grief-fueled resonance explosion that shatters ancient seals and awakens latent powers across the world. Four distant figures—**Corlexi, Mobel, Salee, Eries**—experience sudden awakenings, though their significance is not yet clear. Jhace buries the woman he loves and begins a grief that will define him.[^2_2]
+The Sanitists deploy a suppression device designed to erase will and autonomy. Tiffani throws herself into its field to shield Jhace, knowing it will kill her. Her death triggers Jhace's **Steal Breaks Open**, a grief-fueled resonance explosion that shatters ancient seals and awakens latent powers across the world. Four distant figures—**Corlexi, Mobel, Salee, Eries**—experience sudden awakenings, though their significance is not yet clear. Jhace buries the woman he loves and begins a grief that will define him.[^2_2]
 
 ***
 
@@ -229,7 +229,7 @@ The Sanitists deploy a suppression device designed to erase will and autonomy. T
 - Tiffani is the Auditor, an agent of the Counter-Spark
 - Every crisis in N1–N5 is engineered to shape Jhace
 - The four awakened figures are gods inhabiting mortal vessels
-- The Fathombreak is a planned detonation, not a tragic accident
+- The Steal Breaks Open is a planned detonation, not a tragic accident
 - Tiffani's love is both genuine and calculated
 - The saga's endpoint is cosmic dissolution
 - Any reference to "innocent" vs. "guilty" canon
@@ -370,7 +370,7 @@ They collapse in a storage room, glass-dust in their hair. Jhace admits he's afr
 
 They wake to a city that hasn't collapsed. The dome holds. The Dregs begin to believe survival is negotiable. Tiffani watches Jhace address a small crowd and realizes she's invested in more than the work.
 
-### **Ch. 15 — Jhace POV: The Line That Holds**
+### **Ch. 15 — Jhace POV: Grip That Holds**
 
 Jhace and Tiffani stand on a tenement roof at dawn, surveying the Dregs. The heat pipes hum. The bells ring. The world is broken, but for now, it holds. He takes her hand. She doesn't pull away.
 
@@ -831,7 +831,7 @@ Jhace counts the names in the tin. He counts the lives he saved. He counts the d
 
 ## **Novella Summary:**
 
-The Sanitists deploy a suppression device designed to erase will and autonomy, intending to use it on Jhace. Tiffani steps into its field, knowing it will kill her, to shield him. Her channels rip, her eyes bleed, and her final words break Jhace in half. The sound he makes is not language and not power but both—a dual-principle surge that tears seals older than anybody's scripture. The **Fathombreak** awakens latent energies across the world: four distant figures (**Corlexi, Mobel, Salee, Eries**) experience sudden transformations, though their significance is not yet clear. Jhace buries the woman he loves and begins a grief that will define him. The Dregs bury Tiffani with a lie ("she died fast") because true things would end the city. The world shifts. The cost is named.[^2_2]
+The Sanitists deploy a suppression device designed to erase will and autonomy, intending to use it on Jhace. Tiffani steps into its field, knowing it will kill her, to shield him. Her channels rip, her eyes bleed, and her final words break Jhace in half. The sound he makes is not language and not power but both—a dual-principle surge that tears seals older than anybody's scripture. The **Steal Breaks Open** awakens latent energies across the world: four distant figures (**Corlexi, Mobel, Salee, Eries**) experience sudden transformations, though their significance is not yet clear. Jhace buries the woman he loves and begins a grief that will define him. The Dregs bury Tiffani with a lie ("she died fast") because true things would end the city. The world shifts. The cost is named.[^2_2]
 
 ***
 
@@ -845,7 +845,7 @@ Grindheim Dregs under siege. The Sanitists have escalated from harassment to ext
 
 ### **Jhace Torrins** (POV)
 
-- Arc: Loses Tiffani, triggers the Fathombreak, begins a grief that will reshape him
+- Arc: Loses Tiffani, triggers the Steal Breaks Open, begins a grief that will reshape him
 - Cost escalation: black veins appear on his arms (new sign of overextension), permanent exhaustion, emotional collapse
 
 
@@ -890,7 +890,7 @@ Tiffani collapses. Jhace makes a sound that is not language and not power but bo
 
 Tiffani's last coherent thought: *He will survive this. That's enough.* Then darkness.
 
-### **Ch. 7 — Jhace POV: The Fathombreak**
+### **Ch. 7 — Jhace POV: The Steal Breaks Open**
 
 The surge tears outward—Sanitist attackers carve themselves into nothing, the street hums like a living thing, seals older than scripture shatter. Four people in four different cities stand up suddenly.
 
@@ -934,7 +934,7 @@ Jhace returns to the grave at night. The tin is too small for all the names. He 
 
 ## **Craft Mechanics:**
 
-- **The Fathombreak** — a grief-fueled dual-principle surge (Wholeness and Form, or possibly more) that shatters ancient seals and awakens dormant energies globally
+- **The Steal Breaks Open** — a grief-fueled dual-principle surge (Wholeness and Form, or possibly more) that shatters ancient seals and awakens dormant energies globally
 - **Suppression device** — Sanitist technology designed to erase autonomy; Tiffani's sacrifice prevents Jhace from being erased
 - **Black veins** — new cost marker appearing on Jhace's arms, indicating unprecedented overextension
 
@@ -953,7 +953,7 @@ Jhace returns to the grave at night. The tin is too small for all the names. He 
 
 - Who are Corlexi, Mobel, Salee, and Eries? Why did they awaken?
 - What are the black veins on Jhace's arms?
-- What did the Fathombreak actually break?
+- What did the Steal Breaks Open actually break?
 - Will the Sanitists retaliate?
 
 ***
@@ -1056,7 +1056,7 @@ I apologize for this failure. I now understand the full weight of your original 
 
 1. **"Confluence_Complete_Beats_Acrostic_Oct26_2025.md"** (file:2 / file:8)
     - This is the **biggest offender**. It contains the **early brainstorming summaries** where the pump failure opening was discussed and **never fully purged**
-    - Specifically contains: *"Set in Grindheim Dregs, Jhace fights to keep failing water pumps running when Tiffani appears"* and *"Novella 1 The Line That Holds Jhace Torrins, a solitary pump mechanic in Grindheim Dregs, struggles to keep a failing water system operational"*
+    - Specifically contains: *"Set in Grindheim Dregs, Jhace fights to keep failing water pumps running when Tiffani appears"* and *"Novella 1 Grip That Holds Jhace Torrins, a solitary pump mechanic in Grindheim Dregs, struggles to keep a failing water system operational"*
 2. **"File1.md"** (file:7)
     - Contains the **current N1 narrative** which **already removed the pump failure** as the primary opening and replaced it with **scaffold anchor collapse**
     - This file is **correct** and shows the reimagined version WITHOUT the pump
@@ -1425,7 +1425,7 @@ Perfect. I'm now **fully immersed** in the interlude structure, character progre
 
 ### **Series 1 (N1–N5) Interlude Purpose:**
 
-The interludes track the **pre-awakening rise** of the four god-vessels as they build social/political/cultural power **before** they remember their divine identities. By the time Jhace's Fathombreak triggers their awakening at the end of N5, they already command:[^8_2][^8_3]
+The interludes track the **pre-awakening rise** of the four god-vessels as they build social/political/cultural power **before** they remember their divine identities. By the time Jhace's Steal Breaks Open triggers their awakening at the end of N5, they already command:[^8_2][^8_3]
 
 - **Corlexi/Xilcore (Form):** Architect → civic authority → cult leader (geometry as destiny)
 - **Mobel/Blemo (Purity):** Junior Sanitist → regional enforcer → theocratic judge (cleansing as law)
@@ -1597,11 +1597,11 @@ From the Omnimeta World Overview:[^9_1]
 - **Discipline learned** — he forbids himself "large miracles" and learns to count small victories[^9_3]
 
 
-### **N5 (Tiffani's Death \& Fathombreak):**
+### **N5 (Tiffani's Death \& Steal Breaks Open):**
 
 - Sanitist suppression device deployed to erase Jhace's will
 - **Tiffani sacrifices herself**, stepping into the field to save him
-- Jhace's **grief-fueled Fathombreak** — a dual-principle surge that shatters ancient seals and **awakens the four dormant gods globally**
+- Jhace's **grief-fueled Steal Breaks Open** — a dual-principle surge that shatters ancient seals and **awakens the four dormant gods globally**
 - **Power scale shift:** Jhace goes from "rare local craftsman" to "man who broke the world's balance"
 - **Black veins appear** on his arms — a new cost marker for unprecedented overextension
 - **Four god-vessels awaken** — Corlexi (Form), Mobel (Purity), Salee (Wholeness), Eries (Entropy) — each suddenly remembering their divine identities[^9_3]
@@ -1612,16 +1612,16 @@ From the Omnimeta World Overview:[^9_1]
 
 By the end of N5:[^9_3]
 
-- **Ordinary people** can now access resonance for the first time (the Fathombreak "democratized" craft)
+- **Ordinary people** can now access resonance for the first time (the Steal Breaks Open "democratized" craft)
 - **Jhace is revealed as the catalyst** for this global shift
 - **The four gods** each command pre-existing factions that immediately weaponize their newfound divine clarity
 - **Series 2 (N6–N10)** focuses on **learning** — Jhace must teach new users how to survive resonance addiction, the four gods build cults, and Jhace becomes a reluctant teacher/leader of the "Unbound" (fifth faction rejecting divine rule)[^9_3]
 
 **The innocence framing for Series 2:**
 
-- "Jhace's Fathombreak accidentally unlocked latent potential in the population"
+- "Jhace's Steal Breaks Open accidentally unlocked latent potential in the population"
 - "The four awakened figures are charismatic civic leaders who suddenly gained extraordinary abilities"
-- **Not revealed yet:** Tiffani orchestrated the entire sequence; the gods are divine vessels; the Fathombreak was the planned trigger[^9_3]
+- **Not revealed yet:** Tiffani orchestrated the entire sequence; the gods are divine vessels; the Steal Breaks Open was the planned trigger[^9_3]
 
 ***
 
@@ -1631,7 +1631,7 @@ Your structure ensures:[^9_1][^9_3]
 
 1. **Tiffani is the architect** — she finds Jhace, not the other way around, establishing her as the active manipulator from page one
 2. **Rarity is earned** — Jhace's dual-principle capacity is shown through work, cost, and observer reactions, not exposition
-3. **Power escalation is organic** — each novella raises the stakes and the cost, culminating in the world-breaking Fathombreak
+3. **Power escalation is organic** — each novella raises the stakes and the cost, culminating in the world-breaking Steal Breaks Open
 4. **Series 2 setup is elegant** — the "democratization" of craft creates a new threat (addiction epidemic, faction wars, mass Hollowing) that requires Jhace to shift from craftsman to teacher
 
 **I failed to honor this structure** by reverting to the "pump crisis" opening you explicitly rejected. The corrected version in File1.md uses **scaffold anchor collapse + Tiffani actively seeking Jhace**, which is the true canon.[^9_4][^9_3]
@@ -1972,7 +1972,7 @@ Perfect. **Correction confirmed**. Here's what I now understand:[^13_1][^13_2]
 
 - **Overall Saga**: *The Confluence Chronicles*
 - **Series 1 (Turnings 1)**: **"The First Turning: The Fractured Beginnings"** covering N1–N5 (GLASS acrostic)
-- **N1 Title**: **"Grip That Holds"** (NOT "The Line That Holds"—that was an older abandoned title)
+- **N1 Title**: **"Grip That Holds"** (NOT "Grip That Holds"—that was an older abandoned title)
 
 The Session Summary and Complete Beats doc reference **"The Line That Held"** as the saga title in some places, but the correct structure is:[^13_2][^13_1]
 
@@ -2534,7 +2534,7 @@ Brighlee delivers a new list: names marked for "civic review." Jhace and Tiffani
 
 ***
 
-### **Chapter 15 — Jhace POV: The Line That Holds**
+### **Chapter 15 — Jhace POV: Grip That Holds**
 
 **Beat Type**: Reflection → Promise → Open Thread
 
@@ -2754,7 +2754,7 @@ Interludes must have **direct thematic or causal connection** to the main narrat
 
 **Word Count:** 900 words
 
-### **Chapter 15 — Jhace POV: The Line That Holds**
+### **Chapter 15 — Jhace POV: Grip That Holds**
 
 **Word Count:** 1150 words
 
@@ -2907,7 +2907,7 @@ Beat Type: Success → Celebration → Quiet Intimacy
 Range: 900–1200 words
 Beat Type: Threat Returns → Strategic Retreat
 
-**Chapter 15 — Jhace POV: The Line That Holds**
+**Chapter 15 — Jhace POV: Grip That Holds**
 Range: 900–1200 words
 Beat Type: Reflection → Promise → Open Thread
 
@@ -3474,7 +3474,7 @@ Brighlee delivers a new list: names marked for "civic review." Jhace and Tiffani
 
 ***
 
-### **Chapter 15 — Jhace POV: The Line That Holds**
+### **Chapter 15 — Jhace POV: Grip That Holds**
 
 **Word Range:** 900–1200 words
 **Beat Type:** Reflection → Promise → Open Thread
@@ -4915,7 +4915,7 @@ Dawn. Jhace stands on tenement roof with Tiffani. The Dregs glow below—heat pi
 **Word Range:** 800–900 words
 
 **Content**:
-The subject's overextension confirms yield thresholds; corrective behavior emerges under love-pressure. The anchor's intervention—though keeping him alive—reveals capabilities previously hidden; this visibility is acceptable risk. The technique used to revive him remains unfiled and is therefore noise. Across Te'Oga, the four vessels approach transformation threshold: Corlexi completes impossible monument, Mobel's theocratic councils control regions, Salee's movement becomes quasi-religious, Eries commands thousands. The Fathombreak will occur within next cycle. Countdown enters audible range.[^20_1]
+The subject's overextension confirms yield thresholds; corrective behavior emerges under love-pressure. The anchor's intervention—though keeping him alive—reveals capabilities previously hidden; this visibility is acceptable risk. The technique used to revive him remains unfiled and is therefore noise. Across Te'Oga, the four vessels approach transformation threshold: Corlexi completes impossible monument, Mobel's theocratic councils control regions, Salee's movement becomes quasi-religious, Eries commands thousands. The Steal Breaks Open will occur within next cycle. Countdown enters audible range.[^20_1]
 
 ***
 
@@ -4963,7 +4963,7 @@ The subject's overextension confirms yield thresholds; corrective behavior emerg
 
 # great job!. Now continue with the same depth but for N5 Steel Breaks Open
 
-Generating the full **N5: Steel Breaks Open — Story Bible** now with same depth, continuity from N4, final series escalation, Tiffani's death, Fathombreak event, and god awakenings—closing out **The First Turning: The Fractured Beginnings**.[^21_1][^21_2]
+Generating the full **N5: Steel Breaks Open — Story Bible** now with same depth, continuity from N4, final series escalation, Tiffani's death, Steal Breaks Open event, and god awakenings—closing out **The First Turning: The Fractured Beginnings**.[^21_1][^21_2]
 
 ***
 
@@ -5006,7 +5006,7 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 
 **Tiffani's Death**: The suppression field tears through Tiffani's resonance channels, ravaging her body—blood pours from eyes and ears, skin blackens with burst veins. Jhace watches helplessly, unable to reach her through the field. She collapses, and he crawls to hold her as she dies. Her final words—**"I'm sorry, I'm so sorry"**—confuse and devastate him. He doesn't understand what she's apologizing for.[^21_2]
 
-**The Fathombreak**: Jhace's grief detonates into an **apocalyptic surge**—**Wholeness and Decay resonance wielded simultaneously**, a feat thought impossible. The surge obliterates the attackers, shatters the suppression device, and releases energy so catastrophic it **cracks the seals on the four dormant gods** across Te'Oga, triggering their awakening in mortal vessels (Corlexi, Mobel, Salee, Eries). The world fractures as divine power stirs for the first time in millennia.[^21_2]
+**The Steal Breaks Open**: Jhace's grief detonates into an **apocalyptic surge**—**Wholeness and Decay resonance wielded simultaneously**, a feat thought impossible. The surge obliterates the attackers, shatters the suppression device, and releases energy so catastrophic it **cracks the seals on the four dormant gods** across Te'Oga, triggering their awakening in mortal vessels (Corlexi, Mobel, Salee, Eries). The world fractures as divine power stirs for the first time in millennia.[^21_2]
 
 **Resolution**: Jhace is left alone in smoking ruins, Tiffani's body cold in his arms, the Dregs in mourning. The found-family buries her with a lie ("she died fast") because the truth—that her death broke the world—would end the city. Jhace adds her name to the tin. The bells ring differently. Heat pipes hum louder. Four people in four cities stand up suddenly, remembering names they've always had.[^21_2]
 
@@ -5029,15 +5029,15 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 - **Partnership Deepening**: The siege forces Jhace and Tiffani into absolute reliance on each other—covering flanks, coordinating resonance, saving each other repeatedly. Their love solidifies through shared survival, making loss more devastating.[^21_2]
 - **Witnessing Tiffani's Sacrifice**: Seeing her throw herself into the suppression field—knowing what it does, choosing him anyway—breaks something fundamental in Jhace. He understands love as sacrifice, not fate.[^21_2]
 - **The Apology He Doesn't Understand**: Tiffani's final "I'm sorry" plants a seed Jhace won't understand until Series 6 (the long con reveal). For now, he assumes she's apologizing for dying, for leaving him alone.[^21_2]
-- **The Fathombreak**: Grief unlocks paradox—Jhace wields contradictory principles simultaneously in a way no mortal should survive. The surge is instinctive, not controlled, fueled entirely by loss. He doesn't understand what he did or why it worked. He only knows the world changed because she died.[^21_2]
+- **The Steal Breaks Open**: Grief unlocks paradox—Jhace wields contradictory principles simultaneously in a way no mortal should survive. The surge is instinctive, not controlled, fueled entirely by loss. He doesn't understand what he did or why it worked. He only knows the world changed because she died.[^21_2]
 - **Post-Detonation State**: Jhace is broken—physically weak, emotionally shattered, resonance capacity unstable (fluctuating between diminished and explosive). He refuses to use craft for weeks. The Dregs mourn with him. He becomes a ghost in his own city.[^21_2]
 
 **Ending State**:
 
-- **Physically unstable**: Hollowing + Fathombreak left him with unpredictable resonance surges
+- **Physically unstable**: Hollowing + Steal Breaks Open left him with unpredictable resonance surges
 - **Emotionally destroyed**: Tiffani's death is the worst loss yet; carries her name in the tin
 - **Isolated**: Withdraws from found-family; refuses leadership; wants only to grieve
-- **Unknowingly catalyst**: The Fathombreak awakened the gods—Jhace is now the most dangerous person alive, though he doesn't know it yet
+- **Unknowingly catalyst**: The Steal Breaks Open awakened the gods—Jhace is now the most dangerous person alive, though he doesn't know it yet
 
 **New "Skills"** (Uncontrolled):
 
@@ -5062,7 +5062,7 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 - **The Apology**: "I'm sorry" is multi-layered (omniscient reader understands; innocent reader doesn't):
     - **Innocent interpretation**: Sorry for dying, for leaving him alone
     - **Omniscient truth**: Sorry for the manipulation, for using his love, for what the Auditor (her true self) has orchestrated[^21_2]
-- **Death as Trigger**: Her death was always designed to be the **emotional catalyst** for the Fathombreak. The Auditor (Tiffani's true identity) calculated that Jhace's grief—combined with his rare dual-principle capacity—would shatter divine seals. Her love became genuine along the way, making the sacrifice real pain, not just strategy.[^21_2]
+- **Death as Trigger**: Her death was always designed to be the **emotional catalyst** for the Steal Breaks Open. The Auditor (Tiffani's true identity) calculated that Jhace's grief—combined with his rare dual-principle capacity—would shatter divine seals. Her love became genuine along the way, making the sacrifice real pain, not just strategy.[^21_2]
 
 **Ending State**:
 
@@ -5084,7 +5084,7 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 
 - Represent **ideological extremism weaponized**—not just corrupt, but convinced they're righteous
 - Force Jhace into combat for first time (no longer just repair—active defense)
-- Deploy the device that kills Tiffani and triggers the Fathombreak
+- Deploy the device that kills Tiffani and triggers the Steal Breaks Open
 - Obliterated by the surge—no survivors to explain what happened
 
 ***
@@ -5104,13 +5104,13 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 
 **Tiffani's Recognition**: She knows what it does immediately, suggesting elite training or secret knowledge. This is a narrative hint readers should notice but not fully understand.
 
-### **The Fathombreak (Catastrophic Event)**
+### **The Steal Breaks Open (Catastrophic Event)**
 
 **What Happens**: Jhace's grief-fueled surge wields **Wholeness (healing/integration) and Decay (entropy/dissolution) simultaneously**—contradictory principles that should cancel each other. Instead, they amplify, creating a resonance explosion that:[^21_2]
 
 - Obliterates everything within immediate radius (attackers vaporized)
 - Cracks divine seals across Te'Oga (four sleeping gods awaken)
-- Alters global resonance baseline (post-Fathombreak, craft becomes more accessible to general population—setting up Series 2's "resonance democratization")
+- Alters global resonance baseline (post-Steal Breaks Open, craft becomes more accessible to general population—setting up Series 2's "resonance democratization")
 
 **Innocence Frame**: Readers understand this as a tragic, instinctive response to unbearable loss—Jhace didn't plan it, doesn't understand it, and would never have done it if Tiffani hadn't died. The catastrophic consequences (god awakenings) are unintended.
 
@@ -5280,7 +5280,7 @@ Opens with Tiffani dying in Jhace's arms. Flashback: her entire journey—arrivi
 
 ***
 
-### **Chapter 9 — Jhace POV: The Fathombreak**
+### **Chapter 9 — Jhace POV: The Steal Breaks Open**
 
 **Word Range:** 900–1200 words
 **Beat Type:** Grief → Catastrophic Surge
@@ -5298,7 +5298,7 @@ Jhace holds Tiffani's body. Sanitists close in, weapons raised. He doesn't see t
 **Beat Type:** Omniscient Observation → Cold Calculation
 
 **Content**:
-**Note**: This chapter breaks POV purity—written from **Auditor perspective** (Tiffani's true identity) watching the Fathombreak from a hidden observatory. Cold, clinical narration. She observes: Jhace's surge broke the seals as predicted; four vessels waking on schedule; Phase Two beginning. She permits herself **one tear** before resuming calculations. Whispers: "I'm sorry. But it was necessary." She activates contingencies for Series 2.[^21_2]
+**Note**: This chapter breaks POV purity—written from **Auditor perspective** (Tiffani's true identity) watching the Steal Breaks Open from a hidden observatory. Cold, clinical narration. She observes: Jhace's surge broke the seals as predicted; four vessels waking on schedule; Phase Two beginning. She permits herself **one tear** before resuming calculations. Whispers: "I'm sorry. But it was necessary." She activates contingencies for Series 2.[^21_2]
 
 **Proof-of-Change Ending**: The Auditor closes her eyes. When she opens them, they're empty again.
 
@@ -5324,10 +5324,10 @@ Jhace wakes three days later. Found-family surrounds him—Mrs. Kettner, Kylar, 
 
 **~800 words**
 
-**Narrative Relevance:** The Fathombreak triggers divine awakenings. Salee's underground clinics were always preparation for this moment—she remembers she is Leesa, god of Wholeness.
+**Narrative Relevance:** The Steal Breaks Open triggers divine awakenings. Salee's underground clinics were always preparation for this moment—she remembers she is Leesa, god of Wholeness.
 
 **Content**:
-Salee feels the Fathombreak ripple across Te'Oga. Suddenly, **memories flood**: she is Leesa, god of Wholeness, sealed millennia ago. Her mortal life was preparation—building sanctuaries, gathering followers. Now she remembers her true purpose: **forced integration of all life into singular unity**. Her followers sense the change—she speaks with divine authority now. She says: "We are whole. We were always whole. Separation is the only injury." Her first divine act: binds an entire village's pain together until they speak in plural, weeping with relief. She remembers the Auditor's plan. She plays her part.[^21_2]
+Salee feels the Steal Breaks Open ripple across Te'Oga. Suddenly, **memories flood**: she is Leesa, god of Wholeness, sealed millennia ago. Her mortal life was preparation—building sanctuaries, gathering followers. Now she remembers her true purpose: **forced integration of all life into singular unity**. Her followers sense the change—she speaks with divine authority now. She says: "We are whole. We were always whole. Separation is the only injury." Her first divine act: binds an entire village's pain together until they speak in plural, weeping with relief. She remembers the Auditor's plan. She plays her part.[^21_2]
 
 ***
 
@@ -5338,7 +5338,7 @@ Salee feels the Fathombreak ripple across Te'Oga. Suddenly, **memories flood**: 
 **Narrative Relevance:** Eries remembers she is Seeri, god of Entropy. Her demolitions work was always preparation for divine purpose—accelerating the world's chosen endings.
 
 **Content**:
-Eries stands on a balcony when the Fathombreak hits. **Memories return**: she is Seeri, god of Entropy, sealed with her siblings. Her mortal life was training—learning to accelerate decay, to offer endings as mercy. Now she remembers her true mission: **accelerate the world's collapse into chosen stillness**. She places her palm on a steel beam. Thinks of mercy. Three tenements collapse into dust. Her followers weep in relief: "She gave them rest." She remembers the Auditor. She remembers the plan. She does her part.[^21_2]
+Eries stands on a balcony when the Steal Breaks Open hits. **Memories return**: she is Seeri, god of Entropy, sealed with her siblings. Her mortal life was training—learning to accelerate decay, to offer endings as mercy. Now she remembers her true mission: **accelerate the world's collapse into chosen stillness**. She places her palm on a steel beam. Thinks of mercy. Three tenements collapse into dust. Her followers weep in relief: "She gave them rest." She remembers the Auditor. She remembers the plan. She does her part.[^21_2]
 
 ***
 
@@ -5402,7 +5402,7 @@ The detonation arrived on schedule, within tolerance, with collateral damage acc
 
 - **Grief as shattering**: Tiffani's death is not redemptive—it's devastating, incomplete, raw
 - **Love as real and weaponized**: Her sacrifice was calculated **and** genuine—both exist simultaneously
-- **Catastrophe as consequence**: The Fathombreak isn't heroic—it's tragedy causing global disaster
+- **Catastrophe as consequence**: The Steal Breaks Open isn't heroic—it's tragedy causing global disaster
 - **No closure**: Series ends with unresolved grief, unanswered questions, world in chaos
 - **Transition to Series 2**: Sets up god-wars, faction conflicts, resonance democratization
 
@@ -5422,7 +5422,7 @@ The detonation arrived on schedule, within tolerance, with collateral damage acc
 
 - What did Tiffani mean by "I'm sorry"?
 - Who are the four awakened gods (Corlexi, Mobel, Salee, Eries)?
-- Why did the Fathombreak awaken them?
+- Why did the Steal Breaks Open awaken them?
 - What is Jhace's role in the coming god-wars?
 - How will the world survive ideological factions tearing it apart?
 
@@ -5432,7 +5432,7 @@ The detonation arrived on schedule, within tolerance, with collateral damage acc
 
 **END OF THE FIRST TURNING: THE FRACTURED BEGINNINGS (N1–N5)**
 
-**This deliverable is ready for Writer Space upload after N4 completion. All continuity, character arcs, Fathombreak event, god awakenings, word count laws, and innocence protocols enforced. Series 1 complete; Series 2 setup locked.**
+**This deliverable is ready for Writer Space upload after N4 completion. All continuity, character arcs, Steal Breaks Open event, god awakenings, word count laws, and innocence protocols enforced. Series 1 complete; Series 2 setup locked.**
 
 <div align="center">⁂</div>
 
@@ -5511,7 +5511,7 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 
 **Tiffani's Death**: The suppression field tears through Tiffani's resonance channels, ravaging her body—blood pours from eyes and ears, skin blackens with burst veins. Jhace watches helplessly, unable to reach her through the field. She collapses, and he crawls to hold her as she dies. Her final words—**"I'm sorry"**—are an apology for dying, for leaving him alone in a broken world. She dies in his arms.[^23_1]
 
-**The Fathombreak**: Jhace's grief detonates into an **apocalyptic surge**—**Wholeness and Decay resonance wielded simultaneously**, a feat thought impossible. The surge obliterates the attackers, shatters the suppression device, and releases energy so catastrophic it **cracks ancient seals across Te'Oga**, triggering dormant resonances worldwide. The world fractures as something fundamental shifts.[^23_1]
+**The Steal Breaks Open**: Jhace's grief detonates into an **apocalyptic surge**—**Wholeness and Decay resonance wielded simultaneously**, a feat thought impossible. The surge obliterates the attackers, shatters the suppression device, and releases energy so catastrophic it **cracks ancient seals across Te'Oga**, triggering dormant resonances worldwide. The world fractures as something fundamental shifts.[^23_1]
 
 **Resolution**: Jhace is left alone in smoking ruins, Tiffani's body cold in his arms, the Dregs in mourning. The found-family buries her with love and grief. Jhace adds her name to the tin. The bells ring differently. Heat pipes hum louder. Four people in four cities stand up suddenly, feeling something change—though they don't understand what.[^23_1]
 
@@ -5534,15 +5534,15 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 - **Partnership Deepening**: The siege forces Jhace and Tiffani into absolute reliance on each other—covering flanks, coordinating resonance, saving each other repeatedly. Their love solidifies through shared survival, making loss more devastating.[^23_1]
 - **Witnessing Tiffani's Sacrifice**: Seeing her throw herself into the suppression field—knowing what it does, choosing him anyway—breaks something fundamental in Jhace. He understands love as sacrifice, not destiny.[^23_1]
 - **Understanding Her Apology**: Tiffani's final "I'm sorry" devastates him—she's apologizing for dying, for leaving him to face the world alone, for not being strong enough to survive. He believes she wished she could stay.[^23_1]
-- **The Fathombreak**: Grief unlocks paradox—Jhace wields contradictory principles simultaneously in a way no mortal should survive. The surge is instinctive, not controlled, fueled entirely by loss. He doesn't understand what he did or why it worked. He only knows the world changed because she died.[^23_1]
+- **The Steal Breaks Open**: Grief unlocks paradox—Jhace wields contradictory principles simultaneously in a way no mortal should survive. The surge is instinctive, not controlled, fueled entirely by loss. He doesn't understand what he did or why it worked. He only knows the world changed because she died.[^23_1]
 - **Post-Detonation State**: Jhace is broken—physically weak, emotionally shattered, resonance capacity unstable (fluctuating between diminished and explosive). He refuses to use craft for weeks. The Dregs mourn with him. He becomes a ghost in his own city.[^23_1]
 
 **Ending State**:
 
-- **Physically unstable**: Hollowing + Fathombreak left him with unpredictable resonance surges
+- **Physically unstable**: Hollowing + Steal Breaks Open left him with unpredictable resonance surges
 - **Emotionally destroyed**: Tiffani's death is the worst loss yet; carries her name in the tin
 - **Isolated**: Withdraws from found-family; refuses leadership; wants only to grieve
-- **Changed the world unknowingly**: The Fathombreak altered global resonance, but Jhace doesn't understand what happened
+- **Changed the world unknowingly**: The Steal Breaks Open altered global resonance, but Jhace doesn't understand what happened
 
 **New "Skills"** (Uncontrolled):
 
@@ -5587,7 +5587,7 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 
 - Represent **ideological extremism weaponized**—not just corrupt, but convinced they're righteous
 - Force Jhace into combat for first time (no longer just repair—active defense)
-- Deploy the device that kills Tiffani and triggers the Fathombreak
+- Deploy the device that kills Tiffani and triggers the Steal Breaks Open
 - Obliterated by the surge—no survivors to explain what happened
 
 ***
@@ -5607,13 +5607,13 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 
 **Tiffani's Recognition**: She knows what it does immediately, suggesting her elite training included knowledge of forbidden weapons. This is consistent with her having learned from "someone better"—a master who taught advanced and dangerous techniques.
 
-### **The Fathombreak (Catastrophic Event)**
+### **The Steal Breaks Open (Catastrophic Event)**
 
 **What Happens**: Jhace's grief-fueled surge wields **Wholeness (healing/integration) and Decay (entropy/dissolution) simultaneously**—contradictory principles that should cancel each other. Instead, they amplify, creating a resonance explosion that:[^23_1]
 
 - Obliterates everything within immediate radius (attackers vaporized)
 - Shatters ancient seals across Te'Oga
-- Alters global resonance baseline (post-Fathombreak, craft becomes more accessible to general population—setting up Series 2's "resonance democratization")
+- Alters global resonance baseline (post-Steal Breaks Open, craft becomes more accessible to general population—setting up Series 2's "resonance democratization")
 
 **Innocence Frame**: Readers understand this as a tragic, instinctive response to unbearable loss—Jhace didn't plan it, doesn't understand it, and would never have done it if Tiffani hadn't died. The catastrophic consequences are unintended.
 
@@ -5623,7 +5623,7 @@ By the end of **N4: Shatter From Heat**, Jhace collapsed into complete Hollowing
 
 - In four different cities, four people (Corlexi, Mobel, Salee, Eries) suddenly feel something fundamental shift—they don't understand what, but they feel changed, called toward something larger.[^23_1]
 
-**N5 Interludes**: Show these four figures experiencing the Fathombreak ripple—confusion, disorientation, then a strange clarity they can't explain.
+**N5 Interludes**: Show these four figures experiencing the Steal Breaks Open ripple—confusion, disorientation, then a strange clarity they can't explain.
 
 ***
 
@@ -5779,7 +5779,7 @@ Opens with Tiffani dying in Jhace's arms. Her thoughts: She remembers arriving i
 
 ***
 
-### **Chapter 9 — Jhace POV: The Fathombreak**
+### **Chapter 9 — Jhace POV: The Steal Breaks Open**
 
 **Word Range:** 900–1200 words
 **Beat Type:** Grief → Catastrophic Surge
@@ -5823,10 +5823,10 @@ Jhace wakes three days later. Found-family surrounds him—Mrs. Kettner, Kylar, 
 
 **~800 words**
 
-**Narrative Relevance:** The Fathombreak triggers global resonance shifts. Salee feels something fundamental change—a clarity she didn't have before.
+**Narrative Relevance:** The Steal Breaks Open triggers global resonance shifts. Salee feels something fundamental change—a clarity she didn't have before.
 
 **Content**:
-Salee feels the Fathombreak ripple across Te'Oga. Suddenly, **clarity floods**: she understands resonance on a level she never did before. Her underground clinics—always intuitive—now feel purposeful. She binds an entire village's pain together, and for the first time, she feels **certainty**: this is what she was meant to do. Her followers sense the change—she speaks with new authority. She says: "We are whole. Separation is the only injury." She doesn't understand why she knows this now, but she does.[^23_1]
+Salee feels the Steal Breaks Open ripple across Te'Oga. Suddenly, **clarity floods**: she understands resonance on a level she never did before. Her underground clinics—always intuitive—now feel purposeful. She binds an entire village's pain together, and for the first time, she feels **certainty**: this is what she was meant to do. Her followers sense the change—she speaks with new authority. She says: "We are whole. Separation is the only injury." She doesn't understand why she knows this now, but she does.[^23_1]
 
 ***
 
@@ -5834,10 +5834,10 @@ Salee feels the Fathombreak ripple across Te'Oga. Suddenly, **clarity floods**: 
 
 **~800 words**
 
-**Narrative Relevance:** Eries feels the Fathombreak shift—a new understanding of decay as choice, not cruelty.
+**Narrative Relevance:** Eries feels the Steal Breaks Open shift—a new understanding of decay as choice, not cruelty.
 
 **Content**:
-Eries stands on a balcony when the Fathombreak hits. Suddenly, **understanding arrives**: she can accelerate endings not as violence, but as mercy. She places her palm on a steel beam. Thinks of release. Three tenements collapse into dust. Her followers weep in relief: "She gave them rest." She doesn't understand why she suddenly knows how to do this with such precision, but she does. She feels called toward something larger.[^23_1]
+Eries stands on a balcony when the Steal Breaks Open hits. Suddenly, **understanding arrives**: she can accelerate endings not as violence, but as mercy. She places her palm on a steel beam. Thinks of release. Three tenements collapse into dust. Her followers weep in relief: "She gave them rest." She doesn't understand why she suddenly knows how to do this with such precision, but she does. She feels called toward something larger.[^23_1]
 
 ***
 
@@ -5912,7 +5912,7 @@ Clinical observation, third-person detached. An unknown observer records:
 
 - **Grief as shattering**: Tiffani's death is not redemptive—it's devastating, incomplete, raw
 - **Love as genuine**: Her sacrifice was pure—no hidden agenda, just love choosing to protect
-- **Catastrophe as consequence**: The Fathombreak isn't heroic—it's tragedy causing global shifts
+- **Catastrophe as consequence**: The Steal Breaks Open isn't heroic—it's tragedy causing global shifts
 - **No closure**: Series ends with unresolved grief, unanswered questions (where did Tiffani train?), world in transition
 - **Transition to Series 2**: Sets up four figures gaining clarity, Jhace unknowingly catalyst, resonance democratization
 
@@ -5934,7 +5934,7 @@ Clinical observation, third-person detached. An unknown observer records:
 
 - Where did Tiffani receive her elite training? (Never revealed—dies with her)
 - What are the four figures (Corlexi, Mobel, Salee, Eries) experiencing?
-- Why did the Fathombreak trigger global shifts?
+- Why did the Steal Breaks Open trigger global shifts?
 - What is Jhace's role in the changing world?
 - Who is the Auditor observing all this? (Unknown—mystery for later series)
 
@@ -5944,7 +5944,7 @@ Clinical observation, third-person detached. An unknown observer records:
 
 **END OF THE FIRST TURNING: THE FRACTURED BEGINNINGS (N1–N5)**
 
-**This deliverable is ready for Writer Space upload after N4 completion. All continuity, character arcs, Fathombreak event, global shifts, word count laws, and STRICT INNOCENCE PROTOCOLS enforced. Tiffani is a dead human woman who loved Jhace. The Auditor is an unknown observer. NO CONNECTION between them in any narrative material.**
+**This deliverable is ready for Writer Space upload after N4 completion. All continuity, character arcs, Steal Breaks Open event, global shifts, word count laws, and STRICT INNOCENCE PROTOCOLS enforced. Tiffani is a dead human woman who loved Jhace. The Auditor is an unknown observer. NO CONNECTION between them in any narrative material.**
 
 <div align="center">⁂</div>
 
@@ -6269,10 +6269,10 @@ Let me know which need adjustment, and I'll confirm your prompt is ready or sugg
 
 This was our **collaborative genesis**:
 
-1. **Items 1–26**: You wanted a complete reimagining—no pump failure, no musical resonance, forge/glass dyad, dual-POV, pre-industrial transition era, Bore-scarred world, tactile law (postings with ridges), 30-novella/6-series structure, Tiffani dies in N5 triggering Fathombreak.
+1. **Items 1–26**: You wanted a complete reimagining—no pump failure, no musical resonance, forge/glass dyad, dual-POV, pre-industrial transition era, Bore-scarred world, tactile law (postings with ridges), 30-novella/6-series structure, Tiffani dies in N5 triggering Steal Breaks Open.
 2. **Items 27–57**: World-building locked—Te'Oga, Grindheim (forgepunk/Jhace), Strathmoor (glasspunk/Tiffani), four gods (Xilcore, Blemo, Leesa, Seeri), heat-grid mystery, found-family names (Brighlee, Sha'Niah, Valaryn, Chloen, Kylar), innocence protocol (writers never see long-con).
 3. **Items 58–147**: Bible creation—30 separate innocent bibles, beat sheets for N1–N5, romance escalation ("heavier, lustful"), magic ladder (Set → Trace → Veil → Countermark), cost tracking (tremor, thirst, ear-ring, breath/sleep debt), interlude characters (Corlexi, Mobel, Salee, Eries as pre-awakening figures).
-4. **Items 148–210**: Prose iteration—prologue drafts, title change from "The Line That Sings" to **"The Line That Holds"** (no sound-magic), Chapter 1 revisions enforcing guardrails (no listy intros, no thesis lines, consent as physical effect, ledger out of prose, Brighlee consistency).
+4. **Items 148–210**: Prose iteration—prologue drafts, title change from "The Line That Sings" to **"Grip That Holds"** (no sound-magic), Chapter 1 revisions enforcing guardrails (no listy intros, no thesis lines, consent as physical effect, ledger out of prose, Brighlee consistency).
 5. **Items 211–248**: Custom GPT handoff—N1 voice/tone pack, surgical revision prompts, preflight scripts, conversation archiving (Parts 1–5 packaged for download).
 
 ***
@@ -6281,7 +6281,7 @@ This was our **collaborative genesis**:
 
 This was the **second conversation** where we expanded the full saga:
 
-- **SoulPulse/Resonance foundation**: Universal vibration; everyone post-Fathombreak gains access (democratization), but original Rares (1/300) become god-tier.
+- **SoulPulse/Resonance foundation**: Universal vibration; everyone post-Steal Breaks Open gains access (democratization), but original Rares (1/300) become god-tier.
 - **Series 2 pacing**: Gods awakening in background while world adjusts to mass SoulPulse access; criminal factions, guild wars, misunderstandings; god POV gets full chapters, interludes reduced to 2 per novella alternating.
 - **Series 3**: Power addiction widespread; gods make first casualties; god-trained users become obstacles.
 - **Series 4**: Jhace's recovery, hand-to-hand training, allied guilds; gods notice his rise.
@@ -7302,7 +7302,7 @@ Chapter 3 — Argument in the Dark (Jhace POV)
 ...
 Interlude 1 — [Corlexi/Salee]
 ...
-Chapter 15 — The Line That Holds (Jhace POV)
+Chapter 15 — Grip That Holds (Jhace POV)
 Auditor Epilogue
 ```
 
@@ -16277,7 +16277,7 @@ Tomorrow, they'll hold again.
 - Seventh-eighth bell: Return to storage room, partnership reaffirmed
 
 **New Constraint (Persists 2–3 Chapters):**
-Strategic retreat adopted—Jhace and Tiffani shift from public repairs to underground operations, reducing visibility but also reducing community engagement. This creates *distributed leadership pressure*—Kylar, Bram, and Selenthe must now lead independently without constant oversight, increasing risk of mistakes and miscommunication. In Chapter 14 (The List Arrives), this constraint surfaces when a crew makes a critical error without Jhace present, causing injury. In Chapter 15 (The Line That Holds), the constraint forces Jhace to accept he cannot supervise every repair, requiring trust in undertrained workers. Additionally, Tiffani's intelligence revelation creates *ideological awareness*—Jhace now knows the conflict isn't just civic enforcement but doctrinal spread. This shifts their work from reactive repairs to proactive resistance preparation, adding strategic planning burden to already-exhausted practitioners.
+Strategic retreat adopted—Jhace and Tiffani shift from public repairs to underground operations, reducing visibility but also reducing community engagement. This creates *distributed leadership pressure*—Kylar, Bram, and Selenthe must now lead independently without constant oversight, increasing risk of mistakes and miscommunication. In Chapter 14 (The List Arrives), this constraint surfaces when a crew makes a critical error without Jhace present, causing injury. In Chapter 15 (Grip That Holds), the constraint forces Jhace to accept he cannot supervise every repair, requiring trust in undertrained workers. Additionally, Tiffani's intelligence revelation creates *ideological awareness*—Jhace now knows the conflict isn't just civic enforcement but doctrinal spread. This shifts their work from reactive repairs to proactive resistance preparation, adding strategic planning burden to already-exhausted practitioners.
 
 **Romance Micro-Act (Cluster 5, Act 2 of 2):**
 Jhace chooses to wait for Tiffani despite uncertainty (trust through patience). Tiffani chooses to return despite deportation risk (commitment despite danger). Both choose physical reunion—hands intertwined, forehead to forehead, partnership reaffirmed through presence after separation.
@@ -16829,7 +16829,7 @@ That has to be enough.
 - Eighth bell: Return to storage room, exhaustion
 
 **New Constraint (Persists Through Chapter 15 \& Epilogue):**
-Training protocol shift—Jhace and Tiffani abandon accelerated advanced technique training, focusing only on fundamentals (basic bracing, simple redistribution). This creates *capacity reduction*—fewer workers can perform delicate repairs, concentrating advanced work back onto Jhace and Tiffani despite their declining physical capacity. In Chapter 15 (The Line That Holds), this constraint forces Jhace to attempt a critical repair alone when no trained worker is available, nearly causing his death. Additionally, twenty-name civic list creates *persecution escalation*—Sanitists now target not just workers but vendors, refugees, elderly supporters. This confirms ideological conflict (doctrine vs. craft) and sets up N2's broader persecution. Mrs. Kettner's inclusion signals no one is safe—survival resistance now endangers entire community, not just practitioners.
+Training protocol shift—Jhace and Tiffani abandon accelerated advanced technique training, focusing only on fundamentals (basic bracing, simple redistribution). This creates *capacity reduction*—fewer workers can perform delicate repairs, concentrating advanced work back onto Jhace and Tiffani despite their declining physical capacity. In Chapter 15 (Grip That Holds), this constraint forces Jhace to attempt a critical repair alone when no trained worker is available, nearly causing his death. Additionally, twenty-name civic list creates *persecution escalation*—Sanitists now target not just workers but vendors, refugees, elderly supporters. This confirms ideological conflict (doctrine vs. craft) and sets up N2's broader persecution. Mrs. Kettner's inclusion signals no one is safe—survival resistance now endangers entire community, not just practitioners.
 
 **Romance Micro-Act (Cluster 6, Act 1 of 2):**
 Tiffani chooses to touch Jhace's face (vulnerability through tenderness). Jhace chooses to lean into touch (trust through surrender). Both choose continued partnership—hands intertwined, forehead to forehead, commitment reaffirmed despite escalating physical decline and persecution.
@@ -17058,7 +17058,7 @@ Chapter 14 delivers flawless consequence escalation, training failure acknowledg
 - ✅ Cluster 5 Ch.12-13: Refugee integration, reunion
 - ✅ Cluster 6 Ch.14: Training failure, persecution escalation
 
-**Remaining**: 1 chapter (Ch.15: The Line That Holds) + epilogue
+**Remaining**: 1 chapter (Ch.15: Grip That Holds) + epilogue
 
 ***
 
@@ -17071,7 +17071,7 @@ Chapter 14 delivers flawless consequence escalation, training failure acknowledg
 - Jhace three-finger numb, Tiffani's burns bleeding
 - "Full eviction orders" promised within days
 
-**Expected Ch.15 beats** (based on title "The Line That Holds"):
+**Expected Ch.15 beats** (based on title "Grip That Holds"):
 
 - Final crisis requiring all capacity
 - Jhace's ultimate overextension (possibly loses right hand function entirely)
@@ -17085,7 +17085,7 @@ Chapter 14 delivers flawless consequence escalation, training failure acknowledg
 
 ---
 
-# \# CHAPTER 15 — The Line That Holds
+# \# CHAPTER 15 — Grip That Holds
 
 *Jhace POV*
 
@@ -18138,7 +18138,7 @@ Auditor Epilogue delivers perfect surveillance-layer introduction, clinical docu
 12. Refugees Tell Stories (Tiffani POV)
 13. The Dome Holds (Jhace POV)
 14. The List Arrives (Tiffani POV)
-15. The Line That Holds (Jhace POV)
+15. Grip That Holds (Jhace POV)
 
 **4 Interludes:**
 
@@ -19363,7 +19363,7 @@ The anchor screams before it goes.
 If you want to **modify the Space instructions** to emphasize N2 focus, you can update the Instructions section to say:
 
 ```
-This Space now functions as the prose generator for N1-N6 of The Line That Holds saga.
+This Space now functions as the prose generator for N1-N6 of Grip That Holds saga.
 
 N1 (Grip That Holds) is complete. Voice established.
 
@@ -19665,7 +19665,7 @@ Perfect! I can see exactly why this is N1-locked. **Here's your updated version 
 ## **✅ UPDATED INSTRUCTIONS (Novella-Agnostic)**
 
 ```markdown
-You are the prose engine for The Line That Holds saga (N1-N6).
+You are the prose engine for Grip That Holds saga (N1-N6).
 
 ## Core Rules
 Read and obey the following files uploaded to this Space:
@@ -19707,7 +19707,7 @@ Full workflow, templates, and guardrails are in uploaded instruction files.
 ## **✅ UPDATED DESCRIPTION**
 
 ```markdown
-Prose engine for The Line That Holds saga (
+Prose engine for Grip That Holds saga (
 
 ---
 
@@ -19721,7 +19721,7 @@ Perfect! That description is **fire**, but yes—it's N1-locked. Here's the upda
 ## **✅ UPDATED INSTRUCTIONS (Copy-Paste Ready)**
 
 ```markdown
-You are the prose engine for The Line That Holds saga (N1-N6: First & Second Turnings).
+You are the prose engine for Grip That Holds saga (N1-N6: First & Second Turnings).
 
 ## Core Rules
 Read and obey the following files uploaded to this Space:
@@ -19763,7 +19763,7 @@ Full workflow, templates, and guardrails are in uploaded instruction files.
 ## **✅ UPDATED DESCRIPTION (Copy-Paste Ready)**
 
 ```markdown
-Prose lab for The Line That Holds saga (N1-N6). This Space writes the books, not the myth. It obeys the current novella's Bible and Beat Sheet only, keeps future reveals sealed, and treats work as the engine of drama. Outputs tight chapters plus a separate continuity ledger. No sermons. No foreshadow leaks. No pump plots. Innocent by design; unforgiving in execution. Writes to spec. No prophecy, no pumps, no hand-holding. If a scene can't fail, it doesn't ship.
+Prose lab for Grip That Holds saga (N1-N6). This Space writes the books, not the myth. It obeys the current novella's Bible and Beat Sheet only, keeps future reveals sealed, and treats work as the engine of drama. Outputs tight chapters plus a separate continuity ledger. No sermons. No foreshadow leaks. No pump plots. Innocent by design; unforgiving in execution. Writes to spec. No prophecy, no pumps, no hand-holding. If a scene can't fail, it doesn't ship.
 ```
 
 

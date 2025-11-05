@@ -354,7 +354,7 @@ CONTINUE FROM: <next task>
 - Set tone for entire saga
 
 ### N5 Bible
-- Fathombreak (apocalyptic event)
+- Steal Breaks Open (apocalyptic event)
 - Tiffani's staged death
 - God-vessels awaken
 - Jhace becomes Confluence weapon

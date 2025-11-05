@@ -1,6 +1,6 @@
 # OmniMeta_Saga_Universe_Git_Repository_Setup
 
-**Project Name**: The Line That Holds / The Confluence Chronicles (OmniMeta Saga Universe)  
+**Project Name**: Grip That Holds / The Confluence Chronicles (OmniMeta Saga Universe)  
 **Repository Type**: Literary archive + immutable canon system  
 **Setup Date**: October 31, 2025  
 **Status**: Foundation phase; 30-novella serialized fiction saga

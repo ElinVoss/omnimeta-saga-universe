@@ -496,7 +496,7 @@ Only ~33% of vein-sensitive people can achieve full conviction under pressure:
 
 **Danger escalation:**
 - Each dual-wielding use pushes him closer to fivefold-principle paradox capacity
-- Fivefold paradox (wielding all four simultaneously) = Fathombreak trigger (see N5 ending)
+- Fivefold paradox (wielding all four simultaneously) = Steal Breaks Open trigger (see N5 ending)
 
 ### Writer Constraint: Dual-Principle Usage
 
@@ -506,7 +506,7 @@ Only ~33% of vein-sensitive people can achieve full conviction under pressure:
 - N1: First accidental dual-wield (stabilizing child)
 - N2–N4: Learning controlled dual-wield (costs become visible)
 - N4: Extreme dual-wield (Hollowing scene; Tiffani saves him)
-- N5: Fathombreak (all four principles simultaneously; one-time apocalyptic event)
+- N5: Steal Breaks Open (all four principles simultaneously; one-time apocalyptic event)
 
 ❌ **NOT allowed in story:**
 - Any casual dual-wielding (it should feel dangerous, rare, last-resort)

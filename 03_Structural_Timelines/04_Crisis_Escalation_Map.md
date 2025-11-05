@@ -85,7 +85,7 @@ Crises escalate across six Turnings, from **local catastrophe** (N1) to **univer
 
 ---
 
-### N5: Fathombreak (Apocalyptic Event)
+### N5: Steal Breaks Open (Apocalyptic Event)
 **Crisis Type**: God-Awakening + Planetary Fracture  
 **Scale**: Global  
 **Casualties**: Hundreds of thousands (section of world breaks free)  
@@ -106,7 +106,7 @@ Crises escalate across six Turnings, from **local catastrophe** (N1) to **univer
 
 ## TURNING 2: CRACK (N6–N10)
 
-### N6: Post-Fathombreak Recovery
+### N6: Post-Steal Breaks Open Recovery
 **Crisis Type**: Rebuilding + Faction Formation  
 **Scale**: Global  
 **Casualties**: Ongoing attrition (thousands)  

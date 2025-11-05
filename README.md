@@ -161,7 +161,7 @@ The Perplexity Space **MUST** enforce the Dual-Canon Architecture:
 | :--- | :--- | :--- |
 | **Soulpulse** | The latent vein-system activated by The Piercing, enabling the four principles of magic. | **Cost is Cumulative**: Vein-burn and Hollowing must accumulate as tracked in `03_Structural_Timelines/09_Story_Spine_Mapping_Innocent.md`. |
 | **Confluence** | Jhace's unique ability to wield all four Soulpulse principles simultaneously (Wholeness, Form, Purity, Entropy). | **Progression is Linear**: Must follow the capacity progression defined in `03_Structural_Timelines/01_Progression_Timeline_Master.md`. |
-| **Fathombreak (N05)** | The apocalyptic event where Jhace unlocks Confluence and the four God-Vessels awaken. | **Immutable Event**: Marks the transition from the GLASS turning to the CRACK turning. |
+| **Steal Breaks Open (N05)** | The apocalyptic event where Jhace unlocks Confluence and the four God-Vessels awaken. | **Immutable Event**: Marks the transition from the GLASS turning to the CRACK turning. |
 | **God-Vessels** | Four mortals (Xilcore, Leesa, Blemo, Seeri) transformed into divine embodiments of the four Soulpulse principles. | **Faction Doctrine is Fixed**: Their motivations and actions must align with their respective principles (Form, Wholeness, Purity, Entropy). |
 | **Civic-Ledger Spine** | The core, non-negotiable facts of the narrative (deaths, major events) tracked in `09_Story_Spine_Mapping_Innocent.md`. | **NO RETCONS**: Any event marked in the spine is an absolute truth within the innocent frame. |
 

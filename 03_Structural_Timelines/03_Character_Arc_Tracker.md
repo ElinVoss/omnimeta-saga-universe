@@ -26,7 +26,7 @@
 - N2: Coordinates crews, deepens relationship with Tiffani, learns sustainable pacing
 - N3: Bram dies, first major grief event, guilt spiral begins
 - N4: Collapses from Hollowing, saved by Tiffani, accepts her mystery
-- N5: Tiffani dies (staged), grief triggers Fathombreak, becomes Confluence weapon
+- N5: Tiffani dies (staged), grief triggers Steal Breaks Open, becomes Confluence weapon
 
 **CRACK (N6–N10)**:
 - N6: Processes Tiffani's death through teaching, Marisse appears
@@ -65,7 +65,7 @@
 
 ### Physical Degradation
 - **N1**: Hands callused, first tremors
-- **N5**: Hands scarred from Fathombreak
+- **N5**: Hands scarred from Steal Breaks Open
 - **N10**: Chronic tremor, exhaustion visible
 - **N15**: Hands bleeding intermittently from sustained use
 - **N20**: Near Hollowing threshold
@@ -101,7 +101,7 @@
 
 ### Arc Overview (Guilty Frame)
 **N1**: Auditor arrives → Forges partnership → Teaches Jhace  
-**N5**: Stages death → Triggers Fathombreak → Withdraws to hidden observation  
+**N5**: Stages death → Triggers Steal Breaks Open → Withdraws to hidden observation  
 **N6–N29**: Hidden operations (manipulates god-vessels, positions allies/enemies)  
 **N30**: Returns → Confesses orchestration → Collapses universe  
 
@@ -112,7 +112,7 @@
 - N2: Confesses Senna's death, vulnerability increases
 - N3: Supports Jhace through Bram's death
 - N4: Saves Jhace from Hollowing using dual-principle healing, confesses partial truth
-- N5: Stages death to trigger Fathombreak, final words: "I love you"
+- N5: Stages death to trigger Steal Breaks Open, final words: "I love you"
 
 **CRACK–CLEAR (N6–N29)**:
 - **Innocent Frame**: Dead, memory drives Jhace
@@ -148,7 +148,7 @@
 - **N1**: Witnesses Jhace's Wholeness use, asks to be taught, first lessons
 - **N2**: Competent apprentice, teaches others
 - **N3**: Witnesses cost (Bram's death, poisoning victims)
-- **N5**: Survives Fathombreak, traumatized but committed
+- **N5**: Survives Steal Breaks Open, traumatized but committed
 - **N6–N9**: Becomes one of Jhace's most reliable students, leads training
 - **N9 Ch.11**: **DIES** in god-vessel conflict (crushed in collapsing building)
 
@@ -184,7 +184,7 @@
 ### Detailed Progression
 - **N1**: Rival craftsperson, spreads rumors about Jhace
 - **N3**: Poisoning crisis forces cooperation, witnesses Jhace's limits, respects him
-- **N4–N5**: Conversion complete, helps during Fathombreak aftermath
+- **N4–N5**: Conversion complete, helps during Steal Breaks Open aftermath
 - **N6–N15**: Becomes Jhace's trusted lieutenant, manages logistics
 - **N15 Ch.15**: **DIES** defending resistance position (sacrifices self for evacuation)
 
@@ -222,28 +222,28 @@
 ## GOD-VESSELS (ALL FOUR)
 
 ### Xilcore/Corlexi (Form)
-- **N5 Ch.15**: Awakens during Fathombreak (Shatterholm)
+- **N5 Ch.15**: Awakens during Steal Breaks Open (Shatterholm)
 - **N6–N10**: Builds Corlexi faction, geometric obsession escalates
 - **N11**: First confrontation with Jhace, attempts to "correct" his paradox
 - **N26–N29**: Battle Royale, trapped in fivefold stasis
 - **N30**: Learns orchestration truth, ceases when universe collapses
 
 ### Leesa/Salee (Wholeness)
-- **N5 Ch.15**: Awakens during Fathombreak (Forgeport)
+- **N5 Ch.15**: Awakens during Steal Breaks Open (Forgeport)
 - **N6–N10**: Builds Salee faction, compassion becomes coercion
 - **N11**: Claims Jhace as "chosen vessel"
 - **N26–N29**: Battle Royale, trapped in fivefold stasis
 - **N30**: Learns orchestration truth, ceases when universe collapses
 
 ### Blemo/Mobel (Purity)
-- **N5 Ch.15**: Awakens during Fathombreak (Cauldron-Hold)
+- **N5 Ch.15**: Awakens during Steal Breaks Open (Cauldron-Hold)
 - **N6–N10**: Builds Mobel faction, purge operations begin
 - **N11**: Sees Jhace as "ultimate contamination"
 - **N26–N29**: Battle Royale, trapped in fivefold stasis
 - **N30**: Learns orchestration truth, ceases when universe collapses
 
 ### Seeri/Eries (Entropy)
-- **N5 Ch.15**: Awakens during Fathombreak (Velocity-Heights)
+- **N5 Ch.15**: Awakens during Steal Breaks Open (Velocity-Heights)
 - **N6–N10**: Builds Eries faction, release doctrine spreads
 - **N11**: Offers Jhace peaceful death (first of many)
 - **N26–N29**: Battle Royale, trapped in fivefold stasis, accepts paradox peacefully
@@ -318,14 +318,14 @@
 
 ### Petran Family (Civilian Survivors)
 - **N1**: Rescued during Piercing aftermath
-- **N5**: Survive Fathombreak
+- **N5**: Survive Steal Breaks Open
 - **N9**: Miri (daughter) learns basic Soulpulse from Jhace
 - **N15**: Family joins resistance as support staff
 - **N19**: Petran (father) **DIES** in siege; Sielle (mother) and Miri survive
 
 ### Old Torven (Witness)
 - **N1**: Witnesses Piercing, provides historical context
-- **N5**: Survives Fathombreak
+- **N5**: Survives Steal Breaks Open
 - **N6–N20**: Provides oral history, pattern recognition
 - **N23 Ch.15**: **DIES** of old age (natural death, rare in saga)
 
@@ -336,7 +336,7 @@
 ### Inspector Harven (Sanitist)
 - **N1–N5**: Attempts to suppress Soulpulse use
 - **N5**: Deploys suppression device that kills Tiffani
-- **N6–N11**: Post-Fathombreak attempts to maintain control
+- **N6–N11**: Post-Steal Breaks Open attempts to maintain control
 - **N11 Ch.15**: **DIES** in god-vessel crossfire (crushed in collapse)
 
 ### Councilor Vren (Civic Authority)

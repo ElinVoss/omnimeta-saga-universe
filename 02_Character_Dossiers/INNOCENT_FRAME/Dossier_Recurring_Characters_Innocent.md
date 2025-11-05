@@ -33,7 +33,7 @@
 
 **Age**: 26 years (N6)  
 **Role**: Jhace's student; specializes in Form-pattern velding  
-**Background**: Glasspunk worker from Outer Crown; fled to Underface after Fathombreak  
+**Background**: Glasspunk worker from Outer Crown; fled to Underface after Steal Breaks Open  
 
 **Personality**: Precise, patient, perfectionist  
 **Skills**: Advanced velding; teaches others; builds training programs  
@@ -50,7 +50,7 @@
 
 **Age**: 35 years (N7)  
 **Role**: Jhace's student; specializes in Wholeness-pattern brasting  
-**Background**: Forgepunk worker; lost family in Fathombreak; seeks purpose through resistance  
+**Background**: Forgepunk worker; lost family in Steal Breaks Open; seeks purpose through resistance  
 
 **Personality**: Blunt, aggressive, loyal  
 **Skills**: Heavy-force Wholeness work; infrastructure stabilization; combat applications  
@@ -84,7 +84,7 @@
 
 **Age**: 41 years (N9)  
 **Role**: Resistance medic; uses Wholeness-pattern for healing  
-**Background**: Pre-Piercing healer; learned Soulpulse post-Fathombreak  
+**Background**: Pre-Piercing healer; learned Soulpulse post-Steal Breaks Open  
 
 **Personality**: Compassionate, exhausted, determined  
 **Skills**: Wholeness healing; triage; sustainable Soulpulse pacing  
@@ -177,7 +177,7 @@
 
 **Personality**: Rigid, authoritarian, pragmatic  
 **Skills**: Bureaucratic authority; deploys suppression devices  
-**Arc**: Antagonist (N1–N5), deploys device that kills Tiffani (N5), post-Fathombreak attempts control (N6–N11)  
+**Arc**: Antagonist (N1–N5), deploys device that kills Tiffani (N5), post-Steal Breaks Open attempts control (N6–N11)  
 **Death**: N11 Ch.15 — Killed in god-vessel crossfire; crushed by collapsing building  
 
 **Voice**: Authoritarian, rigid. "Unauthorized Soulpulse use is prohibited. Comply or face deportation."
@@ -212,7 +212,7 @@
 
 **Arc**: 
 - N1: Rescued during Piercing aftermath
-- N5: Survive Fathombreak
+- N5: Survive Steal Breaks Open
 - N9: Daughter (Miri) learns basic Soulpulse from Jhace
 - N15: Family joins resistance as support staff
 - N19: Father (Petran) dies in siege; Mother and Daughter survive
@@ -228,7 +228,7 @@
 
 **Personality**: Observant, cynical, survivor  
 **Skills**: Pre-Piercing craft knowledge; oral history; pattern recognition  
-**Arc**: Witnesses Piercing (N1), survives Fathombreak (N5), provides historical context (N6–N20), final testimony (N23)  
+**Arc**: Witnesses Piercing (N1), survives Steal Breaks Open (N5), provides historical context (N6–N20), final testimony (N23)  
 **Death**: N23 Ch.15 — Dies of old age; natural death (rare in saga)  
 
 **Voice**: Gravelly, cynical. "I've seen cities fall before. This is different. This doesn't end."

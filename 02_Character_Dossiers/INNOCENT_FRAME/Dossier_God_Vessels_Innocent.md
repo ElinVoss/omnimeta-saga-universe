@@ -85,7 +85,7 @@ Each god-vessel has two names: **god name** and **vessel name**. These are anagr
 **Principle**: Form — Perfect geometry, rigid structure, mathematical precision  
 **God Name**: Xilcore  
 **Vessel Name**: Corlexi (mortal embodiment)  
-**Awakening**: N5 Ch.15 (during Fathombreak)  
+**Awakening**: N5 Ch.15 (during Steal Breaks Open)  
 **Territory**: Shatterholm (Outer Crown, glasspunk city)  
 
 ### Pre-Awakening (Mortal Identity)
@@ -98,7 +98,7 @@ Each god-vessel has two names: **god name** and **vessel name**. These are anagr
 
 ### Transformation (N5 Ch.15)
 
-**Context**: Fathombreak releases massive principle-energy. Corlexi is in Shatterholm, working on glass cathedral design.
+**Context**: Steal Breaks Open releases massive principle-energy. Corlexi is in Shatterholm, working on glass cathedral design.
 
 **Process**: Form-principle floods into Corlexi. Transformation is agonizing. Body restructures. Mind expands. Humanity erodes.
 
@@ -174,7 +174,7 @@ Each god-vessel has two names: **god name** and **vessel name**. These are anagr
 **Principle**: Wholeness — Healing integration, organic connection, coercive compassion  
 **God Name**: Leesa  
 **Vessel Name**: Salee (mortal embodiment)  
-**Awakening**: N5 Ch.15 (during Fathombreak)  
+**Awakening**: N5 Ch.15 (during Steal Breaks Open)  
 **Territory**: Forgeport (mid-world city)  
 
 ### Pre-Awakening (Mortal Identity)
@@ -187,7 +187,7 @@ Each god-vessel has two names: **god name** and **vessel name**. These are anagr
 
 ### Transformation (N5 Ch.15)
 
-**Context**: Fathombreak releases massive principle-energy. Salee is in Forgeport, healing refugees.
+**Context**: Steal Breaks Open releases massive principle-energy. Salee is in Forgeport, healing refugees.
 
 **Process**: Wholeness-principle floods into Salee. Transformation is ecstatic. Body integrates. Mind expands. Humanity erodes.
 
@@ -263,7 +263,7 @@ Each god-vessel has two names: **god name** and **vessel name**. These are anagr
 **Principle**: Purity — Destructive elimination, cleansing fire, fanatical absolutes  
 **God Name**: Blemo  
 **Vessel Name**: Mobel (mortal embodiment)  
-**Awakening**: N5 Ch.15 (during Fathombreak)  
+**Awakening**: N5 Ch.15 (during Steal Breaks Open)  
 **Territory**: Cauldron-Hold (Underface forgepunk city)  
 
 ### Pre-Awakening (Mortal Identity)
@@ -276,7 +276,7 @@ Each god-vessel has two names: **god name** and **vessel name**. These are anagr
 
 ### Transformation (N5 Ch.15)
 
-**Context**: Fathombreak releases massive principle-energy. Mobel is in Cauldron-Hold, conducting inspection.
+**Context**: Steal Breaks Open releases massive principle-energy. Mobel is in Cauldron-Hold, conducting inspection.
 
 **Process**: Purity-principle floods into Mobel. Transformation is purging. Body cleanses. Mind narrows. Humanity erodes.
 
@@ -352,7 +352,7 @@ Each god-vessel has two names: **god name** and **vessel name**. These are anagr
 **Principle**: Entropy — Graceful release, honest decay, nihilistic mercy  
 **God Name**: Seeri  
 **Vessel Name**: Eries (mortal embodiment)  
-**Awakening**: N5 Ch.15 (during Fathombreak)  
+**Awakening**: N5 Ch.15 (during Steal Breaks Open)  
 **Territory**: Velocity-Heights (Outer Crown aerial city)  
 
 ### Pre-Awakening (Mortal Identity)
@@ -365,7 +365,7 @@ Each god-vessel has two names: **god name** and **vessel name**. These are anagr
 
 ### Transformation (N5 Ch.15)
 
-**Context**: Fathombreak releases massive principle-energy. Eries is in Velocity-Heights, meditating on mortality.
+**Context**: Steal Breaks Open releases massive principle-energy. Eries is in Velocity-Heights, meditating on mortality.
 
 **Process**: Entropy-principle floods into Eries. Transformation is release. Body relaxes. Mind expands. Humanity erodes.
 
@@ -466,7 +466,7 @@ Each god-vessel has two names that are anagrams:
 
 ### Faction Formation (N6–N10)
 
-**Post-Fathombreak**: God-vessels awaken. Begin attracting followers.
+**Post-Steal Breaks Open**: God-vessels awaken. Begin attracting followers.
 
 **Organic Growth**: People practicing each principle are drawn to corresponding vessel.
 

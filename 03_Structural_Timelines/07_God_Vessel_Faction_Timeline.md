@@ -9,7 +9,7 @@
 
 ## AWAKENING (N5)
 
-All four god-vessels awaken simultaneously during Fathombreak:
+All four god-vessels awaken simultaneously during Steal Breaks Open:
 
 - **Xilcore/Corlexi** (Form) — Awakens in Shatterholm
 - **Leesa/Salee** (Wholeness) — Awakens in Forgeport

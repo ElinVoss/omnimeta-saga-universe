@@ -151,7 +151,7 @@ Synthesize all queried information into comprehensive novella bible following te
 
 ### Step 1: Identify Scope
 - **Novella**: N2 (GLASS Turning, Book 2 of 5)
-- **Title**: Stress and Fracture
+- **Title**: Light Cracks Through
 
 ### Step 2: World State
 Query `01_Progression_Timeline_Master.md` → N2 section:
@@ -222,7 +222,7 @@ Synthesize into N2 bible document with all sections filled.
 - Set tone for entire saga
 
 ### N5 Bible
-- Fathombreak (apocalyptic event)
+- Steal Breaks Open (apocalyptic event)
 - Tiffani's staged death
 - God-vessels awaken
 - Jhace becomes Confluence weapon

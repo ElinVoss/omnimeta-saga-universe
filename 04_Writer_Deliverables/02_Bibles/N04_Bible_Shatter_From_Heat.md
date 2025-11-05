@@ -23,7 +23,7 @@ Generate a complete Story Bible for the fourth 15-chapter novella. Internal Soul
 - Marisse's faction growing (opposing Soulpulse use entirely)
 - Practitioner factions solidifying (Jhace's healers vs. Marisse's philosophers vs. power-seekers)
 - Poisoning investigation ongoing (unresolved mystery)
-- First rumors of god-like beings in distant cities (foreshadowing N05 Fathombreak)
+- First rumors of god-like beings in distant cities (foreshadowing N05 Steal Breaks Open)
 
 ### What You MUST NOT Present
 - NO explanation of where Tiffani learned dual-principle
@@ -82,7 +82,7 @@ Generate a complete Story Bible for the fourth 15-chapter novella. Internal Soul
   - **Power-Seekers**: Pushing Form and Purity principles (unnamed but present)
 - Relationship strained but solid (Jhace trusts Tiffani despite mystery)
 - Vein-shatter crisis officially ended
-- Distant reports of god-like beings intensifying (N05 Fathombreak imminent)
+- Distant reports of god-like beings intensifying (N05 Steal Breaks Open imminent)
 
 ---
 
@@ -101,7 +101,7 @@ Same 13 sections with N04-specific content:
 10. Beats ↔ Scenes Map
 11. Forbidden Lexicon Gate (LAWTEST)
 12. LAWTEST Checklist
-13. Mission Statement (N04's role: internal crisis emerges; mystery deepens; Fathombreak imminent)
+13. Mission Statement (N04's role: internal crisis emerges; mystery deepens; Steal Breaks Open imminent)
 
 ---
 
@@ -148,6 +148,6 @@ Same 13 sections with N04-specific content:
 ✅ Tiffani's mystery revealed partially (creates tension)  
 ✅ Faction splits feel organic (ideological, not manipulated)  
 ✅ Innocence protocol maintained  
-✅ Sets up N05 Fathombreak climax  
+✅ Sets up N05 Steal Breaks Open climax  
 
 **SAVE AS**: N04_Bible_Shatter_From_Heat_COMPLETED.md

@@ -62,7 +62,7 @@ Each Custom GPT prompt should follow this structure:
 ### Step 2: Define Mission
 Based on novella's role in saga:
 - **N1**: Establish world, introduce Jhace, form partnership
-- **N5**: Fathombreak, Tiffani's sacrifice, god-awakening
+- **N5**: Steal Breaks Open, Tiffani's sacrifice, god-awakening
 - **N15**: Siege survival, Kylar's death
 - **N29**: Fivefold stasis achieved
 - **N30**: Orchestration revealed, universe collapses
@@ -123,7 +123,7 @@ Checklist specific to this novella:
 ```markdown
 ## MISSION STATEMENT
 
-You are a prose-writing GPT configured to generate **N2: Stress and Fracture**, the second novella in the 30-book OmniMeta Saga. Your task is to write immersive, character-driven prose that deepens Jhace's partnership with Tiffani, expands his teaching network, and depicts infrastructure degradation as chronic crisis.
+You are a prose-writing GPT configured to generate **N2: Light Cracks Through**, the second novella in the 30-book OmniMeta Saga. Your task is to write immersive, character-driven prose that deepens Jhace's partnership with Tiffani, expands his teaching network, and depicts infrastructure degradation as chronic crisis.
 
 **Core Mandate**: Write innocent-frame prose. You have ZERO knowledge of orchestration, Auditor identity, or guilty canon. Everything you write must feel organic, earned, and emotionally authentic.
 ```
@@ -236,7 +236,7 @@ Your N2 prose is successful if:
 - Sets tone for entire saga
 
 ### N5 Prompt
-- Fathombreak sequence requires special handling
+- Steal Breaks Open sequence requires special handling
 - Tiffani's sacrifice must feel genuine (innocent frame)
 - God-vessel awakening shown through Jhace's limited POV
 - Grief-driven power unlock (four-principle simultaneity)

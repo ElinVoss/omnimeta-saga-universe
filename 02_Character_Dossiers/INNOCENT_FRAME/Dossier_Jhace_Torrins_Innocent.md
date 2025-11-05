@@ -88,7 +88,7 @@ This contradiction creates narrative tension: he never seeks power, yet power ac
 | **N2 End** | 54% loss | 36% loss | Slow recovery via Wholeness self-healing |
 | **N3 End** | 52% loss | 34% loss | Improving, but Bram's death causes regression |
 | **N4 Crisis** | 62% loss | 42% loss | Hollowing; complete neurological shutdown |
-| **N5 Post-Fathombreak** | 48% loss | 28% loss | New capacity unlocked; appears improved |
+| **N5 Post-Steal Breaks Open** | 48% loss | 28% loss | New capacity unlocked; appears improved |
 
 **Narrative significance**: Readers track his physical decline as visible cost of magic use. Recovery periods show Wholeness self-healing, but each crisis pushes him closer to permanent damage.
 
@@ -150,7 +150,7 @@ This contradiction creates narrative tension: he never seeks power, yet power ac
 
 **Bram's death (N3)**: Mentor figure dies from poisoning Jhace couldn't prevent. Triggers guilt spiral and Hollowing crisis in N4.
 
-**Tiffani's death (N5)**: Maximum grief. Fathombreak is not intentional—it is involuntary apocalypse triggered by loss of the only person he allowed himself to need.
+**Tiffani's death (N5)**: Maximum grief. Steal Breaks Open is not intentional—it is involuntary apocalypse triggered by loss of the only person he allowed himself to need.
 
 ---
 
@@ -172,7 +172,7 @@ This contradiction creates narrative tension: he never seeks power, yet power ac
 - **N1–N2**: Accidental healing; infrastructure stabilization
 - **N3**: Attempts to heal poisoned victims; several die; learns limits
 - **N4**: Discovers Wholeness self-healing (slow recovery of hand function)
-- **N5**: Fathombreak unlocks all four principles simultaneously
+- **N5**: Steal Breaks Open unlocks all four principles simultaneously
 
 ### Secondary Principle: Entropy/Decay Hybrid
 
@@ -204,7 +204,7 @@ This contradiction creates narrative tension: he never seeks power, yet power ac
 
 **Terminal Risk: Hollowing** (N4 crisis): Complete neurological burnout. Channels shred. Potential death. Tiffani saves him using impossible dual-principle healing, revealing her true power.
 
-### Fathombreak (N5): Four-Principle Simultaneity
+### Steal Breaks Open (N5): Four-Principle Simultaneity
 
 **Trigger**: Tiffani's death. Maximum grief. Involuntary power explosion.
 
@@ -248,7 +248,7 @@ This contradiction creates narrative tension: he never seeks power, yet power ac
 
 **N4**: Jhace's Hollowing crisis. Tiffani saves him using impossible dual-principle healing. He witnesses her true power. Questions who she really is. She confesses partial truth: trained exceptionally, cannot say by whom, doesn't want him to leave. He accepts mystery because he loves her.
 
-**N5**: Maximum intimacy. Tiffani chooses sacrifice to shield Jhace from Sanitist suppression device. Final words: "I love you." Dies in his arms. Fathombreak is his grief-response.
+**N5**: Maximum intimacy. Tiffani chooses sacrifice to shield Jhace from Sanitist suppression device. Final words: "I love you." Dies in his arms. Steal Breaks Open is his grief-response.
 
 **N6–N29**: Tiffani is dead (innocent frame). Jhace carries her memory. Every decision filtered through "what would Tiffani do?" Grief becomes fuel.
 
@@ -275,7 +275,7 @@ This contradiction creates narrative tension: he never seeks power, yet power ac
 **Arc**:
 - **N1–N2**: Kylar resents Jhace's skill; spreads rumors
 - **N3**: Poisoning crisis forces cooperation; Kylar witnesses Jhace's limits
-- **N4–N5**: Kylar helps during Fathombreak aftermath; guilt over prior antagonism
+- **N4–N5**: Kylar helps during Steal Breaks Open aftermath; guilt over prior antagonism
 - **N6–N15**: Becomes trusted lieutenant in resistance efforts
 
 **Significance**: Demonstrates Jhace's capacity to convert enemies through competence and shared purpose.
@@ -311,7 +311,7 @@ This contradiction creates narrative tension: he never seeks power, yet power ac
 
 **Dynamic**: Jhace views them as obstacles to survival. They view him as dangerous anomaly.
 
-**Key Conflict** (N5): Sanitist suppression device kills Tiffani. Jhace's Fathombreak destroys their infrastructure.
+**Key Conflict** (N5): Sanitist suppression device kills Tiffani. Jhace's Steal Breaks Open destroys their infrastructure.
 
 #### God-Vessels (N6–N30)
 
@@ -326,13 +326,13 @@ This contradiction creates narrative tension: he never seeks power, yet power ac
 
 ## 6. CHARACTER ARC ACROSS 30 NOVELLAS
 
-### GLASS (N1–N5): Fracture, Love, Manipulation, Fathombreak
+### GLASS (N1–N5): Fracture, Love, Manipulation, Steal Breaks Open
 
 **N1**: Isolation → Partnership  
 **N2**: Competence → Vulnerability  
 **N3**: Grief → Witnessing  
 **N4**: Addiction → Discipline  
-**N5**: Love → Sacrifice → Fathombreak  
+**N5**: Love → Sacrifice → Steal Breaks Open  
 
 **Transformation**: Solitary worker becomes partner, lover, and inadvertent weapon.
 
@@ -414,7 +414,7 @@ Jhace overworks to the point of neurological collapse. Tiffani saves him using i
 
 **Transformation**: Addiction → Discipline; Mystery → Acceptance
 
-### N5 Ch.15: Tiffani's Death & Fathombreak
+### N5 Ch.15: Tiffani's Death & Steal Breaks Open
 
 Sanitist suppression device threatens Jhace. Tiffani chooses sacrifice. Dies shielding him. Final words: "I love you." Jhace's grief triggers involuntary four-principle explosion. Section of world breaks free. Mass casualties. Gods fully manifest.
 
@@ -544,7 +544,7 @@ Tiffani returns. Reveals orchestration. Jhace learns the truth: every crisis was
 ### Core Fears
 
 1. **Incompetence**: If he can't fix it, he has no value
-2. **Loss of control**: Fathombreak proved he can destroy without intention
+2. **Loss of control**: Steal Breaks Open proved he can destroy without intention
 3. **Abandonment**: Tiffani's death confirmed his worst fear (everyone leaves)
 4. **Becoming weapon**: Resists leadership because it means accepting destructive capacity
 5. **Hollowing**: Terminal burnout; losing ability to work means losing identity
@@ -567,7 +567,7 @@ Tiffani returns. Reveals orchestration. Jhace learns the truth: every crisis was
 
 **Love vs. Loss**: Tiffani's presence was necessary; her death shattered him; refuses new intimacy
 
-**Weapon vs. Person**: Fathombreak made him destructive force; resists accepting this identity
+**Weapon vs. Person**: Steal Breaks Open made him destructive force; resists accepting this identity
 
 ---
 

@@ -5,7 +5,7 @@
 • SourceMap loaded @ 9b842199ca4b54cf7dd8184525ac7d388da403cf
 • Foundation ledger @ 3475ee932d87535e7f3fb90166bfa4906b243c25 (immutable)
 • Canon stance: INNOCENT ONLY; Forbidden Lexicon + LAW_TEST enforced
-• Task: Generate N01 bible (The Line That Holds)
+• Task: Generate N01 bible (Grip That Holds)
 • Outputs: N01_Bible_The_Line_That_Holds.md → 04_Writer_Deliverables/02_Bibles/
 • Session-close: list files + new commit SHA + "CONTINUE FROM: Generate N01 prose engine prompt"
 
@@ -40,7 +40,7 @@ If you cannot complete self-verification, STOP and report error. Do not proceed.
 ## CUSTOMIZATION FOR OTHER SESSIONS
 
 For N02, N03, etc., update:
-- **Task**: "Generate N02 bible (Stress and Fracture)"
+- **Task**: "Generate N02 bible (Light Cracks Through)"
 - **Outputs**: "N02_Bible_Stress_and_Fracture.md → 04_Writer_Deliverables/02_Bibles/"
 - **Session-close**: "CONTINUE FROM: Generate N02 prose engine prompt"
 

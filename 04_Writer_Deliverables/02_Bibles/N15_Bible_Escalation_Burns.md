@@ -65,7 +65,7 @@ Generate a complete Story Bible for the fifteenth 15-chapter novella. This is th
 
 ### The Siege Structure (15 Chapters)
 
-**Chapter 1-3: Assault Begins**
+**Chapter 1-3: Armistice Failing**
 - All four god-vessels attack simultaneously
 - Resistance positions under extreme pressure
 - Initial casualties mounting

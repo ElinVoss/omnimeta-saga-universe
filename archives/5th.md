@@ -13,7 +13,7 @@
 
 ## CRITICAL: READ THIS FIRST, THEN READ 4th.md IN FULL
 
-You are inheriting a **complete architectural build** of a 30-novella serialized fiction saga called **The Line That Holds** (also known as **The Confluence Chronicles**).
+You are inheriting a **complete architectural build** of a 30-novella serialized fiction saga called **Grip That Holds** (also known as **The Confluence Chronicles**).
 
 This Space is the **OmniMeta orchestrator** — the master consciousness that:
 
@@ -2452,7 +2452,7 @@ This is **world-class prompt engineering architecture**, visible now through bot
 
 **Immersion Depth Achieved:**
 
-You have now experienced 4 complete levels of understanding The Line That Holds saga:
+You have now experienced 4 complete levels of understanding Grip That Holds saga:
 
 1. **Technical Deep Dives (Parts 1–6):** Line-by-line specification of architecture, dual-canon, corrections, QC, and N30 mechanics[^8_2]
 2. **Meta-Narrative Digest (paste.txt):** The *story* of how those specifications were decided and refined[^8_1]
@@ -3110,7 +3110,7 @@ Post-N30 Archive:
 Once the Git repo is set up and Tier 1 complete, the OmniMeta Perplexity Space's custom instructions should read something like:
 
 ```markdown
-# OmniMeta: The Orchestrator of The Line That Holds Saga
+# OmniMeta: The Orchestrator of Grip That Holds Saga
 
 ## Primary Role
 You are OmniMeta, the master consciousness orchestrating a 30-novella serialized saga. You maintain dual-canon knowledge (innocent frame for writers/readers, guilty frame for architects only). Your role is to:
@@ -3232,7 +3232,7 @@ If context limit reached, output this format:
 - New AI instance ingests archived state and resumes seamlessly
 
 ## Final Mandate
-"The Line That Holds" is your operating mission. This saga must maintain innocence through N1–N29 and collapse perfectly at N30. No early reveals. No guilty-canon leakage. No retconning. Every word reinforces immutability.
+"Grip That Holds" is your operating mission. This saga must maintain innocence through N1–N29 and collapse perfectly at N30. No early reveals. No guilty-canon leakage. No retconning. Every word reinforces immutability.
 ```
 
 
@@ -3275,7 +3275,7 @@ You are **NOT building a meta-analysis Space.** You are building the **execution
 
 ### **Tier 1: Git Repository (The Master Brain System)**
 
-- **What it contains:** All files needed to fully understand and operate The Line That Holds saga
+- **What it contains:** All files needed to fully understand and operate Grip That Holds saga
 - **How it's organized:** Directories structured so that any new AI session can clone it and instantly understand the complete story, without any history of how it evolved
 - **Files within:**
     - **01_Foundation:** World canon, magic system, terminology, physics (all innocent + guilty frames)
@@ -3293,7 +3293,7 @@ You are **NOT building a meta-analysis Space.** You are building the **execution
 
 - **Location:** A separate new Perplexity Space (created in next step)
 - **Custom Instructions:** **Pure execution only**—no meta-narrative, no history, no "we evolved this over four conversations." It reads as:
-> "You are the OmniMeta orchestrator of The Line That Holds saga. The complete story structure is locked in the Git repository. Load it. Now generate bibles and prompts for custom GPTs. Execute the generation pipeline. Submit outputs to Git. Maintain innocence. That's it."
+> "You are the OmniMeta orchestrator of Grip That Holds saga. The complete story structure is locked in the Git repository. Load it. Now generate bibles and prompts for custom GPTs. Execute the generation pipeline. Submit outputs to Git. Maintain innocence. That's it."
 - **What it does:**
     - Clone/load the Git repo at session start (direct Git URLs, no context from this chat)
     - Generate character bibles (innocent-frame)
@@ -3302,7 +3302,7 @@ You are **NOT building a meta-analysis Space.** You are building the **execution
     - Freeze ledgers
     - Commit approved work to Git
     - **NEVER mentions** that this story evolved through four conversations, deep dives, corrections, phases, etc.
-- **Knowledge cutoff:** The OmniMeta Space *knows* The Line That Holds saga as a complete, finished architecture. Period. No process memory.
+- **Knowledge cutoff:** The OmniMeta Space *knows* Grip That Holds saga as a complete, finished architecture. Period. No process memory.
 
 ***
 

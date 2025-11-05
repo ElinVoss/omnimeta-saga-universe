@@ -65,7 +65,7 @@ Jhace's Soulpulse capacity evolves from **instinctive Wholeness** (N1) to **five
 
 ### N5: Four-Principle Simultaneity (Confluence)
 **Capacity**: Wholeness + Form + Purity + Entropy simultaneously  
-**Trigger**: Fathombreak — grief-driven involuntary explosion  
+**Trigger**: Steal Breaks Open — grief-driven involuntary explosion  
 **Advancement**: Becomes Confluence weapon (can hold all four principles at once)  
 **Teaching**: Cannot teach this (unique to Jhace)  
 **Cost**: Hands scarred, vein-burn accelerates, terminal trajectory begins  
@@ -73,7 +73,7 @@ Jhace's Soulpulse capacity evolves from **instinctive Wholeness** (N1) to **five
 
 ---
 
-### N6: Post-Fathombreak Control
+### N6: Post-Steal Breaks Open Control
 **Capacity**: Four-principle control improving  
 **Trigger**: Marisse teaches advanced Form techniques  
 **Advancement**: Can use four principles intentionally (not just involuntarily)  
@@ -211,7 +211,7 @@ Jhace's teaching evolves as his capacity grows:
 ## UNIQUE ASPECTS
 
 ### Why Jhace Can Hold Fivefold
-1. **Grief-Forged**: Fathombreak unlocked four-principle capacity through trauma
+1. **Grief-Forged**: Steal Breaks Open unlocked four-principle capacity through trauma
 2. **Teaching Practice**: Teaching others deepened his understanding
 3. **Cost Acceptance**: Willingness to die enables terminal techniques
 4. **Paradox Embodiment**: Jhace himself is paradox (loves and grieves simultaneously)
