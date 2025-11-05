@@ -21,7 +21,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ## TURNING 1: GLASS (N1–N5)
 
-### N1: The Line That Holds
+### N01: Grip That Holds
 
 **Major Events:**
 - The Piercing occurs (Ch.3) — projectile tears through Te'Oga
@@ -47,7 +47,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N2: Stress and Fracture
+### N02: Light Cracks Through
 
 **Major Events:**
 - Stress-riser from N1 overwork threatens collapse
@@ -74,7 +74,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N3: Poison and Grief
+### N03: Alloy Folded Wrong
 
 **Major Events:**
 - Civic corruption causes water contamination
@@ -102,7 +102,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N4: Hollowing and Revelation
+### N04: Shatter From Heat
 
 **Major Events:**
 - Jhace overworks to neurological collapse (Hollowing crisis)
@@ -128,7 +128,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N5: Fathombreak
+### N05: Steal Breaks Open
 
 **Major Events:**
 - Sanitist suppression device deployed
@@ -161,7 +161,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ## TURNING 2: CRACK (N6–N10)
 
-### N6: Aftermath and Teaching
+### N06: Called From Refuge
 
 **Major Events:**
 - Post-Fathombreak recovery begins
@@ -188,7 +188,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N7: Faction Emergence
+### N07: Resonance Awakens
 
 **Major Events:**
 - God-vessel factions solidify (Corlexi, Salee, Mobel, Eries)
@@ -213,7 +213,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N8: Cost and Mortality
+### N08: Adaptation's Cost
 
 **Major Events:**
 - Marisse dies from Hollowing (decades of Soulpulse cost)
@@ -238,7 +238,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N9: Loss and Resolve
+### N09: Creation's Test
 
 **Major Events:**
 - Chloen dies in god-vessel conflict (caught between Xilcore and Blemo factions)
@@ -263,7 +263,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N10: Sabotage and Fracture
+### N10: Knowledge Demanded
 
 **Major Events:**
 - Infrastructure sabotage by god-vessel factions
@@ -292,7 +292,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ## TURNING 3: FORGE (N11–N15)
 
-### N11: Doctrine Wars
+### N11: Forging the Sacred
 
 **Major Events:**
 - First direct confrontations with all four god-vessels
@@ -318,7 +318,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N12: Refugees and Testimony
+### N12: Order Sought
 
 **Major Events:**
 - Halrick (Mobel refugee) provides testimony about purges
@@ -342,7 +342,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N13: Escalation and Alliance
+### N13: Resistance Grows
 
 **Major Events:**
 - God-vessel factions escalate to open warfare
@@ -367,7 +367,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N14: Siege Preparation
+### N14: Gods Entrench
 
 **Major Events:**
 - God-vessel factions prepare for major siege
@@ -392,7 +392,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N15: Siege and Sacrifice
+### N15: Escalation Burns
 
 **Major Events:**
 - Major siege begins (all four factions attack)
@@ -421,7 +421,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ## TURNING 4: SMELT (N16–N20)
 
-### N16: Attrition and Hardening
+### N16: Separation Deepens
 
 **Major Events:**
 - Post-siege recovery
@@ -446,7 +446,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N17: Defection and Intelligence
+### N17: Material Degradation
 
 **Major Events:**
 - Selwin (Corlexi defector) joins resistance
@@ -471,7 +471,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N18: Grinding Wars
+### N18: Erosion's Edge
 
 **Major Events:**
 - Corridor wars intensify
@@ -496,7 +496,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N19: Family and Stakes
+### N19: Losses Mount
 
 **Major Events:**
 - Petran family (civilian survivors) integrated into resistance
@@ -521,7 +521,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N20: Breaking Point
+### N20: Threshold Approached
 
 **Major Events:**
 - Jessa dies defending resistance position
@@ -550,7 +550,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ## TURNING 5: CLEAR (N21–N25)
 
-### N21: Corridor Defense
+### N21: Convergence Rising
 
 **Major Events:**
 - Final corridor wars
@@ -575,7 +575,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N22: Healer's Cost
+### N22: Loyalty Tested
 
 **Major Events:**
 - Rennik dies from Hollowing (overwork during siege)
@@ -600,7 +600,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N23: Witness and History
+### N23: Each Faction Stands
 
 **Major Events:**
 - Old Torven dies of natural death (rare in saga)
@@ -625,7 +625,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N24: Purge and Resistance
+### N24: Armistice Failing
 
 **Major Events:**
 - Lysenne (Mobel lieutenant) final confrontation
@@ -650,7 +650,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N25: Convergence
+### N25: Reckoning Ready
 
 **Major Events:**
 - Mourne (Eries defector) dies defending civilians
@@ -679,7 +679,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ## TURNING 6: BREAK (N26–N30)
 
-### N26: Battle Royale Begins
+### N26: Breaking Point Reached
 
 **Major Events:**
 - All four god-vessels + Jhace in same location
@@ -704,7 +704,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N27: Escalation
+### N27: Revelation Unfolds
 
 **Major Events:**
 - Thessa (Salee lieutenant) attempts to integrate Jhace
@@ -729,7 +729,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N28: Release Offered
+### N28: Echoes End
 
 **Major Events:**
 - Daric (Eries lieutenant) offers Jhace final release
@@ -754,7 +754,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N29: Fivefold Stasis
+### N29: Apex of Stasis
 
 **Major Events:**
 - Jhace achieves fivefold stasis (all four principles + Confluence)
@@ -782,7 +782,7 @@ This document provides a comprehensive timeline of the OmniMeta Saga across all 
 
 ---
 
-### N30: Revelation and Collapse
+### N30: Knowing Everything
 
 **Major Events:**
 - Tiffani returns (reveals she never died)

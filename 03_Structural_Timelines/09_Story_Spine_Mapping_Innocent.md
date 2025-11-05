@@ -108,7 +108,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N05: Steal Breaks Open (Fathombreak)
+### N05: Steal Breaks Open
 
 **Core Spine Events**:
 - Fathombreak (apocalyptic event)
@@ -138,7 +138,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ## CRACK TURNING (N6-N10)
 
-### N06: Control Spreads Wide
+### N06: Called From Refuge
 
 **Core Spine Events**:
 - Marisse appears (new character)
@@ -160,7 +160,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N07: Ruins Form Five
+### N07: Resonance Awakens
 
 **Core Spine Events**:
 - Five factions solidify (Form, Wholeness, Purity, Entropy, Resistance)
@@ -180,7 +180,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N08: Ash and Hunger
+### N08: Adaptation's Cost
 
 **Core Spine Events**:
 - Soulpulse addiction epidemic
@@ -200,7 +200,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N09: Coalition Rises
+### N09: Creation's Test
 
 **Core Spine Events**:
 - Movement organizes (coalition forms)
@@ -220,7 +220,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N10: Keeping Each Banner
+### N10: Knowledge Demanded
 
 **Core Spine Events**:
 - Factions solidify identities
@@ -242,7 +242,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ## FORGE TURNING (N11-N15)
 
-### N11: Fires Burn Out
+### N11: Forging the Sacred
 
 **Core Spine Events**:
 - Soulpulse addiction burnout
@@ -261,7 +261,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N12: Open the Anvil
+### N12: Order Sought
 
 **Core Spine Events**:
 - Training intensifies (Confluence teaching)
@@ -280,7 +280,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N13: Reckon with Divine
+### N13: Resistance Grows
 
 **Core Spine Events**:
 - First god battle (Jhace vs god-vessel)
@@ -299,7 +299,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N14: Grind Steel Sharp
+### N14: Gods Entrench
 
 **Core Spine Events**:
 - Confluence teaching refined
@@ -318,7 +318,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N15: Each Faction Burns
+### N15: Escalation Burns
 
 **Core Spine Events**:
 - Five-way conflict (all factions at war)
@@ -339,7 +339,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ## SMELT TURNING (N16-N20)
 
-### N16: Slowly Mend
+### N16: Separation Deepens
 
 **Core Spine Events**:
 - Recovery phase begins
@@ -358,7 +358,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N17: Melted Collateral
+### N17: Material Degradation
 
 **Core Spine Events**:
 - Casualties mount (melted collateral)
@@ -377,7 +377,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N18: Embered Defectors
+### N18: Erosion's Edge
 
 **Core Spine Events**:
 - More defectors join Jhace (embered allies)
@@ -396,7 +396,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N19: Last Before Breaking
+### N19: Losses Mount
 
 **Core Spine Events**:
 - Final preparation before breaking point
@@ -416,7 +416,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N20: Tempering in Battle
+### N20: Threshold Approached
 
 **Core Spine Events**:
 - Form vs. Balance battle
@@ -438,7 +438,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ## CLEAR TURNING (N21-N25)
 
-### N21: Confluence Hunted
+### N21: Convergence Rising
 
 **Core Spine Events**:
 - Gods coordinate to hunt Confluence users
@@ -458,7 +458,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N22: Link the Gods
+### N22: Loyalty Tested
 
 **Core Spine Events**:
 - God-vessel alliance forms
@@ -478,7 +478,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N23: Edge All Weapons
+### N23: Each Faction Stands
 
 **Core Spine Events**:
 - Final preparation (edge all weapons)
@@ -497,7 +497,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N24: Assault Begins
+### N24: Armistice Failing
 
 **Core Spine Events**:
 - Battle phase one begins
@@ -516,7 +516,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N25: Resist and Hold
+### N25: Reckoning Ready
 
 **Core Spine Events**:
 - Defense holds against gods
@@ -537,7 +537,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ## BREAK TURNING (N26-N30)
 
-### N26: Banners Split Apart
+### N26: Breaking Point Reached
 
 **Core Spine Events**:
 - Alliances break (banners split)
@@ -556,7 +556,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N27: Remembered Ghosts
+### N27: Revelation Unfolds
 
 **Core Spine Events**:
 - Memory haunting (ghosts of past)
@@ -575,7 +575,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N28: Everything Melts
+### N28: Echoes End
 
 **Core Spine Events**:
 - Crucible warfare (everything melts)
@@ -594,7 +594,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N29: Ash and Quenching
+### N29: Apex of Stasis
 
 **Core Spine Events**:
 - Gods battle royale (all four fight)
@@ -613,7 +613,7 @@ This document tracks the **immutable story spine** — the core events, characte
 
 ---
 
-### N30: Keeping the Silence
+### N30: Knowing Everything
 
 **Core Spine Events**:
 - Orchestration revealed (Tiffani returns as Auditor)
